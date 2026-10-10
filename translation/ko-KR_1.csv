@@ -1,0 +1,2175 @@
+key,value
+t_said_not_well_enough_to_sleep,몸이 안 좋아서 잠이 안 와...
+t_said_not_tired_enough_to_sleep,아직 잘 만큼 피곤하진 않아...
+t_said_cant_sleep_in_bad_beds_low_tier,이런 침대에선 절대 안 자!
+t_said_cant_sleep_in_bad_beds_filthy,침대가 너무 더러워...
+t_term_device_cannot_be_opened,장치 '{[1]}'을(를) 열 수 없음
+t_term_device_requires_power,장치 '{[1]}'에 전원 필요
+t_term_device_locked,장치 '{[1]}' 잠김
+t_term_device_holding_back_vacuum,장치 '{[1]}'이(가) 진공을 막고 있음
+t_term_door_is_already_closed,문 '{[1]}' 이미 닫혀 있음
+t_term_door_is_closing,문 '{[1]}' 닫는 중...
+t_term_door_cannot_be_closed_in_operation,"문 '{[1]}' 닫을 수 없음, 작동 중"
+t_term_device_cannot_be_toggled,장치 '{[1]}' 전환 불가
+t_term_door_is_opening,문 '{[1]}' 여는 중...
+t_term_door_cannot_be_toggled_in_operation,"문 '{[1]}' 전환 불가, 작동 중"
+t_term_light_is_off,조명 '{[1]}' 꺼짐...
+t_term_light_is_on,조명 '{[1]}' 켜짐...
+t_term_light_cannot_be_toggled_in_state,"조명 '{[1]}' 전환 불가, 상태: {[2]}"
+t_name_cleanup_tool_hand,맨손
+t_name_cleanup_tool_short_blade,짧은 날붙이
+t_name_cleanup_tool_long_blade,긴 날붙이
+t_name_cleanup_tool_short_blunt,짧은 둔기
+t_name_cleanup_tool_long_blunt,긴 둔기
+t_name_cleanup_tool_screw_driver,드라이버
+t_name_cleanup_tool_sponge,스펀지
+t_uiux_verb_cleanup_tool_hand,뽑기
+t_uiux_verb_cleanup_tool_short_blade,베어내기
+t_uiux_verb_cleanup_tool_long_blade,베어내기
+t_uiux_verb_cleanup_tool_short_blunt,떼어내기
+t_uiux_verb_cleanup_tool_long_blunt,떼어내기
+t_uiux_verb_cleanup_tool_screw_driver,긁어내기
+t_uiux_cleanup_needs_tool,필요: {[1]}
+t_uiux_barricade,바리케이드
+t_uiux_barricade_needs_leaves_or_planks,바리케이드 (잎/판자 필요)
+t_uiux_upgrade,강화
+t_uiux_upgrade_needs_leaves_or_planks,강화 (잎/판자 필요)
+t_uiux_upgrade_at_max,강화 (최대 단계)
+t_uiux_search_container,보관함 뒤지기
+t_uiux_debug_target,디버그 대상
+t_uiux_close,닫기
+t_uiux_open,열기
+t_uiux_pickup_no_space,줍기 (공간 없음)
+t_uiux_no_space_wxh,줍기 ({[1]}x{[2]} 공간 없음)
+t_uiux_trading_post_offer,{[1]} 제안
+t_uiux_trading_post_offer_gift,선물 제안 (교환 가능 아이템 없음)
+t_uiux_trading_post_offer_gift_outgoing,제안 (이미 선물 보내는 중)
+t_uiux_trading_post_receive_gift,선물 받기: {[1]}
+t_uiux_debug_dump_cell_contents,셀 내용 덤프
+t_uiux_station_craft,제작
+t_uiux_station_craft_header,crft_
+t_uiux_station_select_recipe,제작법 선택
+t_uiux_station_ingredients_loaded,넣은 재료:
+t_uiux_station_load_ingredients,재료 넣기:
+t_uiux_station_ingredient_found_slash_total,{[1]}/{[2]}
+t_name_tag_chili_oil,고추기름
+t_name_tag_yam,얌
+t_name_tag_heart_of_palm,야자순
+t_name_tag_fabric_garment,천 의류 (아무거나)
+t_name_tag_ceramic,도자기 아이템 (아무거나)
+t_name_tag_shelf_metal,금속 선반 (아무거나)
+t_name_tag_cushioned,쿠션 의자/소파 (아무거나)
+t_name_tag_alcohol,증류주 (아무거나)
+t_said_break_weapons_randomly_drat,젠장!
+t_said_break_weapons_randomly_whoops,어이쿠!
+t_said_break_weapons_randomly_oops,아차!
+t_uiux_first_aid,응급 처치
+t_uiux_bio,신체
+t_uiux_connect_charged_power_cell,충전된 파워 셀 연결
+t_uiux_restore_power_reason,전원 복구 ({[1]})
+t_uiux_power_cell_missing,파워 셀 없음
+t_uiux_power_cell_zero_charge,충전 안 됨 (0/100%)
+t_uiux_power_cell_not_charged,충전 안 됨 ({[1]}%)
+t_uiux_open_cli,CLI 열기
+t_uiux_verb_read,읽기
+t_uiux_verb_gaze,바라보기
+t_uiux_power_cell_charge,충전
+t_uiux_power_cell_charge_header,chrg_
+t_uiux_power_cell_status,상태:
+t_uiux_power_cell_status_charged,충전됨
+t_uiux_power_cell_status_charging,충전 중
+t_uiux_power_cell_status_idle,대기
+t_uiux_harvest,{[1]} 수확
+t_uiux_new_game,새 게임
+t_uiux_host_multiplayer,멀티플레이 호스트
+t_uiux_configure,설정
+t_uiux_credits,제작진
+t_uiux_quit,종료
+t_uiux_wishlist,스팀 찜하기!
+t_uiux_not_implemented_header,미구현
+t_uiux_not_implemented,아직 구현되지 않은 기능입니다
+t_uiux_caret_highlight,{[1]}_
+t_term_muico_said,<b>MuICO.SAID</b>: {[1]}
+t_term_muico_warn,<b>MuICO.WARN</b>: {[1]}
+t_term_muico_error,<b>MuICO.ERRO</b>: {[1]}
+t_uiux_station_cook,요리
+t_uiux_station_cook_header,cook_
+t_uiux_station_cook_stop,중지
+t_uiux_station_cook_start,요리
+t_uiux_station_cook_status,상태:
+t_uiux_station_cook_status_idle,대기
+t_uiux_station_cook_status_empty,비어 있음
+t_uiux_station_cook_status_cooking,요리 중
+t_uiux_dialog_okay,확인
+t_uiux_dialog_yes,예
+t_uiux_dialog_no,아니요
+t_uiux_dialog_cancel,취소
+t_uiux_dialog_info_header,정보
+t_uiux_dialog_missing_body,없음
+t_uiux_loading_header,불러오는 중...
+t_uiux_loading_game_header,새 게임 시작 중...
+t_uiux_loading_new_line_glyph,.
+t_uiux_loading_quote_attribution,- {[1]}
+t_uiux_loading_render_item_previews_first_time,아이템 미리보기를 처음으로 렌더링하는 중...
+t_uiux_loading_report_info,[INFO] {[1]}
+t_uiux_loading_render_item_previews_may_take_time,사양에 따라 최대 1분 정도 걸릴 수 있습니다...
+t_uiux_loading_quote_attribution_james_connolly,제임스 코널리
+t_uiux_loading_quote_attribution_paul_laurence_dunbar,폴 로런스 던바
+t_uiux_loading_quote_attribution_annie_dillard,애니 딜러드
+t_uiux_loading_quote_attribution_ralph_waldo_emerson,랠프 월도 에머슨
+t_uiux_loading_quote_attribution_theban_recension,"사자의 서 (낮에 나아가는 책)<br>\t테베 판본, 제18왕조 무렵"
+t_uiux_loading_quote_attribution_edward_young,에드워드 영
+t_uiux_loading_quote_attribution_helen_hunt_jackson,헬렌 헌트 잭슨
+t_uiux_loading_quote_attribution_johannes_kepler,"요하네스 케플러, 갈릴레이에게 보낸 편지, 1610"
+t_uiux_loading_quote_attribution_freeman_dyson,프리먼 J. 다이슨
+t_uiux_loading_quote_attribution_nursery_rhyme_earth,"동요, 지구"
+t_uiux_loading_quote_attribution_edward_arlington_robinson,에드워드 알링턴 로빈슨
+t_uiux_loading_quote_we_only_want_the_earth,"참으로 이상한 일이지만 말하건대, 그런 말들은 날 웃게 한다네. 우리의 요구는 지극히 소박하니까. 우린 그저 지구를 원할 뿐."
+t_uiux_loading_quote_now_every_house_is_a_hut_or_hovel,"이제 집집마다 움막이요 오두막이니, 길로 나오라. 사람과 두더지는 어둠 속에서 기기를 좋아하나, 길로 나오라."
+t_uiux_loading_quote_teeming_evidence,"우리가 소중히 여기는 탄생과 성장은 어디에나 있으며 맹목적이고, 생명 그 자체는 놀랄 만큼 값싸며, 자연은 풍요로운 만큼 무심하다는 넘쳐나는 증거"
+t_uiux_loading_quote_spreads_from_an_unknown_shore,나 역시 수백만의 동족과 함께 부화했다. 알 수 없는 해안에서 뻗어 나온 은하수 속으로.
+t_uiux_loading_quote_latch_and_flourish,"그것들은 무얼 하고 있을까. 저 대양 한가운데서 유생들은 무얼 하고 있을까. 떠다니다 스러지거나, 무슨 일이든 일어날 수 있는 세상의 어떤 기막힌 우연으로 달라붙어 번성한다."
+t_uiux_loading_quote_seaborn_treasures,"바다에서 난 보물들을 집으로 가져왔건만, 볼품없고 역한 그 가엾은 것들은 아름다움을 해변에 두고 왔더라"
+t_uiux_loading_quote_hitch_his_wagon_to_a_star,"무릇 사람의 지혜란, 그가 하는 모든 일에서 자신의 마차를 별에 매어 신들이 몸소 그 일을 해내도록 하는 것이다."
+t_uiux_loading_quote_sunrise_boat,"그가 해돋이의 배를 타고 나아가기를,<br>해넘이의 배를 타고 항구에 닿기를,<br>스러지지 않는 별들 사이를 거닐기를,<br>백만 년의 배를 타고 여행하기를."
+t_uiux_loading_quote_too_low_they_build,별 아래에 짓는 자들은 너무 낮게 짓는 것이다
+t_uiux_loading_quote_emigrated_to_another_star,"오, 나를 두고 ""쓰라린 고통 속에 죽었다""고 쓰지 말고<br>""다른 별로 이주했다!""고 써 주오"
+t_uiux_loading_quote_heavenly_ether,하늘의 에테르에 맞는 배와 돛을 만들자. 그러면 텅 빈 황야를 두려워하지 않을 이들이 넘쳐날 것이다.
+t_uiux_loading_quote_nothing_so_big_nor_crazy,"물리적으로 가능하기만 하다면, 백만 개의 기술 문명 중 하나쯤은 해내야겠다고 느끼지 않을 만큼 거대하거나 터무니없는 일은 없다."
+t_uiux_loading_quote_twinkle_twinkle,"반짝반짝 작은 별,<br>너는 정말 무엇일까.<br>저 세상 위 높은 곳에,<br>하늘의 다이아몬드처럼."
+t_uiux_loading_quote_and_thus_we_die,"그렇게 우리는 죽는다,<br>여전히 찾으면서, 가엾은 늙은 천문학자들처럼<br>비틀비틀 침대로 가 잠이 들어<br>측량되지 않은 별들을 꿈꾸며."
+t_uiux_loading_quote_launched_the_burning_ship,"그들은 불타는 배를 띄웠다!<br>배는 멀리 떠내려갔다<br>안개 낀 바다 너머로,<br>마침내 해처럼 보일 때까지,<br>파도 아래로 가라앉으며.<br>"
+t_term_get_help,{[1]} : {[2]}
+t_term_get_help_alias_header,별칭:
+t_term_get_help_alias_divider_glyph,","
+t_term_bpwr_help,장치 전원 버스 관리자
+t_term_bscr_help,부팅 화면 버퍼 그리기
+t_term_cinp_help,입력 버퍼 지우기
+t_term_clos_help,지정한 장치 닫기
+t_term_clos_help_verbose,"  인수 1개, 장치의 포트 또는 ID
+  예: 'clos 1'
+  예: 'clos AAD00'
+연결된 장치 전체는 'dvcs' 참고"
+t_term_cscr_help,화면 버퍼 지우기
+t_term_dvcs_help,연결된 장치 목록
+t_term_dvcs_help_verbose,"  이 터미널에 연결된
+  각 장치의 포트 번호,
+  ID, 상태를 출력"
+t_term_echo_help,화면 버퍼에 데이터 출력
+t_term_eqdb_help,데이터베이스 읽기 및 쓰기
+t_term_exit_help,현재 세션 종료
+t_term_help_help,명령어 목록 / 명령어 정보
+t_term_help_help_verbose,"  인수 1개, 선택, 다른 명령어 이름
+  예: 'help tggl'"
+t_term_list_help,디렉터리 및 파일 목록
+t_term_list_help_verbose,"  인수 1개, 선택, 파일 또는 디렉터리
+  예: 'list logs'"
+t_term_logs_help,로그 조회 및 수정
+t_term_move_help,지정한 장치 이동
+t_term_move_help_verbose,"  인수 1, 장치의 포트 또는 ID
+  인수 2, x 이동량
+  인수 3, y 이동량
+  예: 'move 1 -1 12'
+  예: 'move AAD00 -1 12'
+연결된 장치 전체는 'dvcs' 참고"
+t_term_ncmd_help,없는 명령어 오류 처리기
+t_term_open_help,지정한 장치 열기
+t_term_open_help_verbose,"  인수 1개, 장치의 포트 또는 ID
+  예: 'open 1'
+  예: 'open AAD00'
+  연결된 장치 전체는 'dvcs' 참고"
+t_term_pinp_help,입력 버퍼 환경설정
+t_term_pssr_help,에어록 대기 상태 변경
+t_term_pssr_help_verbose,"  인수 1, 에어록의 포트 또는 ID,
+  인수 2, 상태 [ atmosphere / vacuum ]
+  예: 'pssr 1 atmosphere
+  예: 'pssr AAA00 atmosphere'
+  예: 'pssr AAA00 vacuum'"
+t_term_rscr_help,화면 버퍼 다시 그리기
+t_term_stmp_help,파일 타임스탬프 유틸리티
+t_term_tggl_help,지정한 장치 상태 전환
+t_term_tggl_help_verbose,"  인수 1개, 장치의 포트 또는 ID
+  예: 'tggl 1'
+  예: 'tggl AAL00'
+  연결된 장치 전체는 'dvcs' 참고"
+t_term_time,시스템 시각 확인
+t_term_bsnv_help,부팅 화면 버퍼 그리기 (항법)
+t_term_bsnv_intro,"처녀자리 항법링크 터미널에 오신 것을 환영합니다. 이 기기는 접근 등급 READONLY로 중앙 항법국에 연결되어 있습니다
+
+지난 검토 이후:
+  새 항법사 코멘트 0건
+  새로 달성한 이정표 0건
+  새 오류 2534545건
+ 
+이 터미널에서 사용 가능한 항법 명령어:"
+t_term_nved_help,craftnav 매개변수 편집
+t_term_nver_help,craftnav 오류 보기
+t_term_nvrp_help,여정 진행 상황 보기
+t_term_unnamed_command,이름 없는 명령어
+t_uiux_grime_category_roots,뿌리
+t_uiux_grime_category_grime,오물
+t_uiux_grime_cleanup_with_tool,{[1]} {[2]}
+t_uiux_grime_cleanup_with_tool_unavailable,({[1]}) {[2]}
+t_term_karg_type_boolean,bool
+t_term_karg_type_number,numb
+t_term_karg_type_string,strg
+t_term_karg_type_unknown,unkn
+t_term_karg_wrong_type,{[1]}.{[2]} 값이 '{[3]}'임 ({[4]} 아님)
+t_uiux_motd_close,닫기
+t_uiux_motd_body_missing,본문 없음
+t_uiux_motd_header_missing,motd.text
+t_uiux_settings_not_implemented_header,아직 구현되지 않은 설정:
+t_uiux_settings_not_implemented_body,"{[1]} 설정은 아직 구현되지 않았습니다.
+선택한 값: {[2]}"
+t_uiux_settings_resolution,해상도
+t_uiux_settings_window_mode,창 모드
+t_uiux_settings_window_mode_fullscreen,전체 화면
+t_uiux_settings_window_mode_windowed,창 모드
+t_uiux_settings_language,언어
+t_uiux_settings_language_en-US,영어
+t_uiux_settings_language_es-419,스페인어(라틴 아메리카)
+t_uiux_settings_language_ru-RU,러시아어
+t_uiux_settings_language_zh-CN,중국어(간체)
+t_uiux_settings_language_pt-BR,포르투갈어(브라질)
+t_uiux_settings_language_de,독일어
+t_uiux_settings_master_mix,전체 음량
+t_uiux_settings_sfx_mix,효과음 음량
+t_uiux_settings_music_mix,음악 음량
+t_uiux_settings_modesty_mode,노출 수위
+t_uiux_settings_modesty_mode_show_nudity,노출 표시
+t_uiux_settings_modesty_mode_hide_nudity,노출 가리기
+t_uiux_settings_gore_mode,유혈 표현
+t_uiux_settings_gore_mode_show_blood,피 표시
+t_uiux_settings_gore_mode_hide_blood,피 숨기기
+t_uiux_settings_access_text_size,접근성 (글자 크기)
+t_uiux_settings_access_text_size_normal,보통
+t_uiux_settings_access_text_size_large,크게
+t_uiux_settings_show_wip,개발 중 콘텐츠 표시
+t_uiux_settings_binds_reset,기본 키 설정으로 초기화
+t_uiux_key_bind_press_any_key,아무 키나 누르세요...
+t_uiux_key_bind_pause,일시정지
+t_uiux_key_bind_move_forward,앞으로_이동
+t_uiux_key_bind_move_backward,뒤로_이동
+t_uiux_key_bind_move_left,왼쪽_이동
+t_uiux_key_bind_move_right,오른쪽_이동
+t_uiux_key_bind_sprint,달리기
+t_uiux_key_bind_use,사용
+t_uiux_key_bind_rotate_camera_left,카메라_왼쪽_회전
+t_uiux_key_bind_rotate_camera_right,카메라_오른쪽_회전
+t_uiux_key_bind_toggle_inventory,인벤토리_열기/닫기
+t_uiux_key_bind_place_action_confirm,배치_확정
+t_uiux_key_bind_place_action_rotate,배치_회전
+t_uiux_key_bind_read_action_previous_page,읽기_이전_페이지
+t_uiux_key_bind_read_action_next_page,읽기_다음_페이지
+t_uiux_key_bind_read_action_exit,읽기_종료
+t_uiux_key_bind_primary_attack,기본_공격
+t_uiux_key_bind_toggle_aim,조준_전환
+t_uiux_key_bind_aim,조준
+t_uiux_key_bind_open_context_menu,상황_메뉴_열기
+t_uiux_key_bind_toggle_ui_visibility,UI_표시_전환
+t_uiux_key_bind_screenshot,스크린샷
+t_uiux_key_bind_item_quick_transfer_modifier,아이템_빠른_이동_보조키
+t_uiux_key_bind_item_quick_drop_modifier,아이템_빠른_버리기_보조키
+t_uiux_key_bind_terminal_clear_input,터미널_입력_지우기
+t_uiux_key_bind_terminal_clear_input_modifier,터미널_입력_지우기_보조키
+t_uiux_key_bind_cheat_toggle_invincibility,치트_무적_전환
+t_uiux_key_bind_hotkey_1,단축키_1
+t_uiux_key_bind_hotkey_2,단축키_2
+t_uiux_key_bind_hotkey_3,단축키_3
+t_uiux_key_bind_free_camera_toggle,자유_카메라_전환
+t_uiux_key_bind_free_camera_modifier,자유_카메라_보조키
+t_uiux_key_bind_free_camera_reset,자유_카메라_초기화
+t_uiux_key_bind_free_camera_toggle_perspective,자유_카메라_원근_전환
+t_uiux_key_bind_free_camera_look_toggle,자유_카메라_시점_전환
+t_uiux_key_bind_free_camera_move_forward,자유_카메라_앞으로_이동
+t_uiux_settings_rocker_disabled,끔
+t_uiux_settings_rocker_enabled,켬
+t_uiux_settings_header,설정
+t_uiux_settings_caret_highlight,_{[1]}
+t_desc_consume_bonus_from_gifts,선물로 받은 음식과 소모품에서 더 많은 효과를 얻는다
+t_desc_weapon_bonus_from_gifts,선물로 받은 무기와 도구가 더 오래간다
+t_desc_enjoys_cleaning,오물을 치우면 지루함이 조금 풀린다
+t_desc_better_cutting_vegetation,가만히 있는 식물을 더 빨리 베어낸다
+t_desc_better_slash_attacks,날붙이 무기가 특기다
+t_desc_better_blunt_attacks,둔기로 더 세게 때린다
+t_desc_food_is_more_filling,음식을 먹으면 더 배부르다
+t_desc_more_lung_capacity,달려도 숨이 덜 차고 산소를 더 효율적으로 쓴다
+t_desc_less_lung_capacity,달리면 금방 숨이 차고 이산화탄소가 더 빨리 쌓인다
+t_desc_less_exertion_from_weapons,무기를 휘둘러도 숨이 덜 찬다
+t_desc_equip_items_faster,아이템을 더 빨리 장착한다
+t_desc_more_indigestion,소화하기 힘든 음식에 장이 고생한다
+t_desc_less_bleeding,"운일까, 체질일까? 피 나는 상처나 슈트 찢김이 드물다. 마치 우주선이 파편 충돌을 막으려고 두르는 다층 방호막, 휘플 실드를 몸에 두른 것 같다"
+t_desc_more_bleeding,피 나는 상처나 슈트 찢김이 더 잦다
+t_desc_insomnia,아주 피곤해야 잠들 수 있다
+t_desc_cant_sleep_in_bad_beds,질 낮은 침대에서는 잠들지 못한다
+t_desc_prefer_simple_reading_material,팸플릿이나 어린이 책 같은 쉬운 읽을거리를 훨씬 좋아한다
+t_desc_disgusted_by_corpses,시체 근처에 있으면 속이 메스껍다
+t_desc_break_weapons_randomly,내구도가 낮은 무기를 낮은 확률로 단번에 부러뜨린다
+t_desc_cold_core_temperature,체온이 낮은 편이다
+t_desc_hot_core_temperature,체온이 높은 편이다
+t_desc_prefer_shirtless_shoeless,맨발에 웃통 벗은 차림을 훨씬 좋아한다
+t_desc_dark_vision,어두운 곳에서 길을 잘 찾는 재주가 있다
+t_desc_no_dark_vision,눈이 어둠에 잘 적응하지 못한다
+t_desc_mistype,퍼걸러호에는 분명 너보다 타자 잘 치는 사람듯이 있다
+t_desc_no_mistype,정확한 타자에 진심으로 매진한다
+t_name_upbringing_mulchbounder,퇴비살이
+t_name_upbringing_hornkeeper,뿔지기
+t_name_upbringing_shell_doctor,선체 의사
+t_desc_upbringing_mulchbounder,"당신은 황소자리 모듈의 퇴비살이 공동체에서 자랐다. 퇴비살이는 공동 <b>퇴비 더미</b>에 기대어 사는 농경민으로, 조상의 뼈까지 퇴비로 만들어 빈약한 ""안전작물""을 길러 낸다. 폐쇄적이고 미신을 믿는 이들이라 외부의 물건은 엄격히 금지된다. 혹독한 자급 농사로 보낸 세월 덕분에 강인하고 절제력이 있지만, 새로운 것은 불편하다."
+t_desc_upbringing_hornkeeper,"당신은 황소자리 모듈의 뿔지기 집안 출신이다. 뿔지기는 폐허를 뒤져 찾은 물건을 사고파는 상인 약탈자들로, 가장 귀한 소유물의 이름을 성으로 삼는다. 채집꾼은 야생 먹거리를 거두고, 물건 사냥꾼은 잿빛 전쟁에서 살아남은 유물을 되찾는다. 이들에게 ""황소자리의 뿔"" 표식이 없는 물건은 밀수품이다. 당신은 유능한 약탈자지만, 무언가를 직접 만들거나 길러 본 적은 없다."
+t_desc_upbringing_shell_doctor,"당신은 벽 수호단에 입대한 선체 의사였다. 선체 의사는 기계 공구와 성직 의식으로 황소자리 모듈의 낡고 연약한 기반 시설을 돌보는, 기술자이자 사제 같은 존재다. 유랑 무리를 지어 모듈 곳곳을 떠도는 동안 퇴비살이와 뿔지기들이 당신을 입히고 먹였다. 기계는 능숙하게 다루지만, 혼자 힘으로 살아가는 데는 익숙하지 않다."
+t_name_mulchbounder_cloak,퇴비살이 망토
+t_desc_mulchbounder_cloak,"조상들이 물려준, 옛 방식으로 짠 망토"
+t_name_namesake_watch,이름의 시계
+t_desc_namesake_watch,물건 사냥꾼으로 나선 첫 원정에서 발견해 이름 짓는 의식 때 고른 팔찌. 뒷면의 황소자리의 뿔 표식이 진품임을 증명한다
+t_name_heirloom_acorn,가보 도토리
+t_desc_heirloom_acorn,"어릴 적 삼촌이 준 것. 삼촌은 황소자리에서 온 거라고 맹세했지만, 뿔 표식이 없다..."
+t_name_wall_corps_screwdriver,벽 수호단 드라이버
+t_desc_wall_corps_screwdriver,선체 의사로서 첫 임무에 소집됐을 때 받은 수리 도구
+t_name_book_wall_scripture,벽 경전
+t_desc_book_wall_scripture,벽을 진정시킬 수 있는 성스러운 글. 떠나기 전에 돌려놓으려 했는데...
+t_said_dirt_hunger_1,흙
+t_said_dirt_hunger_2,흑
+t_said_dirt_hunger_3,흙 먹어
+t_said_dirt_hunger_4,흙 머거
+t_said_dirt_hunger_5,흙을 섭취해
+t_said_dirt_hunger_6,흙을 섭최해
+t_said_dirt_hunger_7,토양
+t_said_dirt_hunger_8,토얀
+t_said_dirt_hunger_mulchbounder_1,질소
+t_said_dirt_hunger_mulchbounder_2,질쏘
+t_said_dirt_hunger_mulchbounder_3,무기질
+t_said_dirt_hunger_mulchbounder_4,무긔질
+t_said_dirt_hunger_mulchbounder_5,양토
+t_said_dirt_hunger_mulchbounder_6,양툐
+t_said_dirt_hunger_mulchbounder_7,배양토
+t_said_dirt_hunger_mulchbounder_8,배앙토
+t_said_dirt_hunger_mulchbounder_9,인
+t_said_dirt_hunger_mulchbounder_10,이인
+t_said_dirt_hunger_mulchbounder_11,칼륨
+t_said_dirt_hunger_mulchbounder_12,칼륨륨
+t_name_circumstance_exile,추방
+t_desc_circumstance_exile,"당신은 고발당했고, 유죄 판결을 받았다. 처형할 배짱이 없던 당신의 일족은 처녀자리 모듈의 정글에서 맞을 확실한 죽음을 선고했다."
+t_name_circumstance_lost,길 잃음
+t_desc_circumstance_lost,"잠깐 다녀올 생각이었는데, 며칠째 아는 지형지물이 보이지 않는다. 끝없이 똑같은 수경재배 줄 사이를 터벅터벅 헤매던 끝에, 당신은 완전히 새로운 세계로 내뱉어졌다. 돌아갈 길은 없다."
+t_name_circumstance_wanderlust,"황소자리의 삶은 단조롭고 궁핍했고, 당신은 하루도 더 견딜 수 없었다. 처녀자리는 위험할지 몰라도, 이곳에는 아름다움과 새로움이 있다. 당신은 스스로의 의지로 떠났고, 결코 뒤돌아보지 않았다."
+t_name_aptitude_mind,지성
+t_name_aptitude_body,신체
+t_name_aptitude_spirit,정신력
+t_name_aptitude_grace,민첩
+t_name_aptitude_charm,매력
+t_name_aptitude_savvy,요령
+t_desc_aptitude_mind,학문적 탐구와 논리적 추론에 대한 재능
+t_desc_aptitude_body,타고난 신체 능력과 힘
+t_desc_aptitude_spirit,"육체적, 정서적 고난을 견디는 강인함"
+t_desc_aptitude_grace,속도와 민첩성
+t_desc_aptitude_charm,사람을 끄는 풍모
+t_desc_aptitude_savvy,지혜와 세상 경험의 총합
+t_uiux_fill_item,{[1]} 채우기
+t_uiux_gather_water_no_container,물 받기 (용기 없음)
+t_uiux_equip_return_to_slot,{[1]}(으)로 되돌리기
+t_uiux_unequip,장착 해제
+t_uiux_equip,장착
+t_uiux_equip_no_space,장착 (공간 없음)
+t_uiux_equip_detach_from,{[1]}에서 분리
+t_uiux_equip_assign_to_slot,{[1]}에 지정
+t_uiux_equip_assign_to_slot_no_space,{[1]}에 지정 (공간 없음)
+t_uiux_item_processing_tear_into_scraps,찢어서 조각내기
+t_uiux_item_processing_no_space,{[1]} (공간 없음)
+t_name_stat_brain_seed_infection_stage_1,브레인 시드 감염 없음
+t_name_stat_brain_seed_infection_stage_2,감염됨
+t_name_stat_brain_seed_infection_stage_3,치료 불가 감염
+t_desc_stat_brain_seed_infection_stage_1,내 정신은 온전히 내 거야
+t_desc_stat_brain_seed_infection_stage_2,아주 이상한 생각이 들어...
+t_desc_stat_brain_seed_infection_stage_3,돌이킬 수 없어...
+t_name_stat_disgust_stage_1,혐오감 없음
+t_name_stat_disgust_stage_2,혐오감
+t_desc_stat_disgust_stage_1,역겨운 게 하나도 없어
+t_desc_stat_disgust_stage_2,뭔가 역겨워
+t_name_stat_exertion_stage_1,기력 충분
+t_desc_stat_exertion_stage_1,몸 상태가 괜찮다
+t_name_stat_exertion_stage_2,숨이 가쁨
+t_desc_stat_exertion_stage_2,힘든 일이다
+t_name_stat_exertion_stage_3,헐떡임
+t_desc_stat_exertion_stage_3,이대로 계속할 수는 없다
+t_name_stat_exertion_stage_4,숨이 턱까지 참
+t_desc_stat_exertion_stage_4,곧 쓰러질 것 같아
+t_name_stat_exertion_stage_5,과로
+t_desc_stat_exertion_stage_5,폐와 근육이 욱신거린다
+t_name_stat_happiness_stage_1,불행
+t_desc_stat_happiness_stage_1,뭔가 때문에 기분이 안 좋아
+t_name_stat_happiness_stage_2,보통
+t_desc_stat_happiness_stage_2,행복하지도 불행하지도 않다
+t_term_expected_x_arguments_received_y,"인수 {[1]}개 필요, {[2]}개 받음"
+t_term_device_id_or_index_invalid,장치 '{[1]}'은(는) 유효한 ID 또는 번호가 아님
+t_term_device_is_not_responding,장치 '{[1]}' 응답 없음
+t_term_power_bus_to_x_is_state_y,'{[1]}' 전원 버스 상태: {[2]}
+t_uiux_death_screen_try_again,다시 시도
+t_uiux_death_screen_create_character,캐릭터 생성
+t_uiux_death_screen_return_to_title,타이틀로 돌아가기
+t_uiux_character_creation_header_appearance,외형
+t_uiux_character_creation_header_upbringing,성장 배경
+t_uiux_character_creation_header_circumstance,사연
+t_uiux_character_creation_header_traits,특성
+t_uiux_character_creation_details_stats,능력치
+t_uiux_character_creation_details_locked_mystery,????
+t_uiux_character_creation_details_items,아이템
+t_uiux_character_creation_details_traits,특성
+t_uiux_character_creation_details_none,없음
+t_tutl_intro_header,환영합니다_
+t_tutl_intro_body,"튜토리얼 페이지는 오른쪽 아래 버튼으로 켜고 끌 수 있습니다
+
+{[1]}을(를) 누르면 언제든지 전체 조작법을 볼 수 있습니다
+
+먼저 {[2]}{[3]}{[4]}{[5]}(으)로 이동하고, {[6]}(으)로 문을 여세요"
+t_tutl_object_interaction_header,사물_상호작용_
+t_tutl_object_interaction_body,세상의 많은 사물을 조작할 수 있습니다. 사물을 우클릭하면 가능한 상호작용 목록이 나옵니다
+t_tutl_inventory_header,인벤토리_관리_
+t_tutl_inventory_body,"<b>{[1]}</b>을(를) 눌러 인벤토리 창을 여세요
+
+왼쪽에는 내 인벤토리가, 오른쪽에는 <b>근처 보관함</b>의 내용물이 표시됩니다.
+
+아이템 칸을 클릭해서 끌면 <b>획득</b>합니다. 아이템을 우클릭하면 <b>사용</b>합니다."
+t_tutl_combat_header,전투_
+t_tutl_combat_body,"몸을 지키거나 사물을 부수려면 마우스 오른쪽 버튼을 <b>누르고 있어</b> <b>전투 자세</b>를 취하세요
+
+전투 자세에서 왼쪽 클릭으로 공격을 시작합니다.
+
+무기는 인벤토리에서 장착할 수 있습니다."
+t_tutl_terminal_header,터미널_
+t_tutl_terminal_body,"컴퓨터 <b>터미널</b>을 클릭하면 부팅됩니다
+
+터미널은 키보드 입력을 모두 받습니다. 명령어 이름을 입력하고 {[1]}을(를) 눌러 실행하세요
+
+{[2]}을(를) 입력하면 명령어 목록이 나옵니다. {[3]}을(를) 누르면 터미널에서 나갑니다"
+t_tutl_crafting_header,제작_
+t_tutl_crafting_body,"퍼걸러호에서 찾은 여러 자원을 조합해 새 아이템을 만들 수 있습니다
+
+제작하려면 {[1]} 탭을 클릭하고, 제작법을 고른 다음, 재료를 가운데로 끌어다 놓고 {[2]}을(를) 누르세요
+
+인벤토리에서도 몇 가지를 만들 수 있지만, 제작대에서는 훨씬 많이 만들 수 있습니다"
+t_tutl_statuses_header,상태 효과_
+t_tutl_statuses_body,"퍼걸러호에서 살아남으려면 몸을 잘 돌봐야 합니다
+
+배고픔, 갈증, 탈진 같은 효과는 화면 위쪽에 아이콘으로 표시됩니다.
+
+모든 상태를 당장 해결할 필요는 없으며, 오히려 좋은 상태도 있습니다"
+t_name_generic_door,문
+t_name_generic_stairs,계단
+t_name_generic_vegetation,식물
+t_name_generic_pipes,배관
+t_name_generic_debris,끔찍하게 어질러진 것
+t_name_generic_bed,침대
+t_name_generic_couch,소파
+t_name_generic_chair,의자
+t_name_generic_bench,벤치
+t_name_generic_rug,러그
+t_name_generic_shelf,선반
+t_name_generic_bookshelf,책장
+t_name_generic_dresser,서랍장
+t_name_generic_storage,수납장
+t_name_generic_crate,상자
+t_name_generic_lamp,램프
+t_name_generic_art,미술품
+t_name_generic_poster,포스터
+t_name_generic_planter,화분
+t_name_generic_beverage,음료
+t_name_generic_food,음식
+t_name_generic_outerwear,겉옷
+t_name_generic_shirt,셔츠
+t_name_generic_pants,바지
+t_name_generic_skirt,치마
+t_desc_generic_door,드나드는 구멍
+t_desc_generic_stairs,꼭 올라야 한다면
+t_desc_generic_vegetation,푸르고 흙내음이 난다
+t_desc_generic_pipes,다 어디로 이어질까?
+t_desc_generic_debris,끔찍하게 어질러져 있다
+t_desc_generic_bed,몸을 누일 둥지
+t_desc_generic_couch,길고 사치스러운 의자
+t_desc_generic_chair,몸을 기댈 곳
+t_desc_generic_bench,잠깐 앉기 위해서만 만든 긴 의자
+t_desc_generic_rug,바닥을 푹신하게 해 준다
+t_desc_generic_counter,낮은 벽
+t_desc_generic_shelf,물건을 올려둘 줄과 줄
+t_desc_generic_bookshelf,책들이 밤에 잠드는 곳
+t_desc_generic_dresser,옷들은 몸보다 이 안에서 더 오래 지낸다
+t_desc_generic_storage,수납장
+t_desc_generic_crate,상자
+t_desc_generic_lamp,인공 태양
+t_desc_generic_art,바라보며 감탄하라
+t_desc_generic_poster,알아 둬야 할 중요한 게 있다
+t_desc_generic_planter,흙으로 된 침대
+t_desc_generic_beverage,음료
+t_desc_generic_food,몸이 스스로를 더 만들어 내기 위한 원료
+t_desc_generic_outerwear,모든 것은 겹겹이 이루어진다
+t_desc_generic_shirt,위쪽이 쌀쌀할 때
+t_desc_generic_pants,아래쪽이 쌀쌀할 때
+t_desc_generic_skirt,다리를 가려 준다
+t_name_admin_bookshelf_short,책장 (낮은 것)
+t_name_admin_bookshelf_short_empty,빈 책장 (낮은 것)
+t_name_admin_bookshelf_tall_empty,빈 책장 (높은 것)
+t_name_admin_swivel_chair,사무용 회전의자
+t_name_airlock_sign,대기 상태 표지판
+t_name_ashtray_blue,파란 재떨이
+t_desc_ashtray_blue,가장자리가 오목조목 파여 있어 파란 꽃처럼 보이는 그릇
+t_name_ashtray_orange,주황 재떨이
+t_desc_ashtray_orange,가장자리가 오목조목 파여 있어 주황 꽃처럼 보이는 그릇
+t_name_atp_bar,ATP 바
+t_desc_atp_bar,포장지 맛이 나는 질기고 고무 같은 음식
+t_name_atp_bar_dusty,ATP 바 (먼지 쌓임)
+t_desc_atp_bar_dusty,어째선지 다른 것들보다도 더 오래됐다
+t_name_atp_bar_spoiled,ATP 바 (상함)
+t_desc_atp_bar_spoiled,역겨워!
+t_name_atp_bar_stale,ATP 바 (눅눅함)
+t_desc_atp_bar_stale,헛구역질이 나는 분필 같은 덩어리
+t_name_ball_yarn_blue,파란 털실 뭉치
+t_name_ball_yarn_yellow,노란 털실 뭉치
+t_name_bandages,붕대 묶음
+t_desc_bandages,속에 있는 건 속에 있게 해 준다
+t_name_bed_crafted_cushion,임시 침대 매트
+t_desc_bed_crafted_cushion,따뜻하고 포근하다
+t_name_bed_crib_hospital,병원 유아 침대
+t_name_bed_hospital,병원 침대
+t_name_beer_bottle_square,맥주병
+t_desc_beer_bottle_square,빵 맛 탄산음료
+t_name_bench_cafeteria_long,t_name_bench_cafeteria
+t_desc_bench_cafeteria_long,친구 여럿과 함께 앉는 용도
+t_name_bench_cafeteria_med,t_name_bench_cafeteria
+t_desc_bench_cafeteria_med,친구 몇 명과 함께 앉는 용도
+t_name_bench_cafeteria_short,t_name_bench_cafeteria
+t_desc_bench_cafeteria_short,혼자 앉는 용도
+t_name_bevi_mat_blue,t_name_bevi_mat
+t_name_billiards_bar,당구대
+t_name_bin_leaf_crafted,Ponic 엮음 수납함
+t_desc_bin_leaf_crafted,유기물을 비틀어 정육면체로 만든 것
+t_name_bin_leaf_crafted_wide,Ponic 엮음 수납함 (넓은 것)
+t_desc_bin_leaf_crafted_wide,잎사귀를 억지로 격자무늬로 엮었다
+t_name_bolts,풀린 볼트
+t_desc_bolts,자잘한 부품들
+t_name_book_carina_computing_1,카리나 컴퓨팅 시스템즈: 데이터 적재
+t_desc_book_carina_computing_1,육각형을 사각형으로 옮기는 법을 알려 주는 책. 화살표 도표 덕분에 아주 직관적이다
+t_name_book_carina_computing_2,카리나 컴퓨팅 시스템즈: 논리와 제어
+t_desc_book_carina_computing_2,어떤 아이도 즐길 수 없을 그림책
+t_name_book_carina_computing_3,카리나 컴퓨팅 시스템즈: 출력 분석
+t_desc_book_carina_computing_3,이 도표들도 한때는 뭔가 의미가 있었겠지
+t_name_book_fancy_fliers,화려한 날개들
+t_desc_book_fancy_fliers,"안에 실린 삽화를 보면 지구에는 대부분 새가 살았던 모양이다. 진짜, 엄청 많은 새가"
+t_name_book_journal_from_earth,"낡은 일지: ""지구에서"""
+t_name_book_journal_safe_here,"낡은 일지: ""여긴 안전해"""
+t_name_book_mrs_termite,흰개미 부인은 태도가 좋아
+t_desc_book_mrs_termite,표지에는 지금껏 본 적 없을 만큼 큰 곤충이 여러 쌍의 팔을 허리에 얹고 있다. 꽤 인상적인 분이다
+t_name_book_obnos_0,"올드벨몬트, 뉴오클랜드, 그리고 별들: 0권"
+t_name_book_obnos_1,"올드벨몬트, 뉴오클랜드, 그리고 별들: 1권"
+t_name_book_obnos_2,"올드벨몬트, 뉴오클랜드, 그리고 별들: 2권"
+t_name_book_obnos_3,"올드벨몬트, 뉴오클랜드, 그리고 별들: 3권"
+t_name_book_obnos_4,"올드벨몬트, 뉴오클랜드, 그리고 별들: 4권"
+t_name_book_obnos_5,"올드벨몬트, 뉴오클랜드, 그리고 별들: 5권"
+t_name_book_obnos_6,"올드벨몬트, 뉴오클랜드, 그리고 별들: 6권"
+t_name_book_obnos_7,"올드벨몬트, 뉴오클랜드, 그리고 별들: 7권"
+t_name_book_pamphlet_land_now,당장 착륙하라! 당장 착륙하라! 당장 착륙하라!
+t_desc_book_pamphlet_land_now,공포와 분노로 쓰인 팸플릿
+t_name_book_poetry_of_ponics,Ponic의 시
+t_desc_book_poetry_of_ponics,평범한 ponic 밭 그림으로 꾸며져 있다. 지루해!
+t_name_book_sf_0,슬라임 축제: 0권
+t_name_book_sf_1,슬라임 축제: 1권
+t_name_book_sf_2,슬라임 축제: 2권
+t_name_book_songs_of_the_partigiani_1,"파르티잔의 노래, 1권"
+t_desc_book_songs_of_the_partigiani_1,"""이탈리아""라는 곳에서 온 이상한 시들로 가득하다. 언어의 운율이 행진하기에 딱 좋다."
+t_name_book_world_fables_of_old_earth,옛 지구의 세계 우화
+t_desc_book_world_fables_of_old_earth,표지에 비늘 덮인 날개 달린 생물 여덟 종이 그려져 있다. 절대 마주치지 않기를 바란다
+t_name_bookshelf_pamphlet_land_now,팸플릿 책장
+t_name_bottle_empty,병 (빈 것)
+t_desc_bottle_empty,손에 쥔 가벼움이 불편하다. 가득 차 있어야 하는데.
+t_name_bottle_water,물병
+t_desc_bottle_water,"물은 세상을 탐험하고 싶어 하지만, 병이 허락하지 않는다."
+t_name_cabinet_bar,바 수납장
+t_name_cabinet_bar_corner,바 수납장 (모서리)
+t_name_cabinet_wall_industrial_kitchen,업소용 주방 벽 수납장
+t_name_cabinet_wall_medical,의료용 벽 수납장
+t_name_calculator,휴대용 계산기
+t_desc_calculator,버튼이 말랑해서 누르는 맛이 좋다
+t_name_campfire_shelf,임시 모닥불 자리
+t_name_cargo_baggy_pants_black,헐렁한 카고 바지
+t_name_chair_swivel_medical,의료용 회전의자
+t_name_chair_wood_library,나무 의자
+t_name_chef_knife,식칼
+t_desc_chef_knife,날이 뭉툭하고 짧아 근접전을 강요한다. 겁쟁이 손에서는 쓸모없다
+t_name_chip_chow,칩차우
+t_desc_chip_chow,부서진 모서리가 입천장을 찌른다. 씹기 전에 한동안 빨아 먹는 게 낫다.
+t_name_chip_chow_dusty,칩차우 (먼지 쌓임)
+t_desc_chip_chow_dusty,한동안 밖에 방치돼 있었다
+t_name_chip_chow_spoiled,칩차우 (상함)
+t_desc_chip_chow_spoiled,뚜껑을 열면 구역질이 날 것이다
+t_name_chip_chow_stale,칩차우 (눅눅함)
+t_desc_chip_chow_stale,이로 깨물기가 엄청나게 힘들다
+t_name_chow_mat,식량 배급기
+t_name_chow_mat_broken,t_name_chow_mat_pillaged
+t_name_chow_wow,차우와우!
+t_desc_chow_wow,어쩔 수 없이 우월하다. 다른 음식이 살짝 시시해진다.
+t_name_cleaning_sponge,청소용 스펀지
+t_desc_cleaning_sponge,아무리 괴롭히고 비틀어도 늘 원래 모양으로 돌아온다
+t_name_cloth_scrap,천 조각
+t_desc_cloth_scrap,지혈용 천
+t_name_coasters,나무 컵받침
+t_desc_coasters,술잔을 위한 귀빈석
+t_name_comb,머리빗
+t_desc_comb,두피를 긁으면 기분 좋은 느낌이 든다
+t_name_comm_lamp_head,통신 헤드 램프
+t_desc_comm_lamp_head,어두운 곳에서 길을 밝혀 준다.
+t_name_couch_curved_fireplace_bar,주황색 곡선 소파
+t_name_couch_panelback_double,긴 판넬 등받이 소파
+t_desc_couch_panelback_double,길고 사치스러운 의자
+t_name_couch_panelback_double_table,쿠션 반쪽 소파
+t_desc_couch_panelback_double_table,쿠션이 하나뿐이라 나눠 앉을 수 없다. 이기적인 사람에게 유용하다
+t_name_counter_bar,바 카운터
+t_name_counter_bar_corner,바 카운터 (모서리)
+t_name_counter_corner_industrial_kitchen,업소용 주방 조리대 모서리
+t_name_counter_corner_medical,의료용 카운터 모서리
+t_name_counter_industrial_kitchen,업소용 주방 조리대
+t_name_counter_medical,의료용 카운터
+t_name_craft_from_inventory,인벤토리에서 제작
+t_name_crafting_station_simple,작업대
+t_desc_crafting_station_simple,"실수를 저지르는 곳이자, 올바른 결정을 내리는 곳"
+t_name_cup_specimen,검체 컵
+t_desc_cup_specimen,이상하고 매캐한 결정이 들러붙어 있다
+t_name_cushion_chair_panelback,푹신한 판넬 등받이 의자
+t_desc_cushion_chair_panelback,"넓고, 낮고, 푹신하다"
+t_name_debris_plumbing_pile_med,잔해 더미 (중간)
+t_desc_debris_plumbing_pile_med,뒤죽박죽 쌓인 당신의 집
+t_name_debris_plumbing_pile_small,잔해 더미 (작은 것)
+t_desc_debris_plumbing_pile_small,작게 뒤죽박죽 쌓인 당신의 집
+t_name_device_pressure_scope_wall,벽걸이 압력계
+t_name_dirt_clump_1,t_name_dirt
+t_desc_dirt_clump_1,t_desc_dirt
+t_name_dirt_clump_2,t_name_dirt
+t_desc_dirt_clump_2,t_desc_dirt
+t_name_drawer_corpse_mortuary,영안실 시신 서랍
+t_name_drawer_fruit_nest,꿈틀거리는 둥지!
+t_desc_drawer_fruit_nest,건드리지 말았어야 했는데...
+t_name_drawer_industrial_kitchen,업소용 주방 서랍
+t_name_drawer_medical,의료용 서랍
+t_name_equipped_ui_icon,장착 UI
+t_name_exel_vent,환기구 출입구 (봉인됨)
+t_name_exel_vent_barricade_ponic_1,약한 환기구 바리케이드
+t_name_exel_vent_barricade_ponic_2,보통 환기구 바리케이드
+t_name_exel_vent_barricade_ponic_3,튼튼한 환기구 바리케이드
+t_name_exel_vent_broken,환기구 출입구 (뚫림)
+t_name_fabric_roll_red,빨간 천 두루마리
+t_name_face_mask_improvised,임시 마스크
+t_desc_face_mask_improvised,희생된 넝마
+t_name_fire_hose_valve_right,소방 호스 밸브
+t_name_fire_hose_valve_right_broken,부서진 소방 호스 밸브
+t_name_fireplace_bar,라운지 벽난로
+t_name_first_aid_kit_wall_mounted,벽걸이 구급함
+t_desc_first_aid_kit_wall_mounted,벽이 준 선물
+t_name_first_aid_kit_wall_mounted_ruined,털린 벽걸이 구급함
+t_desc_first_aid_kit_wall_mounted_ruined,이미 누군가를 치료했다
+t_name_flashlight,손전등
+t_desc_flashlight,원하는 방향으로 끝없이 빛을 보낸다
+t_name_flight_pressure_suit,여압복
+t_desc_flight_pressure_suit,공허와 덩굴로부터 몸을 지켜 준다
+t_name_floor_lamp_crafted_flashlight,임시 스탠드 조명
+t_desc_floor_lamp_crafted_flashlight,거치된 빛줄기
+t_name_food_black_mustard,t_name_black_mustard
+t_desc_food_black_mustard,사실상 어디서든 자랄 수 있다
+t_name_food_california_poppy,t_name_california_poppies
+t_desc_food_california_poppy,늠름한 줄기에 황금빛 보물이 맺혀 있다
+t_name_food_dandelion,t_name_dandelion
+t_desc_food_dandelion,"쓰고, 풀 내음이 나고, 번식력이 강하다"
+t_name_food_dandelion_white_seed,t_name_dandelion_seeding
+t_desc_food_dandelion_white_seed,"몇몇 씨앗은 반겨 주는 땅을 찾지만, 대부분은 흩어지는 바람에 그저 사라진다"
+t_name_food_jagged_stem_bolete,t_name_jagged_stem_bolete
+t_desc_food_jagged_stem_bolete,"썩은 작은 손가락들, 싱싱하고 통통하다"
+t_name_food_ponic_tuber,Ponic 덩이줄기
+t_desc_food_ponic_tuber,이걸 꾸역꾸역 삼킬 생각만 해도 속이 조여든다
+t_name_food_ponic_tuber_cooked,Ponic 덩이줄기 (익힘)
+t_desc_food_ponic_tuber_cooked,날것보다는 부드럽지만 여전히 뻣뻣하고 전분 덩어리다. 속이 살짝 긴장할 뿐이다
+t_name_food_ponic_tuber_spoiled,Ponic 덩이줄기 (상함)
+t_desc_food_ponic_tuber_spoiled,거의 흙으로 돌아갔다
+t_name_food_toxic_grain,독성 곡물
+t_desc_food_toxic_grain,뭐든 한 번은 먹을 수 있다
+t_name_fridge_industrial,업소용 냉장고
+t_desc_fridge_industrial,몸이 통째로 들어갈 수도 있겠다
+t_name_globe_chalkboard_large,칠판 지구본
+t_name_globe_earth_large,지구 지구본
+t_name_hammer,망치
+t_desc_hammer,머리는 묵직하고 손잡이는 가볍다. 균형이 안 맞는다는 점이 이걸 위험하게 만든다
+t_name_hammer_crafted,제작한 망치
+t_desc_hammer_crafted,"팔에 힘만 충분히 실리면, 무엇이든 무기가 될 수 있다"
+t_name_hand_pump,회전식 수동 펌프 (고장)
+t_desc_hand_pump,주둥이가 실망한 짐승의 코처럼 축 처져 있다. 묘한 연민이 든다
+t_name_human_corpse_slouched,시체
+t_desc_human_corpse_slouched,"뭐, 그런 거지."
+t_name_human_remains_scattered,흩어진 유해
+t_desc_human_remains_scattered,남은 게 별로 없다
+t_name_instant_ramen,인스턴트 라면
+t_desc_instant_ramen,이 상태로는 과자다
+t_name_instant_ramen_cooked,인스턴트 라면 (조리됨)
+t_desc_instant_ramen_cooked,이 상태로는 부드럽고 말랑하다
+t_name_instant_yams,인스턴트 얌
+t_desc_instant_yams,달고 실하다
+t_name_instant_yams_cooked,인스턴트 얌 (조리됨)
+t_desc_instant_yams_cooked,"달고, 실하고, 뜨겁다"
+t_name_juice_bottle_square,주스병
+t_name_lamp_floor_milan_sail,사무용 스탠드 조명
+t_desc_lamp_floor_milan_sail,밝고 따뜻하다
+t_name_lamp_table_madrid_saucer,사무용 탁상 조명
+t_desc_lamp_table_madrid_saucer,책상 위의 다정한 친구
+t_name_lamp_table_madrid_shaker,사무용 책상 조명
+t_desc_lamp_table_madrid_shaker,균형이 아름답다
+t_name_lighter,라이터
+t_name_machete,마체테
+t_desc_machete,베고 가른다. 이게 뭘 위한 건지 알겠어.
+t_name_martini,마티니
+t_desc_martini,재료 하나하나는 맛이 없다. 섞어도 맛이 없다. 그런데 자꾸 당긴다!
+t_name_mat_nonslip_industrial_kitchen,업소용 주방 미끄럼 방지 매트
+t_name_medical_respirator,의료용 호흡기
+t_desc_medical_respirator,"어떤 공기는 살리고, 어떤 공기는 죽인다. 인생이 그렇지"
+t_name_mess_vomit,토사물
+t_name_metal_acorn,금속 도토리
+t_desc_metal_acorn,절대 자라지 않을 것이다.
+t_name_metal_bucket_blue,금속 양동이
+t_desc_metal_bucket_blue,원하는 짐을 담는 그릇
+t_name_metal_cylinder,산업용 금속 원통
+t_desc_metal_cylinder,무겁고 묵직하다
+t_name_metal_pipe,쇠파이프
+t_desc_metal_pipe,"벽을 따라 늘어선 형제들은 물을 나르지만, 이 파이프는 그저 몽둥이다. 새로운 쓰임새를 받아들였을까?"
+t_name_metal_spool,강철 밴드 감개
+t_desc_metal_spool,풀어 놓으면 길이가 어마어마하다
+t_name_metal_spool_empty,금속 감개 (빈 것)
+t_desc_metal_spool_empty,철사 하나 없이 벌거벗은 이 감개는 예전 모습의 그림자 같다
+t_name_mirror_locker,탈의실 거울
+t_name_mop,해진 대걸레
+t_desc_mop,한때는 당당했던 도구. 세월에 대머리가 됐다. 너무 해져서 아무것도 못 닦는다
+t_name_mop_bucket,대걸레 양동이
+t_desc_mop_bucket,축축하고 악취 나는 통
+t_name_mop_equipable,t_name_mop
+t_desc_mop_equipable,한때는 당당했던 존재. 세월에 대머리가 됐다. 너무 해져서 아무것도 못 닦는다
+t_name_mpd_bevi_mat_blue,t_name_bevi_mat
+t_name_mpd_chow_mat,t_name_chow_mat
+t_name_mpd_water_fountain_round,t_name_water_fountain
+t_name_navlink_terminal,항법링크 터미널
+t_name_needles_knit,뜨개바늘
+t_name_nuclear_fuel_rod,사용 후 연료봉
+t_desc_nuclear_fuel_rod,틀렸어! 틀렸어! 틀렸어! 틀렸어!
+t_name_ottoman_round_bar,오토만
+t_name_oven_industrial_tall,업소용 오븐
+t_desc_oven_industrial_tall,열과 압력의 감옥
+t_name_paper_crumpled,구겨진 종이
+t_desc_paper_crumpled,하나하나 안에 작은 선물이 들어 있다
+t_name_paper_tissue_crumpled,구겨진 휴지
+t_desc_paper_tissue_crumpled,마른 콧물로 빳빳하게 굳었다
+t_name_pen_a,t_name_pen
+t_desc_pen_a,검고 쓴 즙이 새는 막대
+t_name_pen_b,t_name_pen
+t_desc_pen_b,핏물 같은 자국을 흘리는 막대
+t_name_personal_status_ui_icon,플레이어 상태 UI
+t_name_plant_ponic_tuber,덩이줄기
+t_name_plate_big,큰 접시
+t_desc_plate_big,"크지만, 약하다"
+t_name_plate_small,작은 접시
+t_desc_plate_small,삶에서 가장 아름다운 것은 대개 가장 깨지기 쉽다
+t_name_player,플레이어
+t_name_player_station_icon,인벤토리에서 제작
+t_name_pocket_viscom,포켓 비스컴
+t_desc_pocket_viscom,검은 렌즈가 허무를 들여다본다
+t_name_ponic_bandages_sterilized,Ponic 붕대 (소독됨)
+t_desc_ponic_bandages_sterilized,물관이든 피든 묶어 준다
+t_name_ponic_bandages_unsterilized,Ponic 붕대 (소독 안 됨)
+t_desc_ponic_bandages_unsterilized,이 풀떼기가 당신의 상처에 독점 접근권을 얻는다
+t_name_ponic_fritters,Ponic 튀김
+t_desc_ponic_fritters,식감이 정말 다양해!
+t_name_ponic_leaves,Ponic 잎
+t_desc_ponic_leaves,얇고 잎맥이 두드러진다
+t_name_ponic_masa,Ponic 마사
+t_desc_ponic_masa,곱게 정제한 가루
+t_name_ponic_spear_expert,Ponic 창
+t_desc_ponic_spear_expert,배신한 줄기
+t_name_ponic_stalks,Ponic 줄기
+t_desc_ponic_stalks,잎사귀 혼돈을 가지런히 쌓아 둔 더미
+t_name_ponic_tamale_cooked,Ponic과... 아무것도 없는 타말레
+t_desc_ponic_tamale_cooked,"잎의 껍질, 가루의 살, 소는 없음..."
+t_name_ponic_tamale_cooked_palm,Ponic 야자순 타말레
+t_name_ponic_tamale_cooked_yam,Ponic 얌 타말레
+t_name_ponic_tamale_uncooked,Ponic 타말레 (조리 전)
+t_desc_ponic_tamale_uncooked,"잎의 껍질, 가루의 살"
+t_name_ponic_tamale_uncooked_palm,Ponic 야자순 타말레 (조리 전)
+t_name_ponic_tamale_uncooked_yam,Ponic 얌 타말레 (조리 전)
+t_name_ponic_tortilla,Ponic 토르티야
+t_desc_ponic_tortilla,피부처럼 만지면 따뜻하다
+t_name_poster_land_now,"포스터: ""당장 착륙하라!"""
+t_name_power_bus_link,전원 버스 연결부
+t_name_power_cell,파워 셀
+t_desc_power_cell,"아무 소리도 안 나지만, 생명력으로 웅웅거리는 상상을 하게 된다"
+t_name_power_cell_empty,파워 셀 (방전)
+t_desc_power_cell_empty,가능성일 뿐이다
+t_name_power_cell_recharger,파워 셀 충전기
+t_name_power_socket,파워 셀 소켓
+t_name_ppe_footlocker,의료용품 사물함
+t_desc_ppe_footlocker,가장 중요한 수리 도구를 보관하는 곳
+t_name_preserved_chili_oil,보존 고추기름
+t_name_preserved_chili_oil_cooked,보존 고추기름 (조리됨)
+t_name_preserved_mushroom_broth,보존 버섯 육수
+t_name_preserved_mushroom_broth_cooked,보존 버섯 육수 (조리됨)
+t_name_preserved_olives_black,보존 블랙 올리브
+t_desc_preserved_olives_black,말랑한 검은 알 같다
+t_name_preserved_olives_black_cooked,보존 블랙 올리브 (조리됨)
+t_desc_preserved_olives_black_cooked,"세상에 나올 준비가 된, 말랑한 검은 알 같다"
+t_name_preserved_olives_green,보존 그린 올리브
+t_desc_preserved_olives_green,말랑한 초록 알 같다
+t_name_preserved_olives_green_cooked,보존 그린 올리브 (조리됨)
+t_desc_preserved_olives_green_cooked,"이제 부화할 준비가 된, 말랑한 초록 알 같다"
+t_name_preserved_palm,보존 야자순
+t_desc_preserved_palm,고소하고 무난하다
+t_name_preserved_palm_cooked,보존 야자순 (조리됨)
+t_desc_preserved_palm_cooked,"고소하고, 무난하고, 따뜻하다"
+t_name_preserved_tomato_sauce,보존 토마토소스
+t_desc_preserved_tomato_sauce,과일일까? 아니면 액체 고기일까?
+t_name_preserved_tomato_sauce_cooked,보존 토마토소스 (조리됨)
+t_desc_preserved_tomato_sauce_cooked,과일일까? 아니면 액체 고기일까? 피처럼 뜨겁다.
+t_name_radio_stand,라디오 스탠드
+t_name_rat_axe,쥐 도끼 (분실물)
+t_desc_rat_axe,돌려줘야 할까?
+t_name_rat_axe_gifted,쥐 도끼 (선물)
+t_desc_rat_axe_gifted,"엄지와 검지 사이에 쥐고 있으니, 작은 친구들이 떠오른다"
+t_name_rat_medicine_brain_seed,약초 우린 쥐 젖
+t_desc_rat_medicine_brain_seed,매캐하고 풀 내음 나는 맛이 안 그래도 이상한 쥐 젖의 풍미를 더한다. 강한 약 같다... 하지만 대가는 뭘까
+t_name_rat_milk,쥐 젖
+t_desc_rat_milk,"쥐를 위한 젖일까, 쥐에게서 나온 젖일까?"
+t_name_rat_poop,쥐똥
+t_desc_rat_poop,의외로 바싹 말라 있다
+t_name_rat_trading_post,교역소
+t_name_ridged_vneck_beige,골지 브이넥
+t_name_ridged_vneck_seagreen,골지 브이넥 셔츠
+t_name_root_whipper_cord,Stranglecord 한 가닥
+t_desc_root_whipper_cord,두껍고 촘촘하다
+t_name_root_whipper_tooth,Stranglecord 이빨
+t_desc_root_whipper_tooth,"가볍고 날카로우며, 가운데에 뭔가를... 옮기기 위한 빈 관이 나 있다"
+t_name_rubber_duck,고무 오리
+t_desc_rubber_duck,깜빡이지 않는 눈이 Void를 어둡게 응시한다
+t_name_rug_large_admin_brown,큰 갈색 러그
+t_name_rug_large_admin_green,큰 초록 러그
+t_name_rug_large_admin_yellow,큰 노란 러그
+t_name_screwdriver,드라이버
+t_desc_screwdriver,시간만 충분하면 가장 강력한 기계도 쓰러뜨릴 수 있다
+t_name_shiv_ceramic_crafted,제작한 사제 칼
+t_desc_shiv_ceramic_crafted,온전할 때보다 조각일 때가 더 쓸모 있었다
+t_name_shower_locker,탈의실 샤워기
+t_name_sink_kitchenette_admin,사무실 간이 주방 싱크대
+t_name_sink_kitchenette_admin_broken,사무실 간이 주방 싱크대 (고장)
+t_name_sink_locker,탈의실 세면대
+t_name_sink_locker_broken,탈의실 세면대 (고장)
+t_name_sledge_hammer,오함마
+t_desc_sledge_hammer,"만듦새는 정교하고, 목적은 무식하다"
+t_name_sledge_hammer_crafted,제작한 오함마
+t_desc_sledge_hammer_crafted,이 줄기는 새로운 종류의 열매를 맺는다
+t_name_sleepingbag_cloak_navy,임시 남색 망토
+t_name_sleepingbag_cloak_olive,임시 올리브색 망토
+t_name_socks_crew,크루 양말
+t_desc_socks_crew,다섯 발가락을 하나의 큰 발가락으로 만든다
+t_name_space_helmet,EVA 헬멧
+t_name_spirit_circular,원형 술병
+t_desc_spirit_circular,"포장엔 ""프리미엄""이라고 쓰여 있지만, 맛은 그냥 그렇다"
+t_name_spirit_fat,뚱뚱한 술 단지
+t_desc_spirit_fat,도전 과제다!
+t_name_spirit_short,미니 술병
+t_desc_spirit_short,취하기엔 충분하다
+t_name_spirit_tagged,미드나잇 블루 술
+t_desc_spirit_tagged,"그 쓴맛과, 그 맛이 불러오는 기분은 오직 ""공허""라고밖에 표현할 수 없다"
+t_name_spirit_tall,주황색 술병
+t_desc_spirit_tall,따뜻한 포옹처럼 생긴 (그리고 그런 맛이 나는) 술
+t_name_stool_bar,바 스툴
+t_name_stool_medical,의료용 스툴
+t_name_storage_box,조개형 수납 상자
+t_desc_storage_box,실망스럽게도 비어 있다
+t_name_storage_box_large,대형 수납 상자
+t_desc_storage_box_large,"넓지만, 비어 있다"
+t_name_storage_box_stacking,적재형 수납 상자
+t_desc_storage_box_stacking,"정리하긴 쉽지만, 비어 있다"
+t_name_storage_box_tool,공구 수납 상자
+t_desc_storage_box_tool,"칸은 엄청 많은데, 어느 칸에도 아무것도 없다"
+t_name_storage_canister,물통
+t_desc_storage_canister,물에 통의 매캐한 냄새가 밴다
+t_name_storage_canister_empty,통 (빈 것)
+t_desc_storage_canister_empty,손가락 마디로 톡톡 두드리면 기분이 좋다
+t_name_storage_jug,물 주전자
+t_desc_storage_jug,꽤 많이 들어간다!
+t_name_storage_jug_empty,주전자 (빈 것)
+t_desc_storage_jug_empty,두드리면 둥글고 텅 빈 소리가 난다
+t_name_stove_oven_powered,오븐
+t_name_table_cafeteria,식당 테이블
+t_desc_table_cafeteria,보기만 해도 이 표면을 핥으면 어떤 맛일지 뇌가 느껴 버린다
+t_name_table_coffee_ball_color,알록달록한 나무 커피 테이블
+t_name_table_coffee_ball_wood,나무 커피 테이블
+t_name_table_industrial_kitchen,업소용 주방 테이블
+t_name_table_medical,의료용 테이블
+t_name_table_round_bar,원형 테이블
+t_name_table_wood_library,나무 테이블
+t_name_thread_spool_blue,파란 실패
+t_name_thread_spool_red,빨간 실패
+t_name_tipping_cabbage_leaf_immature,덜 자란 Tipping Cabbage 잎
+t_desc_tipping_cabbage_leaf_immature,너무 일찍 따인 데 항의하듯 입안을 바싹 마르게 한다
+t_name_tipping_cabbage_leaf_mature,잘 익은 Tipping Cabbage 잎
+t_desc_tipping_cabbage_leaf_mature,통통하고 즙이 많다
+t_name_toilet_locker,탈의실 변기
+t_name_toilet_locker_broken,탈의실 변기 (고장)
+t_name_trailer_label,트레일러용 문구
+t_name_trashcan_compost,퇴비 쓰레기통
+t_desc_trashcan_compost,안쪽에서 향긋한 흙냄새가 난다
+t_name_trashcan_domestic,가정용 쓰레기통
+t_name_trashcan_industrial,산업용 쓰레기통
+t_desc_trashcan_industrial,안쪽에서 함선 내장 냄새가 난다
+t_name_trashcan_industrial_hazard,산업 위험물 쓰레기통
+t_desc_trashcan_industrial_hazard,안쪽에서 금지된 함선 내장 냄새가 난다. 매캐하고 증오스럽다
+t_name_trashcan_medical,의료용 쓰레기통
+t_desc_trashcan_medical,안쪽에서 위안이 되는 사람 냄새가 난다
+t_name_trashcan_medical_hazard,의료 위험물 쓰레기통
+t_name_trashcan_public,공용 쓰레기통
+t_desc_trashcan_public,안쪽에서 공동체 정신의 냄새가 난다
+t_name_trashcan_short_domestic,작은 가정용 쓰레기통
+t_name_trashcan_short_medical_hazard,작은 의료 위험물 쓰레기통
+t_name_trauma_pack,외상 처치 키트
+t_desc_trauma_pack,이걸 충분히 찾을 수만 있다면 영원히 살 수 있을 것 같다
+t_name_tv_cart_domestic,TV 카트
+t_name_twig_snapper_senser,깃털 감지기
+t_desc_twig_snapper_senser,공기를 맛보는 섬세한 털
+t_name_underwear_briefs,삼각팬티
+t_desc_underwear_briefs,"""아래쪽""을 제자리에 잘 잡아 준다"
+t_name_underwear_tank,스포츠 브라
+t_desc_underwear_tank,"""위쪽""을 제자리에 잘 잡아 준다"
+t_name_uproot_root_bundle,가는 뿌리 다발
+t_desc_uproot_root_bundle,움켜쥐고 묶을 수 있는 질기고 섬세한 섬유
+t_name_utility_knife,커터칼
+t_desc_utility_knife,"살과 잎은 베지만, 선체에는 흠집 하나 못 낸다. 이 도구는 제 분수를 안다"
+t_name_vase_a,파란 도자기 꽃병
+t_desc_vase_a,"이상한 기분이 든다면, 여기에 물을 따라 마실 수도 있겠다"
+t_name_vase_b,초록 도자기 꽃병
+t_desc_vase_b,"여기에 물을 따라 마실 수는 있지만, 입술에 닿는 느낌이 어색하다"
+t_name_wall_art_astronaut_portrait,"벽 그림: ""우주비행사들의 초상"""
+t_desc_wall_art_astronaut_portrait,"한 남자의 머리칼은 함선 금속처럼 번쩍이고, 다른 이의 머리칼은 공허처럼 반짝인다"
+t_name_wall_art_astronauts,"벽 그림: ""우주비행사들"""
+t_desc_wall_art_astronauts,서로의 눈을 애틋하게 바라보며...
+t_name_wall_art_bird_gosling_feeder,"벽 그림: ""새끼 거위와 덤불"""
+t_desc_wall_art_bird_gosling_feeder,넓은 벽 그림. 이상하고 어설픈 생물들이 낯선 꽃들과 나란히 그려져 있다
+t_name_wall_art_buildings,"벽 그림: ""건물들"""
+t_desc_wall_art_buildings,기괴한 모양과 배치를 한 상상 속 함선 모듈 세 개
+t_name_wall_art_dappled_granary_center,t_name_wall_art_dappled_granary
+t_desc_wall_art_dappled_granary_center,환상적인 검붉은 닭이 씨앗으로 얽은 나무 벽을 움켜쥐고 있다. 표정은 우스꽝스럽지만 단호하다. 세 폭 그림 중 두 번째
+t_name_wall_art_dappled_granary_left,t_name_wall_art_dappled_granary
+t_desc_wall_art_dappled_granary_left,환상적인 검붉은 닭이 씨앗으로 얽은 나무 벽을 움켜쥐고 있다. 표정은 우스꽝스럽지만 단호하다. 세 폭 그림 중 첫 번째
+t_name_wall_art_dappled_granary_right,t_name_wall_art_dappled_granary
+t_desc_wall_art_dappled_granary_right,환상적인 검붉은 닭이 씨앗으로 얽은 나무 벽을 움켜쥐고 있다. 표정은 우스꽝스럽지만 단호하다. 세 폭 그림 중 세 번째
+t_name_wall_art_dappled_granary_tri,t_name_wall_art_dappled_granary
+t_desc_wall_art_dappled_granary_tri,환상적인 검붉은 닭이 씨앗으로 얽은 나무 벽을 움켜쥐고 있다. 표정은 우스꽝스럽지만 단호하다
+t_name_wall_art_gosling_run,"벽 그림: ""달아나는 새끼 거위들"""
+t_desc_wall_art_gosling_run,넓은 벽 그림. 이상하고 어설픈 생물들이 서툴게 허둥지둥 달린다
+t_name_wall_art_lem_spawn_17,"벽 그림: ""LEM 먼지"""
+t_name_wall_art_malibu_brush,"벽 그림: ""말리부 덤불"""
+t_desc_wall_art_malibu_brush,이 이상한 꽃들은 분명 다른 세계에서 자랄 것이다
+t_name_wall_art_movie_poster_waterfeature1,"영화 포스터: ""워터피처"""
+t_desc_wall_art_movie_poster_waterfeature1,"""더 워터피처: 물은 피보다 진하다""라고 쓰여 있다"
+t_name_wall_art_movie_poster_waterfeature2,"영화 포스터: ""워터피처 II 여과되지 않은 폭력"""
+t_desc_wall_art_movie_poster_waterfeature2,"""워터 피처 II: 여과되지 않은 폭력""이라고 쓰여 있다"
+t_name_wall_art_movie_poster_waterfeature3,"영화 포스터: ""워터피처 3 펑키한 물"""
+t_desc_wall_art_movie_poster_waterfeature3,"""워터 피처 3: 펑키한 물""이라고 쓰여 있다"
+t_name_wall_art_rock_17,"벽 그림: ""바위"""
+t_name_watch_digital,디지털 손목시계
+t_desc_watch_digital,바쁜 사람들을 위한 팔찌
+t_name_water_fountain_round,t_name_water_fountain
+t_name_window_plumb,t_name_window_plumbing
+t_name_window_plumb_center,t_name_window_plumbing
+t_name_wood_scrap,나무 조각
+t_desc_wood_scrap,쪼개진 아름다움
+t_name_worker_uniform_boots_white,흰색 작업복 장화
+t_desc_worker_uniform_boots_white,뿌리와 갈대보다는 콘크리트와 캣워크를 쿵쿵 밟기에 더 알맞다
+t_name_worker_uniform_pants_orange,주황색 작업복 바지
+t_desc_worker_uniform_pants_orange,"적당히 따뜻하고, 적당히 가려 준다"
+t_name_worker_uniform_vest_orange,주황색 작업복 조끼
+t_desc_worker_uniform_vest_orange,이 옷에서는 보기 드문 그리스와 기름 냄새가 풍긴다
+t_name_world_inventory,바닥
+t_furn_museum_display_whatisawar_1,"지구의 대륙들은 여러 지역으로 쪼개져 있었고, 이 지역들은 ""국가"", ""민족"", ""영토"", ""제국"", ""식민지"" 등으로 번갈아 불렸다."
+t_furn_museum_display_whatisawar_2,"서로 다른 국가의 지도자들이 대화로 풀 수 없는 분쟁에 빠지면, 각 국가는 자국민을 모아 집단(""군대"")을 만들어 상대 국가의 사람들을 공격했다. 이것을 ""전쟁""이라고 불렀다"
+t_furn_museum_display_whatisawar_3,"인류 역사 내내 전쟁은 폭력적이고, 혼란스럽고, 비극적인 일이었다. 그러나 20세기에 이르러 산업화와 원자력 혁명으로 사망자 수가 수천에서 수백만으로 늘어났다"
+t_furn_museum_display_whatisawar_4,"이 정도의 파괴를 가늠해 보려면, 우리 퍼걸러호의 모든 사람이 한 명도 빠짐없이 죽었다고 상상해 보라. 그리고 퍼걸러호가 100개도 넘게 있었고, 그 사람들도 모두 죽었다고 상상해 보라. 20세기 전쟁은 그런 규모였다."
+t_furn_museum_display_wugnatowar_1,"항해력 1년 이전 수십 년 동안, 미합중국이라는 국가에서 잔혹한 내전이 벌어졌다"
+t_furn_museum_display_wugnatowar_2,"조직 노동자와 정부 및 고용주 사이의 긴장이 수년간 이어진 끝에, 모든 노동조합과 기타 체제를 흔드는 사회 운동이 불법으로 선포되었다. 이 조직들의 잔존 세력은 지하로 숨어들었고, 그 결과 폭동과 게릴라 파업, 마침내는 전면전이 일어났다. 전 세계에서 혁명 세력과 충성파 세력 사이에 비슷한 분쟁이 터져 나왔다."
+t_furn_museum_display_wugnatowar_3,"수년 동안 나토군의 지원을 받은 미국 행정부 잔존 세력은 새로 세워진 ""노동자 연합 정부""와 싸우며 영토를 주고받았다. 가까스로 핵 사고를 피한 뒤 분쟁은 서기 1969년에 일시 중단되었고, 이는 결국 우리의 고향 퍼걸러호의 발사로 이어졌다."
+t_furn_museum_display_wugnatowar_4,"발사 이후 언젠가 전투가 재개되었다는 것이 정설이지만, 분쟁의 결말은 여전히 수수께끼로 남아 있다. 발사 후 몇 해 동안 지상의 지구빔 기지가 여러 세력의 손을 거치면서, 우리는 점점 더 제각각이고 서로 모순되는 소식을 받았다"
+t_furn_museum_display_wugnatowar_5,"퍼걸러호 학자들이 취할 수 있는 현실적인 입장은 이것뿐이다. 서기 1979년은 우리가 조금이라도 구체적으로 알 수 있는 지구 역사의 마지막 해이며, 항해력 1년은 우리의 새로운 문화적 기억의 시작이다"
+t_furn_museum_display_pergola_energy_1,"퍼걸러호는 두 가지 동력원으로 움직이며, 둘 다 원자력이다!"
+t_furn_museum_display_pergola_energy_2,우리의 Bussard 램제트 시스템은 성간 물질에서 떠도는 수소를 퍼 올려 핵융합으로 에너지를 만든다. 이것이 에머슨으로 향하는 여정의 추진 시스템을 구동하는 주 발전기다
+t_furn_museum_display_pergola_energy_3,램제트는 거주 모듈에도 보조 에너지를 공급한다. 하지만 출력이 이동 속도에 비례하기 때문에 감속 중에는 신뢰도가 떨어진다.
+t_furn_museum_display_pergola_energy_4,"램제트 외에, ""전통적인"" 원자로가 퍼걸러호 거주 모듈의 주 전력원이다. 원자로는 처음 실은 화물에 포함된 우라늄 같은 핵물질에 의존한다."
+t_furn_museum_display_pergola_energy_5,이 핵물질은 이른바 핵 재처리를 통해 재활용할 수 있다. 각 모듈에는 단일 고장점을 피하기 위해 원자로가 여러 기 있다.
+t_furn_museum_display_nuclear_rods,이런 상자는 일부 소모된 연료가 식어서 재처리할 준비가 되면 보관하는 데 쓰인다. 이 상자에 든 막대는 산화철로 만든 복제품이다
+t_furn_museum_display_nuclear_controversies_1,지구에서 핵과학은 논란거리였다. 서기 1945년 히로시마와 나가사키 원자폭탄 투하는 인류 최대의 범죄 중 하나로 기억된다.
+t_furn_museum_display_nuclear_controversies_2,"서기 1969년 충성파 국가들의 대통령이 뉴시카고 공격을 명령했을 때, 명령이 실행되기도 전에 그는 자신의 참모들에 의해 교수형을 당했다."
+t_furn_museum_display_nuclear_controversies_3,"원자력 에너지는 원자의 힘을 평화적으로 쓰는 것이지만, 핵물질을 정제하는 일부 공정은 원자로든 폭탄이든 비슷해 보인다."
+t_furn_museum_display_nuclear_controversies_4,"노연정-나토 전쟁 중과 그 이후, 많은 국가가 외국의 핵 개발을 의심했고, 이는 국제 군축 위원회로 이어졌다."
+t_furn_museum_display_nuclear_controversies_5,"휴전 조약은 퍼걸러호 원자로가 지구 궤도에서 가동되는 것을 승인했지만, 노연정과 이란의 합동 감시단이 지상 시험선 1호에서 원자로가 가동 중인 것을 발견하면서 우리 계획은 지연되었다."
+t_furn_museum_display_planetdefinition_1,"""행성""은 항성 주위를 도는 암석과 기체로 된 구체다. 행성은 퍼걸러호보다 몇 배, 몇십 배, 아니 훨씬 더 크다. 너무 커서 행성의 중력만으로 두꺼운 대기를 붙잡아 둘 수 있을 정도다!"
+t_furn_museum_display_planetdefinition_2,우리 퍼걸러호는 구심력으로 중력이 있는 듯한 착각을 만들어 우리 발을 바닥에 단단히 붙여 둔다. 그럼 우리 대기는? 오직 격벽만이 대기가 우주의 진공으로 새어 나가는 것을 막아 준다!
+t_furn_museum_display_planetdefinition_3,"대부분의 과학자들은 뇌가 큰 숫자를 개념화하는 능력에 명확한 한계가 있다고 믿는다. ""10""과 ""100""은 전혀 다른 의미지만, ""100만""과 ""10억"" 사이에는 무슨 차이가 있을까?"
+t_furn_museum_display_planetdefinition_4,"규모가 이토록 거대하니, 우리가 에머슨에 닿기 전까지 어떤 퍼걸러인도 행성에서 사는 게 어떤 것인지 진정으로 이해하지 못할 것이다."
+t_furn_museum_display_planetdefinition_5,"출근길에 낯선 사람 백 명을 스쳐 지나가거나, 폭이 3천 마일에 달하는 물 앞에 서 있는 모습을 상상할 수 있는가? 이상하게 들리겠지만, 우리 후손들은 언젠가 이런 경험을 하게 될 것이다."
+t_furn_museum_display_pergolanjourney_1,"오래전, 뿌리 세대는 지금 당신이 서 있는 바로 이 배를 타고 지구를 떠났다. 우리의 고향 퍼걸러호다!"
+t_furn_museum_display_pergolanjourney_2,"이 세대는 아주 용감한 일을 해냈다. 인류의 고향을 떠났고, 새로운 설계의 우주선에 목숨을 맡겼으며, 살아서는 끝을 보지 못할 여정을 시작했다."
+t_furn_museum_display_pergolanjourney_3,"어떤 이들은 이른바 ""중간 세대""가 맞게 될 운명, 즉 행성에 한 번도 발을 디뎌 보지 못하고 살다 죽을 운명에 죄책감을 드러냈다."
+t_furn_museum_display_pergolanjourney_4,"반면에 행성의 삶에는 ""햇볕 화상"", ""소아마비"", ""토네이도"", ""범죄"" 같은 것들이 따라오니, 어쩌면 운 좋은 쪽은 우리일지도!"
+t_furn_museum_display_pergolanjourney_5,"우리가 숨을 쉴 때마다, 이 배를 물려받는 세대가 이어질 때마다, 우리는 위대한 퍼걸러호 실험을 의심했던 지구의 사람들이 틀렸음을 증명한다"
+t_furn_museum_display_istherestillanearth_1,오늘날 지구는 어떤 모습일까? 아직 사람이 살고 있을까? 우리는 그저 알 수 없다. 여정 70년째에 지구빔 무선 연결이 끊어지기 시작했다.
+t_furn_museum_display_istherestillanearth_2,"지구빔이 끊기기 전에도, 지상 송신기가 자치만 지구, 나토, 노동자 연합 정부 사이에서 빠르게 주인이 바뀌면서 정확성에 대한 우려가 있었다."
+t_furn_museum_display_istherestillanearth_3,막바지에 노연정에서 받은 방송은 지나치게 낙관적이어서 선전 요소가 섞였을 가능성이 높아 보였다.
+t_furn_museum_display_istherestillanearth_4,"많은 퍼걸러호 학자들은 서기 1960년 이후로 핵 위기를 아슬아슬하게 넘긴 일이 그렇게 많았으니, 행성이 살 수 없는 곳이 되는 건 시간문제였을 것이라고 결론짓는다."
+t_furn_museum_display_istherestillanearth_5,"지구의 운명이 어떻든, 퍼걸러인으로서 우리의 의무는 그들의 실수에서 배우고 에머슨에서 새 출발을 하는 것이다."
+t_furn_bulletin_board_1,"...습득: 팬시 래트 한 마리, 아메리칸 블루 품종, 수컷, 2살 정도로 추정. 누구의 애완동물인지 동물원 소속인지 모르겠음. 지금 제 사치품 카드를 거의 다 갉아 먹는 중이니, 찾아가실 곳은..."
+t_furn_bulletin_board_2,...엔트로피와 싸우는 데 동참하세요. 오늘 자녀를 탐색 스카우트에 등록하세요! 탐험을 좋아하는 모든 어린이와 동심을 가진 분께 딱 맞습니다...
+t_furn_bulletin_board_3,"...손가락이 재빠르고, 도둑 가면을 쓰고, 도시에서 살았던 동물은? 다음 지구 동물 독서 모임에서 알아보세요! 매주 수요일 14:00 휴게실에서 만나요"
+t_furn_bulletin_board_4,"...사고 보고 건수가 우려스러울 만큼 많습니다. 진료 한 번마다 대체할 수 없는 의약품이 소모된다는 점을 기억해 주세요. 안전하게, 엔트로피와 싸웁시다!..."
+t_furn_bulletin_board_5,"...전기 소설 길드 지원 접수를 시작합니다! 지원하시려면 아직 기록 보관소에 없는 인물(60세 초과 또는 고인)에 대해 쓴 예시 챕터를 제출해 주세요. 아마추어 지원도 환영하지만, 기준은 높습니다..."
+t_said_radio_previouslybroadcast,...다음 프로그램은 이전에 방송된 내용입니다...
+t_said_radio_static,"<치직>
+<치지직>
+<치직>
+<치지지직>"
+t_said_film_yourjourneyplanettoplanet,"도토리 성간선 공동체가 자랑스럽게 선보입니다:
+""당신의 여정: 행성에서 행성으로!""
+이 둥근 물체를 보세요. 뭔지 알아보겠나요?  
+누군가는 ""푸른 구슬""이라 부르지만, 대개 우리는 ""지구""라고 부릅니다
+파란 부분은 바다이고, 초록과 갈색 부분은 대륙입니다. 
+지구는 행성이고, 우리 인류가 태어난 곳이죠.
+저는 도토리 성간선 공동체의 앨런 윈터 박사입니다. 
+여러분이 오늘 서 있는 배를 만드는 데 참여했죠.
+이 영상을 녹화하는 지금 저는 이 행성 지구에 서 있습니다. 
+제가 가 본 유일한 곳이고, 
+앞으로도 갈 수 있는 유일한 곳이죠. 
+하지만 이걸 보고 있는 여러분은, 
+이곳에 와 본 적이 아예 없을지도 모릅니다.
+역사의 대부분 동안 우리는 지구를 유일무이한 존재로 여겨 왔습니다. 
+알려진 우주에서 생명을 품은 유일한 행성으로요.
+지구가 살기 좋은 데는 여러 이유가 있습니다. 
+질량, 자기장, 
+태양열과 공전 거리의 비율, 
+지각 운동, 그 밖의 많은 것들이죠. 
+여기 이 도표를 잘 봐 두세요. 곧 다시 나올 테니까요.
+모든 게 바뀐 건 우리가 하늘을 올려다봤을 때였습니다. 
+바로 이쯤이요. 보이나요?
+아뇨, 당연히 안 보이죠! 
+우리 태양의 바로 옆집 이웃인 바너드별은 
+맨눈으로는 보이지 않습니다. 
+하지만 새 우주 망원경의 도움을 받으면...
+훨씬 낫네요! 
+이 이미지에서 일련의 과학적 추론이 시작되었고 
+우리는 이 작은 점이 그냥 별이 아니라는 걸 알게 됐습니다.  
+하나의 온전한 항성계였던 거죠.
+그 항성계 안에는 바너드 b라는 행성이 있습니다. 
+""에머슨""이라는 별명으로 더 익숙할지도 모르겠네요.
+그럼 에머슨은 어떤 곳일까요? 지구와 많이 닮았을까요? 
+솔직히 말씀드리면, 우리도 전혀 모릅니다. 
+너무 멀리 있으니까요.
+하지만 아까 본 작은 도표를 기억하신다면, 
+에머슨이 어떤지 비교해 봅시다...
+낯익지 않나요? 
+살기 좋은 정도로 따지면, 합격점이라고 하겠습니다! 
+하지만 확실히 알 방법은 단 하나뿐이죠.
+저는 직접 확인할 수 없을 겁니다. 
+저는 여기 지구빔 기지에 남아 
+아래에서 퍼걸러호를 안내할 테니까요. 
+대신 소개해 드릴 사람이 있습니다. 
+인사하렴, 아들!
+안녕하세요 여러분! 제 이름은 윌리엄이고, 퍼걸러호 발사 승무원이에요. 
+저도 에머슨은 못 볼 거예요. 하지만 언젠가 저는 아이를 낳겠죠. 
+그리고 그 아이들도 언젠가 아이를 낳고, 그다음엔... 뭐, 무슨 말인지 아시죠.
+지금부터 한 세기도 더 지나서, 제 후손들이, 어쩌면 여러분을 포함해서 
+이 엄청나게 긴 항해를 마치고 
+가장 유망한 이 행성의 궤도에 내려앉을 거예요. 
+여러분이 도착하면, 인류는 마침내 두 번째 고향을 갖게 되는 거죠.
+나도 그보다 더 잘 말할 순 없었겠구나, 윌. 
+자, 이제 잠깐 진지한 얘기를 하겠습니다.
+요즘 여기 지구에서 문제가 좀 있었습니다. 
+우리가 유일한 고향을 파괴할지도 모를 상황이죠.
+아주 오래된 이야기입니다. 서로 맞서는 두 편이 
+저마다 자기가 옳다고 확신하고, 
+저마다 이 세계의 자원을 탐내며, 
+저마다 타협이라면 질색을 하죠. 
+하지만 우리 도토리파는 제3의 길이 가능하다고 믿습니다.
+나누고, 협력하고, 대화하고, 서로에게서 배울 수 있다고요. 
+그리고 그러려면 새로 시작해야 한다고요.
+착륙하는 세대는 새 세계를 개척하며 많은 역경을 겪을 겁니다. 
+하지만 제 생각에 가장 큰 도전은 ""중간 세대""에게 돌아갈 겁니다. 
+여러분은 평생을 이 배 한 척 안에서 살며, 
+처음 싣고 떠난 것만으로 버텨야 하니까요. 
+서로 잘 지내고, 자원을 나누고, 
+이념을 거부하고, 소박하게 살며, 
+조화롭게 스스로를 조직할 수 있을까요?
+저는 여러분이 해낼 수 있다고 생각합니다.
+그리고 여러분이 에머슨에 닿을 즈음엔, 
+오는 길에 배운 교훈이 멋진 새 세계로 이어지길 바랍니다.
+행성은 섬세한 존재입니다.
+여러분은 우리가 우리 행성을 돌본 것보다 더 잘 돌봐 주기를 바랄 뿐입니다.
+아무튼, 얘들아,
+떠나기 전에 딱 하나만 더 부탁할게요.
+착륙하면, 그리운 어머니 지구에게 전화 한 통 해 줄래요?"
+t_said_radio_loopexplanation,"안녕 처녀자리 모듈 여러분, 여러분의 친구 미치 제리코입니다, 
+어쩌면 이번이 제 마지막 방송일지도 모르겠네요.
+통폐합이 처녀자리에도 닥칠 거란 건 다들 알고 있었지만, 
+이렇게 순식간에 벌어질 줄은 정말 몰랐어요.
+솔직히 말할게요. 사실 전 벌써 여길 떠났어야 해요.
+위원회의 그레고리가 부스에 같이 있는데, 
+저를 잡아먹을 듯이 노려보고 있네요. 미안해요, 그레그. 
+네, 이제 마무리할게요.
+전 늘 기록 보관에 좀 깐깐한 편이었죠. 
+몇 년 동안 엔지니어 피터 커트모어와 함께
+우리 프로그램의 테이프 백업을 관리해 왔어요
+그런데 최근 피터가 밤낮없이 작업해서,
+송신기를 다시 프로그래밍했어요 
+지난 방송들을 반복 재송출하도록요. 바라건대 영원히요.
+라디오는 강력한 매체예요. 
+뉴스를 계속 알려 주고. 
+예술, 과학, 교육을 퍼뜨리고.
+방을 음악으로 채우고. 
+하루에 웃음과 즐거움을 가져다주죠.
+하지만 무엇보다도, 라디오는 누군가와 함께 있는 방법이에요. 
+방 안에서 다른 사람의 목소리를 듣는 거죠, 
+혼자 앉아 있을 때조차요.
+방송은 일방적인 관계라고 말하는 사람들도 있지만, 
+전 한 번도 그렇게 생각한 적 없어요.
+이걸 알아줬으면 해요. 여러분이 제 존재를 느꼈을 때, 
+숙소에서든, 공용실에서든, 라운지에서든, 
+저도 여러분을 똑같이 느꼈다는 걸요.
+지금도 청취자 여러분의 존재가 느껴져요. 
+그리고 마음 깊은 곳에서는, 아직 존재하지도 않는 사람들의 존재도 느껴져요. 
+그들도 이 방송을 듣고 있고, 우리는 연결되어 있어요.
+그래서 우리의 자녀와 손주들에게 말하고 싶었어요. 
+기계 문제를 해결하고, 
+배급을 제대로 해내고, 
+마침내 엔트로피 방정식의 균형을 맞추고, 
+우리가 두고 떠난 모듈들을 되찾을 준비가 된 여러분에게.
+처녀자리에 돌아온 걸 환영해요. 여기가 마음에 들 거예요. 
+방송을 즐겨 주세요."
+t_said_radio_gossipshow,"안녕, 처녀자리의 관음증 환자 여러분! 
+전 크리스털 시어, 모든 걸 꿰뚫어 보는 진행자예요.
+여러분은 Overheard on Air를 듣고 계십니다!
+오늘도 따끈따끈한 끝내주는 가십을 준비했어요
+이 멋진 모듈의 제보자들에게서요.
+첫 번째 코너는 ""사재기꾼 수치의 전당"".
+헥터 제임슨은 이름이 여러 개인 남자로 유명하죠.
+정확히는 세 개, 사치품 카드를 세 장 가졌으니까요!
+이봐요 헥, 이해해요. 저도 마가리타 좋아해요. 
+할 수만 있다면 매일 한 잔씩 마실 거예요. 
+하지만 데킬라를 빼앗긴 손주들을 상상해 보세요,
+소금 묻힌 잔 테두리의 즐거움을 영영 모를 아이들을.
+한 세대 전체가, 나쁜 선택을 하지 않는다니요!
+당신의 이기심이 제 가십 장사의 미래까지 위협한다고요.
+헥, 이 작은 가정은 어렵지 않을 거예요, 
+앞으로 아주 오랫동안 당신이 마실 술은 정확히 0잔일 테니까요.
+불명예 언급은 다음 분들께: 브래드 클렘슨,
+샌디 스미스, 그리고 아서 스톤. 
+우리 몫도 좀 남겨 둬요, 여러분!
+신나게 다음 코너로 넘어가 볼까요: 
+""누가 누가 물고 빠나?""
+이틀 전 감압 훈련 때문에 다들 짜증 나셨죠
+채피 계절 정원 일대에서 실시된 거요. 
+어떤 분들은 공기 대피호에서 무려 두 시간이나 
+""구조""를 기다렸다죠. 
+그 시간 동안 뭘 하나?
+음, 마리솔 플로레스와 헨리 더스크는 확실히 알고 있었던 모양이에요! 
+그 벙커에 공기는 있었을지 몰라도, 
+기술자들이 봉인을 풀었을 때,
+두 사람은 서로의 폐에서 공기를 빨아들이고 있었답니다. 
+딱 걸렸어요!
+이어서 ""누가 누가 물고 빠나"" 속사포 라운드! 
+브라이언 시먼스와 호세 마르케스, 둘 다 싱글. 
+다이애나 클레먼스와 패트릭 시모어, 기혼자끼리!
+크리스티나 루도프스키와 맥스 로쿼트, 확실치 않음.
+마지막으로 확인했을 땐 맥스와 해나가 헤어졌다던데, 
+그 둘은 또 모르는 일이죠.
+잠깐 시간을 내서 경례를 보내고 싶어요
+명예로운 간호직에 종사하는 우리 승무원 여러분께,
+늘 저의 최고의 정보원이죠. 
+친애하는 여러분, 비밀로 하고 싶은 게 있다면, 
+그 입 싼 의료진에겐 배탈 얘기만 하고
+그 이상은 한 마디도 하지 마세요.
+자 관음증 환자 여러분, 오늘은 여기까지예요. 
+전 크리스털 시이어, 여기는 Overheard on Air. 
+다음 시간까지 얌전히 지내세요,
+안 그러면 이 방송에 나오게 될지도 몰라요.
+다음에 또 만나요, 이상 끝!"
+t_said_radio_plantshow_dodder,"안녕하세요 여러분, 저는 데이지 그린섬이고, 
+여러분은 Generation: Garden을 듣고 계십니다. 
+식물 얘기를 해 봅시다!
+오늘은 관상식물 협회의 마르티나 살라사르 님과 이야기를 나눕니다. 
+""새삼을 변호하며""라는 글로 아실지도 모르겠네요. 
+어서 오세요, 마르티나.
+새삼에 대해 조금 알려 주세요!
+고마워요 데이지! 바로 시작해 볼게요. 
+새삼은 가늘고 주황색 줄기를 가진 기생 식물이에요. 
+숙주를 휘감은 다음, 
+숙주의 관다발 조직으로 파고들어요
+""흡기""라고 부르는 기관으로요.
+새삼은 광합성을 사실상 전혀 하지 않아요. 
+거의 전적으로 훔친 당분에 의존하죠. 
+""잎""마저 작은 흔적 기관으로 퇴화했어요!
+새삼이 나무나 덤불을 뒤덮으면, 
+누군가는 스파게티라고 부르는 빽빽한 엉킴이 생겨요. 
+많은 지구 출신들은 ""실리 스트링""이라는 것에 비유하죠
+이제 논란거리로 넘어가 볼게요. 
+새삼은 쓸 만한 자원을 전혀 만들지 않는 기생 식물이라
+농업 종사자들에게는 ""엔트로피 경보""를 울릴 수도 있어요.
+실제로 항해력 1년에 어떤 정원이나 농장에도 
+새삼을 일부러 들여오지는 않았어요. 
+하지만 우리의 탄탄한 에머슨 종자 은행에는 들어 있었죠.
+10년쯤 전에, 소량을 
+기간 한정 종자 은행 전시를 위해 심었어요. 
+그 뒤에 심은 건 폐기됐지만, 
+어찌 된 일인지 씨앗 몇 개가 
+처녀자리 곳곳의 정원과 중앙분리대로 퍼졌어요. 
+주황색 파스타 면이 여기저기서 돋아나고 있죠!
+솔직히 말해서, 새삼은 숙주에게 해로워요. 
+하지만 이점도 있을 수 있어요. 
+지구와 이 배에서 한 제한적인 실험에서, 
+여러 숙주에 연결된 새삼이 
+일종의 ""통신망""을 형성한다는 게 밝혀졌어요.
+다른 기생충이 그 망 안의 숙주 하나를 공격하면,
+숙주가 호르몬 ""경보"" 신호를 보낼 수 있어요.
+그러면 이웃 식물들이 방어를 강화해야 한다는 걸 알게 되죠.
+어떤 이들은 소량의 핵산 물질이
+새삼 망을 따라 전달될 수 있다는 이론까지 내놨어요. 
+이건 개척에 폭넓은 의미가 있을 수 있어요.
+한 식물이 에머슨 기후에 맞는 적응을 해내면, 
+그걸 동료들, 심지어 망 안의 전혀 다른 종에게까지 
+나눠 줄 수 있는 세상을 상상해 보세요!
+그건 그렇다 치고, 새삼은 꽤 예쁘다는 말만 할게요. 
+우리 정원에 꼭 필요한 색다른 빛깔을 더해 주고, 
+젊은 사람들이 식물에 관심을 갖게 하는 좋은 이야깃거리죠.
+물론 새삼이 자라는 건 관리가 필요할 거예요, 
+특히 농업 현장에서는요. 
+하지만 저는 이 이상하고 멋진 기생 식물이 
+우리의 작은 미생물군 안에 당당히 자리를 차지할 자격이 있다고 믿어요.
+고마워요 마르티나! 
+오늘 시간은 여기까지입니다. 
+다음 시간까지, 지금까지 Generation: Garden이었습니다
+초록은 좋은 것!"
+t_book_carina_computing_vol1_1,"사람은 장황하지만, 컴퓨터는 간결하다. 기술자인 당신은 둘 다여야 한다. 기록할 건 너무 많은데, 쓸 수 있는 저장 공간은 너무 적다!"
+t_book_carina_computing_vol1_2,"이 일을 하다 보면, 금세 지구의 동료들이 부러워질 것이다. 그들은 최신 최고의 장비를 쓰지만, 우리에겐 처음 싣고 떠난 것뿐이다"
+t_book_carina_computing_vol1_3,"건조가 10년, 아니 5년만 늦어졌더라도, 1킬로바이트를 아낀다는 생각 자체가 우스웠을 것이다!"
+t_book_carina_computing_vol2_1,"어떤 이들은 컴퓨터를 ""생각하는 기계""라고 부르지만, 실은 전혀 생각하지 않는다. 화학 흔적을 따라가는 개미처럼, 끈질기지만 생각이 없다"
+t_book_carina_computing_vol2_2,모든 것에는 순서가 있다. 모든 일은 올바른 순서대로 일어나야 한다.
+t_book_carina_computing_vol2_3,"명령을 성실하고 신중하게 배열하면, 기계는 종종걸음으로 다녀와 멋진 사과 조각을 가져다줄 것이다. 부주의하면, 곧장 거미줄로 걸어 들어갈 것이다."
+t_book_carina_computing_vol2_4,"옛말에 이르길, ""쓰레기를 넣으면 쓰레기가 나온다"""
+t_book_carina_computing_vol3_1,혼자 분석하라고 처음 배정받는 출력 버퍼는 평생 잊지 못할 기억이 될 것이다. 소방 호스로 물을 마시는 날이다.
+t_book_carina_computing_vol3_2,열두 자리 타임스탬프. 수십 개의 의미 없는 오류 코드. 한 줄을 이해하는 데만도 참조 매뉴얼이 세 권 이상 필요하다. 그 자체로 하나의 프로젝트다.
+t_book_carina_computing_vol3_3,"그러니 지금 말해 두겠다. 점점 쉬워진다. 일부 기술자는 인정하기 싫어하지만, 출력 분석은 과학인 만큼 예술이기도 하다."
+t_book_carina_computing_vol3_4,"자주 나오는 코드와 패턴을 익혀 가면서, 한 줄도 읽기 전에 버퍼의 게슈탈트를, 그 기운을, 총체적이고 주관적인 의미를 서서히 보게 된다."
+t_book_mrs_termite_1,흰개미 부인은 자주 속상해요. 가끔은 개미탑이 무너지거든요.
+t_book_mrs_termite_2,가끔은 아침으로 먹는 나무가 썩어 있어요. 가끔은 군락의 친구들이 흰개미 부인과 생각이 달라요.
+t_book_mrs_termite_3,그래도 흰개미 부인은 삶을 있는 그대로 받아들이고 사소한 일에 화내지 않아요.
+t_book_mrs_termite_4,흰개미는 오래 살지 못한다는 걸 알기 때문이에요. 소중한 삶을 시시한 짜증에 낭비한다면 얼마나 아까운 일이겠어요!
+t_book_poetry_of_ponics_1,"양액이 뿌려지고
+보이지 않는 바람에 잎새가 춤춘다
+무(無)에서, 이토록 많이"
+t_book_poetry_of_ponics_2,"어머니 지구의 흙도 없이
+자식 퍼걸러호의 퇴비도 없이
+뿌리는 허공에 매달려"
+t_book_world_fables_of_old_earth_1,"어느 날 여우 한 마리가 나뭇가지를 따라 올린 덩굴에 탐스럽게 익은 포도송이가 매달린 것을 보았다. 포도는 금방이라도 즙이 터질 것 같았고, 여우는 애타게 바라보며 군침을 흘렸다."
+t_book_world_fables_of_old_earth_2,"포도송이는 높은 가지에 매달려 있어서 여우는 뛰어올라야 했다. 처음 뛰었을 때는 한참 모자랐다. 그래서 조금 물러났다가 달려와서 힘껏 뛰었지만, 또다시 닿지 않았다."
+t_book_world_fables_of_old_earth_3,"여우는 몇 번이고 다시 해 봤지만 소용없었다. 이윽고 여우는 주저앉아 포도를 못마땅하게 바라보았다. ""내가 바보지."" 여우가 말했다."
+t_book_world_fables_of_old_earth_4,"입 벌리고 쳐다볼 가치도 없는 신 포도 한 송이 따겠다고 이렇게 진을 빼다니.
+그러고는 아주아주 경멸하듯이 걸어가 버렸다."
+t_book_world_fables_of_old_earth_5,(자기 손이 닿지 않는 것을 업신여기고 깎아내리는 척하는 이들이 많다.)
+t_book_fancy_fliers_1,킹 피전은 고기를 얻기 위해 개량한 특별한 품종이다. 가슴 근육이 커다랗고 자세가 살짝 닭 같다
+t_book_fancy_fliers_2,"롤러는 평범한 길비둘기처럼 생겼지만, 날 때 공중에서 데굴데굴 구르는 것처럼 보인다"
+t_book_fancy_fliers_3,"결혼식과 올리브 가지로 유명한 ""흰 비둘기""는 사실 바위비둘기 품종일 뿐이며, 여러 세대에 걸쳐 이 우윳빛 깃털을 기준으로 골라 낸 것이다"
+t_book_fancy_fliers_4,"마지막으로, 비둘기 세계의 별난 것들을 알아보는 건 재미있지만, 평범한 길비둘기의 아름다움도 결코 당연하게 여기지 마세요!"
+t_book_songs_of_the_partigiani_1,"바람이 휘파람 불고, 폭풍이 몰아쳐도,
+신발은 해졌어도 우리는 행진해야 한다,
+붉은 봄을 쟁취하러,
+미래의 태양이 떠오르는 그곳으로."
+t_book_songs_of_the_partigiani_2,"모든 거리가 반역자에겐 조국이요,
+모든 여인이 그를 위해 한숨짓고,
+별들은 밤새 그를 이끌며,
+내려칠 때 그의 심장과 팔은 굳세다."
+t_book_songs_of_the_partigiani_3,"잔인한 죽음이 우리를 덮친다면
+파르티잔의 가혹한 복수가 오리라.
+이미 정해졌다, 가혹한 운명이
+비열한 반역자 파시스트에게."
+t_book_songs_of_the_partigiani_4,"바람이 멎고 폭풍이 잦아들면,
+자랑스러운 파르티잔은 집으로 돌아온다
+붉은 깃발을 바람에 휘날리며,
+승리하여, 마침내 우리는 자유다."
+t_book_bpsp_vol0_1,"다른 큰 사람을 본 지 오래였다. 그들은 이곳과 별다르지 않은 금속 세계에서 자랐다. 다만 거기서 ponic은 얌전하고 작은 재배 식물이었고, 잠긴 문이 훨씬 많았다."
+t_book_bpsp_vol0_2,그런데 그들은 마법의 열쇠를 찾아냈다! 그 평범한 직사각형은 큰 사람에게 온갖 방을 열어 주었다. 음식과 보물이 가득한 멋진 방들을.
+t_book_bpsp_vol0_3,알 수 없는 도구가 널브러진 수수께끼의 방들도. 하지만 큰 사람은 부모에게 마법의 열쇠 이야기를 하지 않았다. 부모는 새로운 것을 무서워했으니까.
+t_book_bpsp_vol0_4,"부모가 무서워한 게 현명했다는 걸 큰 사람이 깨달았을 때는 이미 너무 늦었다. 어느 날, 그 방들 중 하나가 그들을 데려가 버렸으니까."
+t_book_bpsp_vol1_1,"그리고 흔적들이 있었다. 주변의 거의 모든 것은 잃어버린 시대의 것, 즉 불가능할 만큼 정밀하게 만들어진 아름다운 물건이거나, 아니면 이곳을 차지한 ponic 왕국의 것이었다."
+t_book_bpsp_vol1_2,"하지만 이따금 큰 사람은 세 번째 종류의 유물을 발견했다. 옛 세계의 재료로 만든 축소판 도구들인데, 엮은 ponic 섬유로 조합하거나 개량한 것들이었다."
+t_book_bpsp_vol1_3,작은 잔가지에 면도날을 붙인 것. 술 냄새가 진동하는 작은 유리 그릇에 섬유 끈을 영리하게 달아 끌고 다닐 수 있게 만든 것.
+t_book_bpsp_vol1_4,부모가 들고 다니던 것과 꼭 닮은 작은 자원 주머니. 하지만 팔찌처럼 찰 수 있을 만큼 작았다.
+t_book_bpsp_vol1_5,"처음에 큰 사람은 이게 아기 장난감이라고 생각했다. 하지만 너무 평범하고, 너무 실용적이었으며, 분명히 써서 닳아 있었다."
+t_book_bpsp_vol1_6,"마침내 어느 날, 그들은 작은 사람들을 만났다. 아주 잠깐 본 것뿐이었지만, New World를 바라보는 그들의 생각은 영원히 바뀌었다."
+t_book_bpsp_vol2_1,"첫 계절 순환이 끝날 무렵, New World의 삶은 그럭저럭 일상처럼 자리 잡았다. 큰 사람은 매일 노란 미로 대피실에서 일어나, 낮에는 탐험하고, 해가 지기 전에 꼭 집에 돌아왔다."
+t_book_bpsp_vol2_2,"그들은 자신만의 근사한 작은 둥지를 만들었다. 소파 쿠션은 상태가 더 좋고 더 알록달록한 것으로 바꿨다. 주워 온 담요까지 한 겹 덮으니, 태어나서 가장 푹 잘 수 있었다."
+t_book_bpsp_vol2_3,"난방 상자는 불꽃 세례 속에 비극적인 최후를 맞았지만, 큰 사람은 그 대신 화덕을 설치하고 열 동굴에서 찾은 빨갛게 빛나는 돌을 땔감으로 넣었다."
+t_book_bpsp_vol3_1,큰 사람은 배 곳곳에서 찾은 액자 그림으로 벽을 뒤덮었다. 몇몇은 다른 큰 사람들을 닮았다. 대부분은 큰 사람이 좋아하지만 전혀 이해하지 못하는 형태들이었다.
+t_book_bpsp_vol3_2,탁자와 조리대 위에는 온갖 장신구를 자랑스럽게 늘어놓았다. 먹을 수도 키울 수도 없지만 왠지 귀하게 느껴지는 금속 씨앗들.
+t_book_bpsp_vol3_3,"장식된 음식 용기, 상상 속 동물 조각, 인형, 그리고 도구도 장난감도 아닌 그 중간 어딘가쯤인 손에 쥐는 물건들이 줄줄이."
+t_book_bpsp_vol3_4,"큰 사람은 일찍이 깨달았다. ponic 덩이줄기는 쓸 만한 최후의 수단일 뿐이고, 세상 곳곳의 여러 용기 속에는 온갖 놀라운 음식이 흩어져 있다는 것을. 모두 분명 아주 오래된 것이었고 일부는 썩어 있었지만, 밀봉된 용기에 든 건 대개 먹을 만했다."
+t_book_bpsp_vol4_1,"어스름한 빛 속에서 그들은 다른 큰 사람을 본 줄 알았다. 하지만 아니었다. 그것은 하얗게 바랜 뼈 무더기와 오래된 작업복 조각이었고, 털이 숭숭한 검은 덩굴에 매달려 있었다."
+t_book_bpsp_vol4_2,"덩굴들은 모두 가운데 덩어리에서 뻗어 나왔고, 그 덩어리에는 거미 다리 같은 하얀 뿌리 끝이 수염처럼 엉켜 늘어져 있었다. 각 덩굴의 뿌리 쪽은 검고 나무 같았지만, 끝으로 갈수록 유연한 연둣빛으로 섞여 들었다. 그리고 uproot처럼, 이것들도 움직이는 부속지였다."
+t_book_bpsp_vol4_3,"생물의 아랫부분 덩굴은 굵고 가시가 돋아 있었으며, 뻗었다가 끌어당기는 부자연스러운 걸음걸이로 앞으로 나아갔다. 뿌리 덩어리 위로는 스무 개 남짓한 덩굴이 더 꿈틀거렸다. 어떤 것은 ponic 줄기를 붙잡아 옆으로 젖혔고, 어떤 것은 흰개미 더듬이처럼 공기를 맛보았다."
+t_book_bpsp_vol5_1,"용기가 꺾이기 시작할 무렵, 큰 사람은 동굴 같은 홀에 들어서 있었다. 눈앞에는 나무와 철로 된 거대한 구조물이 있었다. 줄줄이 이어진 발판과 통로, 매달린 사슬과 오르는 봉. 마치 술 취한 건축가가 지은 것 같았다."
+t_book_bpsp_vol5_2,"크기는 기이할 만큼 작았다. 마치 아이들만 다스리는 왕국 같았다. 밝게 칠한 벽은 돔을 향해 휘어 올라갔고, 닭과 흰개미, 그리고 큰 사람이 본 적 없는 동물들을 닮은 투박한 그림으로 꾸며져 있었다."
+t_book_bpsp_vol5_3,"공간 가장자리에는 소박한 벤치와 작은 화단이 있었는데, 한때는 참나무를 더 키우는 데 썼을지도 몰랐다. 그리고 그 화단 하나 안에, 거대한 가시덤불 덩어리, 덩굴이 뒤틀린 거인, 바로 그 뼈의 생물이 누워 있었다."
+t_book_bpsp_vol6_1,"몇 초 만에, 끝났다.
+큰 사람은 해골이 생물의 앞쪽을 나타낸다고 착각했던 것이다. 하지만 그것에겐 얼굴도, 앞쪽도 없었다.
+"
+t_book_bpsp_vol6_2,"부속지 두 개가 휙 튀어나와 큰 사람의 허리를 바닥에 내리눌렀다. 세 번째 것은 아직 마체테를 쥐고 있던 팔을 휘감아 팔꿈치를 뒤로 비틀었고, 잠깐 버티던 팔은 이내 부러졌다."
+t_book_bpsp_vol6_3,"큰 사람의 시야 가장자리에 검은 점들이 번질 때, 기묘하게 달그락거리는 소리가 들렸다. 섬세한 조작기들이 매달린 해골 조각들을 붙잡아 서로 부딪치고 있었다."
+t_book_bpsp_vol6_4,"끔찍한 소리였지만, 음악 같기도 했다. 그토록 복잡한 소리는 사람의 말소리 말고는 들어 본 적이 없었다."
+t_book_obnos_vol0_1,"프란체스카가 씩 웃었다. ""우리 아이들이 착륙하면 파벌도, 계급도, 전쟁도 없을 거야. 대화로 풀지 못할 갈등도 없겠지. 평화로운 협력이 인류의 DNA 그 자체가 될 거야."""
+t_book_obnos_vol0_2,"그 들뜬 마음은 전염성이 있었고, 헤이즐은 이 작고 완벽한 세계를 향한 동경을 느끼지 않을 수 없었다."
+t_book_obnos_vol0_3,"지구에서 혁명을 일구어 낸 것은 그녀 인생의 자랑이었지만, 그 과정은 폭력적이고, 혼란스럽고, 자주 가슴이 찢어졌다."
+t_book_obnos_vol0_4,"새로 시작한다니, 얼마나 멋진 일인가."
+t_book_obnos_vol1_1,"프란체스카가 미소 지었다. ""올라가면 메리트 호수가 그리울 거야. 수영장이나 분수 한두 개쯤은 있겠지만, 호수나 바다는 없을 테니까."""
+t_book_obnos_vol1_2,"물가에 앉아 시원한 바람을 얼굴에 맞으며, 그 어마어마하게 넓은 물에 눈을 쉬게 하는 것... 그건 언제까지나 지상에서만 할 수 있는 경험일 거야."
+t_book_obnos_vol1_3,"하지만 헤이즐은 호수도, 바람도, 먼 길을 왔지만 여전히 불확실한 미래의 그늘 속에 사는 이 도시의 영혼도 생각하고 있지 않았다."
+t_book_obnos_vol1_4,"이 순간에도, 그리고 지난 열나흘 밤 동안 꾼 모든 꿈속에서도, 헤이즐은 별들 사이에서 살고 있었다."
+t_book_obnos_vol2_1,"벽에는 진짜 창문이 없었지만, 커다란 확산광 패널이 비슷한 역할을 했다. 남은 공간은 풍경화로 채워져 있었다. 그중 하나는 전쟁으로 모두 베이거나 불타기 전, 빅서의 원시 그대로인 레드우드 숲을 그린 것이었다."
+t_book_obnos_vol2_2,"다른 하나는 한때 유행했던 상상 속 ""제2 지구"" 풍경화였다. 초록 하늘 아래, 분홍 강가에 보라색 선인장 같은 식물이 점점이 흩어져 있었다."
+t_book_obnos_vol2_3,"수 광년 떨어진 그 바위 위에 어떤 생명이 자라는지, 아니 그 행성에 생명이 있기는 한지 아무도 몰랐지만, 헤이즐은 이런 모습은 아닐 거라는 느낌이 들었다."
+t_book_obnos_vol3_1,"조앤이 슬프게 웃었다. 네가 간다고 해도 탓하지 않을게. 내가 그 계획을 어떻게 생각하는지 알잖아. 혁명의 페인트만 덧칠한 나토 선전이야. ""별만 바라봐, 지구는 신경 쓰지 말고."""
+t_book_obnos_vol3_2,좌석 추첨 신청이 막 백만 명을 넘었대. 오늘 당장 자기 고향을 되찾을 수도 있는 백만 명의 영혼이 꿈 하나에 기대고 있는 거야.
+t_book_obnos_vol3_3,"그래도, 그녀가 말을 이었다. ""요 몇 년 동안 너 뭔가 달라졌어. 내가 곁에 잘 있어 주지 못한 건 알지만, 나조차도 네가... 흐려져 가는 게 보여."""
+t_book_obnos_vol3_4,어쩌면 변화가 너한테 필요한 걸지도 몰라. 그리고 프란체스카가 떠났을 때 네 기분이 어땠는지도 알고.
+t_book_obnos_vol4_1,"하지만 퍼걸러호는, 크리스가 말을 이었다. ""빈 캔버스야. 탑승자는 몇천 명, 그게 다야. 그 정도는 내 머리로도 감당이 돼."""
+t_book_obnos_vol4_2,"이제 그녀는 들떠서 말했다. 그냥 이런 느낌이 들어. 우리가 저 위에서 새로 시작해서 모든 걸 제대로 해낸다면... 그게 여기 아래 사람들한테 영감의 빛줄기가 될 수도 있다는."""
+t_book_obnos_vol4_3,"조앤이 씁쓸하게 웃었다. 이 말은 꼭 해야겠어. 우린 여기 지구에서 문제를 해결할 거야, 너희 '영감'이 있든 없든."""
+t_book_obnos_vol4_4,"그래도, 조앤이 말을 이었다. ""호기심이 안 생긴다고는 못 하겠다. 흥미로운 실험이야. 네가 바라는 대로 잘 풀리길 바라."""
+t_book_obnos_vol5_1,"인구 구성으로 보면, 퍼걸러호 인구의 대부분은 배를 만든 과학자, 엔지니어, 기술자들, 즉 도토리 성간선 공동체 출신이었다."
+t_book_obnos_vol5_2,헤이즐은 '도토리파'와 그럭저럭 잘 지냈다. 대부분 쾌활하고 이상주의적이었으며 자기 전문 분야를 신나게 이야기했다. 하지만 그들은 이미 그녀와는 다른 행성에 사는 것 같았다.
+t_book_obnos_vol5_3,"정부 추첨으로 좌석을 얻은 나토 시민들은 쌀쌀맞았다. 상당수는 아직도 노연정 망명자와 어울렸다가는 체포될 수 있다고 두려워했고, 전쟁에서 싸웠던 이들은 그녀를 잡아먹을 듯 노려보기만 했다"
+t_book_obnos_vol5_4,"몇몇 승객은 터무니없는 경매가로 표를 산 사람들이었다. 곧 전직이 될 이 귀족들은 마치 그녀가 아직도 자기들의 처형을 명령할 수 있다는 듯 헤이즐을 일부러 피했다. 만약 그럴 수 있다면, 그녀는 한가로이 생각했다, 어쩌면 정말 그랬을지도."
+t_book_obnos_vol6_1,"줄리언은 재미있고 고집 센 노인이었다. 도토리파 사람과 결혼했다가 발사 훨씬 전에 이혼했지만, 정착지의 자기 좌석만큼은 끝까지 지키겠다고 우겼다."
+t_book_obnos_vol6_2,"캔디는 애리조나에서 온 수줍은 여자였다. 제2 지구의 상상 속 생물을 다룬 공상적인 소설 덕에 탑승 초대를 받았고, 지금은 농장에서 일하면서 부업으로 외계생물학자 노릇을 했다."
+t_book_obnos_vol6_3,"아리아는 헤이즐과 많이 닮았다. 전직 노연정 관리로, ""망명""은 이념보다는 개인적인 이유에 가까웠다. 혁명가이면서 열정적인 정원사였는데, 퍼걸러호보다 더 위대한 정원은 없었다."
+t_book_obnos_vol7_1,"역추진기의 굉음이 네 시간의 셔틀 여정이 끝났음을 알리자, 헤이즐은 문득 머물 곳이 없다는 사실을 깨달았다. 어쩌면 조앤이 아래에서 기다리고 있을지도 몰랐다."
+t_book_obnos_vol7_2,"아니라면, 노연정 영토에도 나토 영토에도 들어갈 유효한 여권이 없으니, 적어도 하룻밤은 우주공항에서 자야 할 것이다"
+t_book_obnos_vol7_3,"현실적인 문제는 제쳐 두고, 그녀는 어디로 가고 싶을까? 시카고가 당연한 선택이었지만, 준비가 됐을까? 어쩌면 뉴오클랜드에 먼저 들를지도 몰랐다. 준과 글로리아라면 손님방을 기꺼이 내줄 것 같았다. 완공된 청소년 센터도 볼 수 있을 것이다."
+t_book_obnos_vol7_4,아니면 곧장 테헤란으로 가서 그리운 아드난을 만날지도 몰랐다.
+t_book_obnos_vol7_5,"그녀는 미소 지었다. 어떤 결정을 내리든, 그게 마지막일 필요는 없다는 걸 알았으니까. 지구는 넓은 곳이었고, 여기 아래의 삶은 하기 나름이었다."
+t_book_sf_vol0_1,"옛 지구에서 상실은 흔한 일이었다. 모두가 그 끔찍하고 소모적인 전쟁에서 누군가를 잃었다. 아니면 나토 징집이나 초기 게릴라 폭력으로. 하지만 이빨과 발톱 봉기보다 수 세기 전에도, 상실은 인간으로 살아가는 데 따르는 단순한 사실이었다."
+t_book_sf_vol0_2,"친구들은 이사를 가고, ""연락하자""는 약속은 바람에 흩어졌다. 동료들은 해고되거나, 감옥에 가거나, 그냥 그만두었다. 아이들은 자라서 제 사람이 되고, 먼 꿈을 좇아 떠났다. 그래서 어쩌면 퍼걸러호의 씨앗 세대에게 가장 짜릿했던 건, 제2의 지구라는 경이보다도, 산다는 것이 더 이상 잃는다는 뜻이 아니라는 안도감이었을지도 모른다."
+t_book_sf_vol0_3,"배의 반짝이는 선체 벽 사이에는 당신이 아는, 그리고 앞으로 알게 될 모든 사람이 있었다. 아무도 떠날 곳이 없으니, 모든 우정은 평생 이어질 것이었다. 아이들은 결코 연락이 끊기지 않을 것이었다. 가장 나이 든 이들은 언젠가 세상을 떠나겠지만, 씨앗 세대는 젊었고, 어쨌든 마지막 날까지 어른들과 소중한 시간을 보낼 수 있을 것이었다."
+t_book_sf_vol1_1,"사실 캔디가 제2 지구의 야생 생물에 대해 아는 건 배에 탄 다른 누구보다 많지 않았다. 즉, 아무것도 몰랐다. 하지만 그녀에겐 이론이, 사실상 추측에 불과한 것들이 있었고, 그걸 어찌나 생기 있게 이야기하는지 크리스는 둘이 살아서 그 이론이 검증되는 걸 보게 될 거라고 거의 믿을 뻔했다."
+t_book_sf_vol1_2,"하지만 캔디는 배의 미세한 생태계 밖의 종을 단 하나라도 만나기 훨씬 전에 죽을 것이었다. 반면 크리스는, 50년의 후퇴에서 살아남는다면, 언젠가 망가진 무릎으로 레드우드 숲 그늘 아래 무릎 꿇게 될 것이었다."
+t_book_sf_vol1_3,"하지만 오늘 밤 그 말을 꺼낼 수만 있다면, 크리스는 혼자가 아닐 수도 있었다."
+t_book_sf_vol2_1,"슬라임 설탕 와인 축제는 퍼걸러호 10년 만의 최대 행사였다. 우스꽝스러운 의상, 배꼽 잡는 무대 공연, 마음을 사로잡는 예술 작품, 그리고 푸짐한 다과가 있었다. 길이 남을 파티였고, 탈출이 남긴 상실의 구멍을 채울 만큼 깊은 감정의 분출이었다."
+t_book_sf_vol2_2,"축제 전까지 퍼걸러호는 그 어느 때보다 좁게 느껴졌지만, 슬라임 축제의 거대한 해방감 속에서 도토리파들은 자신들의 소우주에서 가장 사소한 것조차 소중하다는 걸 배웠다."
+t_book_sf_vol2_3,"하나의 축제가 많은 축제를 낳았다. ponic 풀의 축제, 선체 금속의 축제, 밀항한 쥐들의 축제, 방사능 물의 축제. 펜치의 축제."
+t_book_sf_vol2_4,"예배에 집중하는 조용하고 엄숙한 축제가 있었다. 약물과 사회 규범 깨기로 달아오르는 시끌벅적한 축제도 있었다. 공예 장터, 스피드 데이트, 연극 공연, 스포츠도 있었다."
+t_book_sf_vol2_5,"옛 지구는 먼 기억이었고 제2 지구는 막연한 꿈일 뿐이었지만, 그 사이의 여정에는 무한히 복잡한 하나의 온전한 세계가 있었다. 그리고 먼지 한 톨까지도 축하할 가치가 있었다."
+t_book_mity_vol1_1,"공식 기록에 따르면, 퍼걸러호에서 일어난 처음이자 유일한 ""살인""은 항해력 80년에 과실치사 사건으로 기록되어 있다. 지금은 모든 아이가 사회 수업이나 서로 경쟁하는 세 편의 소설을 통해 라스 마커슨(궁수자리·새싹 세대)의 비극적인 이야기를 알고 있다"
+t_book_mity_vol1_2,"개인적인 비극을 겪은 뒤, 라스는 나이트클럽에서 일하는 친구를 통해 카샤사를 불법으로 사재기하기 시작했다. 알코올 중독에 빠지면서 챔피언 킥복서로서의 경력도 기울기 시작했다. 그러던 어느 날 그는 스파링 중에 이성을 잃고 상대에게 치명적인 일격을 날렸다."
+t_book_mity_vol1_3,이 비극적인 사건은 우리 평화로운 사회의 법칙을 증명하는 예외로 일컬어진다. 80년의 항해 동안 우리의 유일한 폭력 행위는 진심으로 뉘우친 한 남자의 비극적인 사고였다는 것이다.
+t_book_mity_vol1_4,"하지만 이 책에서 주장하겠지만, 이제 증거는 아직 기록되지 않은 더 이른 사건을 가리킨다. 세 세대 앞선 항해력 5년에 일어난 1급 살인이다"
+t_book_mity_vol2_1,"발사를 앞둔 몇 년 동안, 퍼걸러호 POW(외계 유배수) 프로그램(""Prisoners Off-World"", 지구의 표현 ""Prisoners Of War""를 비튼 말장난 약어)을 두고 말이 많았다. 노연정-나토 휴전이 선포될 무렵, 양측은 엄청나게 다양한 인질과 포로 병사를 붙잡아 두고 있었다."
+t_book_mity_vol2_2,"대부분은 최초 휴전 조약의 일환으로 포로 교환을 통해 그냥 풀려났다. 하지만 엄선된 수십 명은 각자를 붙잡은 쪽에서 너무 위험하다고 여겨, 어떤 송환도 협상할 수 없었다."
+t_book_mity_vol2_3,"그 악명 높은 타협안은 이것이었다. 지구에 그들을 안전하게 수용할 곳이 없다면, 대신 별들 사이로 흩어 보내자. 포로들은 외계 유배수가 되어 퍼걸러인이 될 것이었다."
+t_book_mity_vol3_1,"이 외계 유배수 퍼걸러인들 중 일부는 수십 명을 죽인 진짜 전범이었다. 다른 이들은 사실상 정치범이었다. 나토 쪽 인질 중에는 노연정 관리들이, 노연정 쪽 포로 중에는 충성파 정치인과 기업가들이 있었다. 모두에게 새 삶을 시작할 기회가 주어졌다."
+t_book_mity_vol3_2,"대부분의 외계 유배수는 포괄적인 익명화 프로그램에 참여했다. 짐 크로웰은 부끄러울 것도 숨길 것도 없다며 이 제안을 오만하게 거절했다. 5년 뒤, 그는 죽었다."
+t_book_mity_vol3_3,"모두가 아는 이름은 아니었지만, 크로웰은 혁명 이전 재계에서 카리스마 넘치는 투자자이자 CFO로 전설적인 인물이었다. 성공한 치과의사의 아들이었던 그는 물려받은 재산을 군수, 항공우주, 교정 산업에 절묘한 시점에 투자해 불려 나갔다."
+t_book_mity_vol3_4,"막대한 재산과 ""구린 사업"" 연루 덕분에 크로웰은 전쟁 초기부터 고가치 표적이었다. 이는 결국 소규모 게릴라 특수부대가 그를 플로리다 별장에서 끌어내 말 그대로 왕의 몸값에 맞먹는 금액을 요구하면서 현실이 되었다. 그 몸값은 끝내 지불되지 않았다."
+t_book_mity_vol4_1,지금까지 이 글에서는 잘 알려진 학술 자료를 요약했다. 이제부터는 독자적인 연구를 발표하겠다.
+t_book_mity_vol4_2,"항해력 35년은 지구빔이 매일 헤드라인 전송을 멈추기 전의 마지막 몇 해 중 하나였다. 항해력 39년에 이 관행은 중단되었는데, 대역폭이 약해진 것도 한 이유였지만 더 중요한 요인은 그저 퍼걸러인들이 지구 소식에 점점 관심을 잃었다는 것이었다."
+t_book_mity_vol4_3,"그래서 서기 2014년 4월(항해력 35년)의 기사에 주목한 사람은 거의 없었다. 그 기사는 로베르타 플로레스의 떠들썩한 장례식을 알렸다. 그녀는 노연정 군 관리이자 전직 RN 간호사로, 최초 휴전 직전에 잠적했다가 폐암으로 죽기 1년 전에야 다시 모습을 드러내 회고록을 출간했다"
+t_book_mity_vol4_4,"이는 전혀 눈에 띄지 않는 뉴스여서 퍼걸러인의 눈에는 말 그대로 한 번도 읽히지 않았을지도 모른다. 그렇게 우리는 이 명백히 죽었고 명백히 지구에 있던 사람이, 우리의 명백히 살아 있고 명백히 별을 향해 가는 로베르타 플로레스(물고기자리·씨앗 세대)이기도 하다는 사실을 놓쳤다"
+t_book_mity_vol5_1,"짐 크로웰이 외계 유배수 익명화 프로그램 참여를 당당히 거부했던 걸 기억할 것이다. 항해력 3년에 대규모 유출 사고로 익명화한 이들의 약 40%의 신원이 드러났을 때, 많은 이들은 그의 선택이 옳았다고 보았다"
+t_book_mity_vol5_2,"이 사건 이후, 또 다른 30%가 유출을 계기로 스스로 ""자백""했다. 이들 중 상당수는 퍼걸러호라는 용광로에 꽤 잘 녹아들고 있었고, 이를 큰 짐을 덜 기회로 여겼다. 우리의 이른바 ""로베르타 플로레스(PiSe)""도 이 자백자들 중 하나였다. 하지만 그녀는 진짜 누구였을까?"
+t_book_mity_vol5_3,"결정적인 증거를 제시할 수는 없지만, 한 가지 가설을 뒷받침하는 불일치들을 모아 보여 줄 수는 있다:"
+t_book_mity_vol6_1,"서기 1962년부터 1964년까지, 샌안토니오의 불법 신문 ""점령지의 목소리""에는 ""남은 신발 한 짝의 기록""라는 칼럼이 실렸다. 매호마다 스스로를 ""민중의 암살자""라 칭한 필자는 새로운 살인을 자신이 저질렀다고 밝혔다. 그들은 비웃듯이 자신의 살인을 ""조력 자살""이라 묘사하며, 피해자들의 운명은 오로지 피해자 자신의 책임이라고 주장했다."
+t_book_mity_vol6_2,남은 신발 한 짝은 이웃을 동조자로 밀고하거나 자경단 폭력에 가담한 것으로 알려진 충성파 시민들을 노렸다. 이 살인들은 복수 살인이라고 하는 게 가장 정확할 것이다. 남은 신발 한 짝이 노연정 행정부와 아무 조직적 연관이 없는 독자적인 행위자라는 건 분명했다.
+t_book_mity_vol6_3,"남은 신발 한 짝의 ""경력""이 8개월쯤 됐을 때, 샌안토니오 헌병대는 사실상 집단 처벌에 해당하는 잔혹한 단속을 연달아 시작했다. 그 규모가 어찌나 컸던지 노연정 관리들조차 남은 신발 한 짝에게 활동을 멈추라고 요구했다. 당시 남부 텍사스에서 활동하던 로베르타 플로레스도 그중 두드러진 인물이었다."
+t_book_mity_vol6_4,"남은 신발 한 짝은 칼럼을 통해 전쟁 양측의 비판자들을 꾸짖었지만, 곧 표적 선택이 달라지기 시작했다. 하찮은 깡패들에게 흥미를 잃고 헌병대 대위, 방산 업체, 심지어 한번은 지역 정치인까지 제거하기 시작했다. 남은 신발 한 짝은 점점 야심차졌고, 결정적으로, 더 전략적으로 변해 갔다"
+t_book_mity_vol7_1,점령지의 목소리의 편집자들은 서기 1964년 급습 때 체포되었다. 이어진 심문에서 그들은 남은 신발 한 짝의 정체를 카밀라 쇼어스라고 지목했다. 군인 집안에서 자란 샌안토니오의 종합 건설업자였다
+t_book_mity_vol7_2,"카밀라는 몇 달 전 의문스럽게 사라졌고, 잠적한 것으로 추정되었다. 이 무렵 남은 신발 한 짝의 칼럼은 연재를 멈췄지만, 평소 패턴(빠른 침입과 이탈, 머리나 가슴에 타격을 가해 무력화한 뒤 목을 그어 마무리)과 일치하는 일련의 살인은 그들이 여전히 활동 중임을 보여 주었다"
+t_book_mity_vol7_3,"현재는 카밀라가 실제로 남은 신발 한 짝였다는 것, 그리고 이르면 서기 1964년 11월부터 그녀가 지역 노연정 세포와 적극적으로 협력해 표적의 우선순위를 정했다는 것이 대체로 정설이다. 한때 자경단원이었던 카밀라는 본격적인 군사 암살자가 되었다."
+t_book_mity_vol7_4,"1965년 2월, 샌안토니오 헌병대는 로베르타 플로레스의 노연정 세포가 작전 기지로 삼던 목장 주택을 발견하고 급습했다. 카밀라 쇼어스는 총격전에서 사망한 수십 명 중 하나로 확인되었고, 로베르타 플로레스는 포로로 붙잡혔다."
+t_t_book_solarists_prayer_1,"존재했던 신은 오직 하나, 우리는 그녀를 ""태양""이라 부른다.
+저질러진 죄는 오직 하나, 우리는 그녀를 두고 떠났다."
+t_t_book_solarists_prayer_2,"가짜 신들은 믿음을 요구한다. ""전능""하다면서 어디에서도 보이지 않는다. 태양은 숨지 않았다. 그녀는 하늘에서 빛나고 살갗을 데우며, 너무나 분명하고 부정할 수 없었다. 태양은 그녀의 딸 지구가 길러 낸 푸르게 자라는 모든 것의 원자 하나하나에 깃들어 있었다. 잎과 뼈와 진흙과 결정이 된 부드러운 햇빛 모두에."
+t_t_book_solarists_prayer_3,"억겁의 세월 동안 우리는 자라고 번식하고 일광욕하고 공부하고 씹질하고 서로 죽였다. 그러고는 죽어서 썩어 새로운 모습으로 다시 태어났고, 다 괜찮았다. 아무 문제 없었다. 그저 같은 조각들이 할머니의 빛 아래에서 같은 놀이를 했을 뿐이다."
+t_t_book_solarists_prayer_4,햇빛인 우리는 햇빛을 두고 떠날 수 있다고 생각했다. 피 없이 생명을 구하는 몸처럼. 우리는 이 몸이 한 번도 우리 것이었던 적 없이 그저 빌린 것임을 잊었다. 어머니 지구와 그녀의 어머니 태양에게서 빌려 온 태양 물질의 결정임을.
+t_t_book_solarists_prayer_5,"우리가 ""일생""이라 부르는 동안 우리는 공허 속으로 내달린다. 하지만 언젠가 우리 손주들은 착륙해, 흐릿한 모조품의 창백한 붉은빛 속에서 근근이 살아가려 애쓰다가, 이 모든 게 끔찍한 실수였음을 알게 될 것이다. 그들은 뒹굴고, 슬퍼하고, 그다음 새 배를 지어 뒤로 돌려 훔쳐 온 것을 돌려줄 것이다."
+t_t_book_solarists_prayer_6,그날까지 우리는 이야기를 전한다. 태양에서 태어난 그 누구도 그녀의 빛을 결코 잊지 않도록.
+t_book_pamphlet_land_now_1,"우리는 묶이지 않는다. 우리는 속지 않는다. 우리는 착륙한다
+
+우리 부모와 조부모와 그 윗대가 모두 죽은 건 우리가 착륙하기 위해서였다"
+t_book_pamphlet_land_now_2,"우리는 모듈을 잃었고, 배급을 견뎠고, 모든 안락을 포기했다. 착륙하기 위해서!
+
+우리는 착륙하러 왔다. 우리는 지금 여기 있다. 착륙하라! 착륙하라! 착륙하라!"
+t_book_journal_from_earth_1,"걔네가 지구에서 왔다는 게 영 안 믿겨, 무슨 말인지 알지?"
+t_book_journal_from_earth_2,"그러니까 뭐, ""지구에서 온"" 건 맞지. 우리가 ""지구에서 온"" 거랑 똑같은 의미로"
+t_book_journal_from_earth_3,근데 지구에서 태어났다고? 개소리지. 내 생각엔 그냥 우리보다 조금 늦게 발사됐으면서 이제 와서 우리한테 이래라저래라하려는 거야
+t_book_journal_safe_here_1,여긴 안전해. 난 안전해. 여긴 안전해. 난 안전해. 여긴 안전해. 난 안전해. 여긴 안전해. 난 안전해. 여긴 안전해. 난 안전해. 여긴 안전해. 난 안전해. 여긴 안전해. 난 안전해. 여긴 안전해. 난 안전해. 여긴 안전해. 난 안전해. 여긴 안전해. 난 안전해. 여긴 안전해. 여긴 안전해.
+t_book_wildskoller_twigsnapper_1,"전해지기를: 어머니 배의 몸이 병들었을 때, 사람들이 그녀 안에서 쿵쿵 걸어 다니면 그녀의 여린 배 속이 떨렸다. 그녀는 위벽에서 featherstem을 길러 냈다. 사람들이 그 예쁜 줄기를 다치게 하지 않으려고 조심조심 걸을 거라 생각하고서."
+t_book_wildskoller_twigsnapper_2,"그러나 어느 날 한 젊은이가 발밑에서 바스락 부서지는 맛을 즐기려고 featherstem 밭을 짓밟았다. 땅에서 twigsnapper가 솟아나 그를 꿰뚫어 버렸고, 곧 밭마다 저마다의 수호자가 생겼다."
+t_book_wildskoller_twigsnapper_3,"실제로는: 누군가는 ""Rhizomonitor"" 또는 ""Starear root""라고도 부르는 twigsnapper는 featherstem 군락의 방어 기관이다. featherstem은 엄청나게 연약해서 아주 작은 무게에도 부러진다."
+t_book_wildskoller_twigsnapper_4,"featherstem의 뿌리는 당분을 군락 한가운데로 모으고, 그곳에서 커다란 주황색 뿌리줄기가 자라 우리가 twigsnapper라 부르는 존재가 된다. featherstem 하나가 예민한 씨앗 털로 어떤 교란을 감지할 때마다, 군락의 twigsnapper에게 신호를 보내 추격하게 한다."
+t_book_wildskoller_twigsnapper_5,"내가 본 바: 내 야생학도 무리에 들어가기 전, 길잡이는 featherstem 밭의 지름을 아무것도 건드리지 않고 끝까지 건너게 했다. 처음에는 그저 인내심과 발걸음의 가벼움을 시험하는 것이라 생각했다."
+t_book_wildskoller_twigsnapper_6,"하지만 뿌리줄기 곁을 지날 때, 깜빡이는 줄기들이 내 얼굴에서 팔 하나 거리에 있을 때, 나는 어떤 정신의 존재를 느꼈다. 꿋꿋이 서서 귀를 곤두세우고, 그것은 어떤 위협으로부터든 가족을 지키기 위해 살아 있었다. twigsnapper처럼, 야생학도는 개인이 아니다. 우리는 더 큰 전체의 기관이며, 목숨을 걸고 무리를 지킨다."
+t_book_wildskoller_tipping_cabbage_1,"전해지기를: 어머니 배가 자기 안의 사람들에게 앙심을 품게 되었을 때, 그녀는 잎사귀 자식들을 회의에 불러 모았다. 그녀는 오직 그들만이 정당한 거주자이며, 피와 살로 된 생물은 모두 쓰러뜨려야 한다고 선포했다."
+t_book_wildskoller_tipping_cabbage_2,"굼뜬 tipping cabbage는 열흘이나 늦어서 회의를 통째로 놓쳤다. 어머니의 칙령을 모른 채, 그들은 평화로운 일상으로 돌아갔다."
+t_book_wildskoller_tipping_cabbage_3,"실제로는: tipping cabbage는 키가 크고, 어설프고, 균형이 안 맞는 생물이다. 엄청난 속도로 잎을 길러 내고 떨군다. 떨어진 잎은 맛있다. 분홍색에 즙이 많고, 채소치고는 이상할 만큼 달다."
+t_book_wildskoller_tipping_cabbage_4,"tipping cabbage는 똑똑하지도 무섭지도 않다. 쓸모가 있어서 살아남는다. 포식자가 되려는 자는 억지로 빼앗기보다 그냥 잎이 떨어질 때까지 기다리는 편이 낫다. 덜 자란 잎은 쓰고, 전분이 많고, 약한 독이 있다."
+t_book_wildskoller_tipping_cabbage_5,"내가 본 바: 몇 년 전 우리 무리는 공허에 뚫렸던 황무지에 다시 압력을 채웠다. 도구와 보급품에 눈이 멀어, 우리는 지나온 길을 표시하는 걸 소홀히 했다."
+t_book_wildskoller_tipping_cabbage_6,이틀을 굶주린 끝에 우리는 이상하게 꾸며진 tipping cabbage와 마주쳤다. 화환을 두르고 장신구로 뒤덮인 그것에는 작은 이들의 글씨가 적힌 꼬리표가 달려 있었다
+t_book_wildskoller_tipping_cabbage_7,"우리가 말리기도 전에, 무리에 새로 들어온 한 남자가 그 생물을 죽였고, 혼자서 잎을 먹어 치웠다. 사흘 뒤, 익숙한 땅으로 돌아왔을 때, 우리는 잠에서 깨어 그의 두 눈이 눈구멍에서 할퀴어 뽑혀 나간 것을 발견했다."
+t_book_wildskoller_tipping_cabbage_8,"부디 알아 두라: tipping cabbage는 무해하지만, 그들의 수호자는 그렇지 않다."
+t_book_wug_program_1,"인간의 모든 노력은 집단적이다. 정신과 손과 몸이 모여 옷을 짓고, 음식을 만들어 나르고, 지구의 내장 깊숙이 들어가 돌을 캐고, 그것을 자르고 녹이고 다듬어 우리 머리 위의 지붕을 만든다."
+t_book_wug_program_2,"우리는 이 일들을 함께 한다. 그런데도 이 노력이 자기 것이라는, 우리 노동의 열매가 자기 것이며 우리는 쥐꼬리만 한 임금에 감사해야 한다는 망상을 품은 자들이 있다. 블록마다 지나치는, 동료 인간이 다 보는 앞에서 굶주리고 추위에 죽어 가는 수많은 실업자와 노숙인 중 하나가 아닌 걸 다행으로 여기라는 것이다."
+t_book_wug_program_3,"수년 동안 우리는 ""우리가 만든 경이 한가운데서 버림받고 굶주린 채"" 서 있었다. 그리고 더는 참을 수 없었다. 정중하게 요청했지만, 문은 우리 면전에서 닫혔다. 대등하게 협상하려 했지만, 급습당하고 불법으로 낙인찍혔다. 이제 우리는 요구하지 않고 거래도 제안하지 않는다. 모든 것은 우리 것이며, 우리는 그것을 가져갈 것이다."
+t_book_wug_program_4,"우리 적들에게는 단 하나의 미덕이 있다. 우리의 선택을 쉽게 만들어 준다는 것. 우리는 살인자도, 군인도, 게릴라도 아니다. 우리는 그들이 스스로의 머리에 겨눈 총이며, 그들이 제 발로 삼킨 독약이다. 우리는 그들이 자살하는 수단이며, 그들이 불가피하게 만든 일에 대해 사과하지 않는다."
+t_book_wug_program_5,"우리에게는 설득할 수 있는 자를 설득할 의무가 있고, 설득할 수 없는 자를 강제할 의무가 있다. 굶주린 자를 먹여라! 추운 자를 입혀라! 집 없는 자에게 거처를 주어라! 배움에 굶주린 정신을 가르쳐라! 어떤 대가를 치르더라도, 어떤 수단을 써서라도 하라. 우리가 치러야 했던 대가를 후회하지 않으리라."
+t_book_declaration_of_unity_1,우리는 미합중국이다. 우리는 세계 역사상 가장 위대한 나라다.
+t_book_declaration_of_unity_2,"이 변절자들이 스스로를 ""노동자""라 부르다니 참으로 아이러니하다. 그들은 우리 사회의 가장 게으른 부류인데 말이다. 우리나라는 행동하는 사람들이 세웠다. 산업을 일군 뛰어난 기업가들부터, 석탄을 캐고 강철을 깐 등 튼튼하고 의지 굳은 사람들까지. 미국의 정신은 단호하고 불평하지 않는다. 혜택이니 불만이니 울며 징징대는 자들이 설 자리는 없다. 우리는 행동하는 나라다."
+t_book_declaration_of_unity_3,"우리 앞에는 거대하고 끔찍한 과제가 놓여 있다. 전쟁으로 찢긴 나라를 다시 하나로 잇고, 사회의 썩은 실을 잘라 내고, 나머지를 순금의 퀼트로 다시 꿰매는 것. 타락과 싸우고 도덕 질서를 회복하는 것. 우리의 과제는 징징대는 자들을 도륙하고 타락한 자들을 쳐부수는 것이다. 우리의 과제는 우리가 50개 주라는 것을, 50개, 빌어먹을 단 하나도 빠짐없이, 그리고 이 50개 주 하나하나가 우리의 전능하신 아버지 하나님을 섬긴다는 것을 세상에 일깨우는 것이다"
+t_book_declaration_of_unity_4,"비겁한 게릴라들이 학살을 자행한 바로 이곳에서 여러분 앞에 서니, 제가 대통령이 되면서 이어 가겠다고 맹세한 전통이 떠오릅니다. 그래서 오늘 여러분께 남길 만한 연설은 제가 아무리 써도 충분하지 않을 겁니다. 백여 년 전에, 누군가 이미 더 잘 말했으니까요:"
+t_book_declaration_of_unity_5,"지금 우리는 거대한 내전에 휩싸여, 그 나라가, 혹은 그렇게 잉태되고 그렇게 헌신한 어떤 나라든, 오래 지속될 수 있는지 시험받고 있습니다. 우리는 그 전쟁의 거대한 격전지에 모였습니다. 우리는 그 나라가 살 수 있도록 이곳에서 목숨을 바친 이들의 마지막 안식처로 이 땅의 일부를 바치고자 왔습니다. 우리가 이렇게 하는 것은 지극히 마땅하고 옳은 일입니다."
+t_book_declaration_of_unity_6,"이 나라는 하나님 아래 자유의 새로운 탄생을 맞이할 것이며, 국민의, 국민에 의한, 국민을 위한 정부는 지상에서 결코 사라지지 않을 것입니다!"
+t_book_poth_vol1_1,"열두 살 때, 마리솔은 엄마가 지구에서 많은 사람을 죽였다는 걸 알게 됐다. 엄마가 늘 강조했듯이 살인자로서도, 군인으로서도 아니고, ""암살자""로서."
+t_book_poth_vol1_2,"마리솔은 살인자는 아무 잘못도 하지 않은 평범한 사람을 죽이고, 군인은 다른 군인만 죽여야 한다는 걸 알고 있었다. 암살자는 그 사이의 묘한 무언가 같았다."
+t_book_poth_vol1_3,2주 동안 마리솔은 아무와도 말하지 않았다. 악몽 속에서 엄마는 그들의 층을 따라 집집마다 문을 두드리며 내려갔다.
+t_book_poth_vol1_4,"이웃들은 다정하게 인사하며 문을 열었고, 그 순간 마리솔의 엄마는 그들의 목을 긋고, 밀어 넘어뜨린 뒤 바닥에서 피를 흘리며 죽어 가는 것을 지켜보았다."
+t_book_poth_vol1_5,"마리솔은 엄마 키의 절반 높이에서 뒤따르며, 엄마 옷자락을 잡아당기고 그만하라고 애원했다. 엄마는 차분하게 웃으며 말했다. ""괜찮아. 이건 평범한 일이야."" 그러고는 다시 그들의 친구들을 도살하러 갔다."
+t_book_poth_vol2_1,"점심시간에 마리솔은 ""채피""로 산책을 나갔다. 궁수자리 관목 공원은 모듈에 몇 안 되는 ""계절 정원"" 중 하나로, 온도와 조도, 물 주기 일정이 지구가 태양을 도는 여정을 시대착오적으로 재현하며 변했다."
+t_book_poth_vol2_2,많은 이들이 이 관행을 불편하고 낭비라고 여겼다. 계절은 자원 효율적이지도 않고 유지 보수하기도 까다로웠다. 하지만 향수에 젖은 노인들은 계속 운영해야 한다고 고집했다.
+t_book_poth_vol2_3,"마리솔 자신은 진짜 계절을 느껴 본 적이 없었지만, 그 규칙성이 변덕스러운 그녀의 기분에 힘이 되었다."
+t_book_poth_vol2_4,"지금은 ""겨울""이어서, 공기가 불편할 만큼 차가웠다. 거의 냉장고 안으로 걸어 들어가는 것 같았다."
+t_book_poth_vol3_1,마리솔은 가장 좋아하는 벤치로 향했다. 화단 전체를 뒤덮을 만큼 무성하게 퍼진 캘리포니아 메밀 옆의 벤치였다. 그런데 그곳에서 그녀가 아끼는 덤불을 산산조각 내고 있는 찌푸린 얼굴과 딱 마주쳤다.
+t_book_poth_vol3_2,"헨리였다. 이번 달 초에야 채피에 배정된, 혼자 진지한 젊은이였다. 손은 억셌고, 눈썹은 멋졌으며, 유머 감각은 전혀 없었다."
+t_book_poth_vol3_3,뭐 하는 거예요? 식물이 다치잖아요! 말이 나오면서 마리솔의 목소리가 갈라졌다.
+t_book_poth_vol3_4,"헨리는 으르렁대듯 한숨을 쉬었다. ""너무 웃자랐어요. 가지치기하는 중이에요."" 마리솔 위로 우뚝 서서, 그는 아이에게 왜 디저트를 두 개 먹으면 안 되는지 설명하듯 느리고 또박또박한 억양으로 말했다."
+t_book_poth_vol4_1,"헨리가 똑바로 눈을 맞췄다. ""이럴 시간 정말 없어요. 마리솔 씨, 맞죠? 전 헨리예요. 정원사고, 이 분야 전문가예요. 그쪽은 간호사고, 분명 그 분야 전문가겠죠. 저라면 그쪽한테 일하는 법을 – 씨발!"""
+t_book_poth_vol4_2,"헨리는 비명을 지르며 왼손을 움켜쥐었다. 따뜻한 피가 손가락 사이로 흘러내렸다. 가지치기에서 고개를 돌린 사이, 가위가 왼손 검지 옆을 깊게 베어 버린 것이다."
+t_book_poth_vol4_3,"마리솔은 초인적인 속도로 거즈와 붕대를 꺼냈다. 그녀가 헨리의 손을 잡았지만, 그는 손을 홱 뺐다. ""제가 -- 제가 할게요, 됐죠?"""
+t_book_poth_vol4_4,"헨리는 손으로 ""괜찮아요"" 하는 몸짓을 했다. 하지만 그 동작에 굵은 핏방울이 앞으로 튀어, 마리솔의 안경과 근무복에 흩뿌려졌다."
+t_book_poth_vol4_5,"두 사람은 잠시 말이 없었다. 그러다 마리솔이 안경알을 닦고, 헨리의 손을 잡아 거즈를 감기 시작했다. 그는 더 이상 자기 치료에 대해 아무 말도 하지 않았다"
+t_book_poth_vol5_1,"마리솔이 간호 스테이션에 자전거를 세웠는데, 출근 카드를 찍기도 전에 키 크고 마른 헨리가 앞을 막아섰다. ""저기요!"" 그가 말했다. ""갑자기 찾아와서 미안해요. 그냥 저번 일 고맙다고 말하고 싶어서요."""
+t_book_poth_vol5_2,"그는 가방에 손을 넣더니, 숙소 문에 걸 수 있게 마른 줄기로 흠잡을 데 없이 엮은 화환을 꺼냈다. 마리솔은 그 바싹 마른 녹슨 빛깔의 꽃을 알아보았다. 그녀의 메밀 덤불로 만든 것이었다"
+t_book_poth_vol5_3,"헨리는 쑥스러워 보였다. ""너무 과했다면 미안해요. 제가 만든 건 아니고, 농업부에 있는 친구 다리엘이 부업으로 이런 공예를 해요. 그 덤불을 그렇게 좋아하시니까, 조금이라도 집에 가져가시면 좋을 것 같아서요."""
+t_book_poth_vol5_4,"마리솔이 고맙다고 말하기도 전에 헨리가 덧붙였다. ""정원 좋아하시죠? 전혀 부담 갖지 마시고요, 채피가 상태가 안 좋아서 자원봉사자를 찾고 있어요. 손이 많이 가는 구역인데 쓸 만한 자원도 전혀 안 나오니까, 늘 없어질 위기거든요. 잘하실 것 같아요."""
+t_book_poth_vol5_5,"헨리가 얼굴을 붉혔고, 그 순간 그는 거의 귀여워 보였다."
+t_book_poth_vol6_1,감압 훈련 경보가 계속 울려 댔다. 헨리와 마리솔은 근처 공기 대피호를 찾아 조작부를 만지작거린 끝에 안에 들어가 문을 봉인했다. 마리솔이 앓는 소리를 냈다. 지난번 훈련은 몇 시간이나 걸렸었다.
+t_book_poth_vol6_2,"마리솔은 몸을 떨었다. 에어 벙커 안은 아직 계절 정원의 ""겨울"" 공기 때문에 조금 쌀쌀했다. ""혹시… 제 코트 필요해요? 헨리가 물었다.""
+
+그녀는 잠시 머뭇거렸다. 에어 벙커에는 자체 공조 장치가 있어서 금방이라도 작동할 터였다. ""네."" 그녀는 거짓말을 했다."
+t_book_poth_vol6_3,"어색한 침묵이 길어지자, 마리솔의 머릿속은 할 만한 잡담거리를 마구 굴려 보았다. 정원? 8분쯤은 버틸지도. 윤리적인 쥐 관리? 둘 다 훈련에서 살아남으려면 좋은 생각이 아니다. 가족? 마리솔이 알기로 헨리의 아버지는 지구에 있었다면 엄마가 암살했을 법한 부류의 사람이었다."
+t_book_poth_vol6_4,"에라 모르겠다, 그녀는 속으로 생각했다. 그녀는 헨리에게 바짝 다가가 그의 턱을 감싸 쥐고 입에 입을 맞췄다."
+t_t_book_crumpled_note_1,"""...간호 스테이션에 가서... 오늘 정말 아파... 꼭 좀..."""
+t_t_book_crumpled_note_2,"""...만나... 18:00 정각에... 제발 늦지 마..."""
+t_t_book_crumpled_note_3,"""...사치품 카드 좀 살살 써... 아직 12일인데... 거의 한도야..."""
+t_t_book_crumpled_note_4,"""...그리고 하나 더... 제발 하지 마... 너랑은 정말 못 하겠어..."""
+t_t_book_crumpled_note_5,"""...조이 데려와... 탐색 스카우트에서 잘 못 지내... 하루만 더 해 보자..."""
+t_t_book_crumpled_note_6,"""...몇 년 만의 최고 축제... 꼬집기 체험... 정말 숭고해..."""
+t_t_book_crumpled_note_7,"""...발효 강습... 마법 같은 과정... 놀랍도록 효율적..."""
+t_term_file_dear_hazel_filename,dear_hazel.text
+t_term_file_dear_hazel_contents,"SUBJECT : Dear Hazel          1978/10/02
+MESSAGE : 짧게 쓸게. 노스다코타 무기고는 해체됐고, 나는 군축 위원장 임기를 마쳤어. 요즘은 '일과 삶의 균형'이라는 새로운 걸 시도하는 중이야.
+
+네 생각을 하고 있었어. 퍼걸러호에 대한 네 관심을 인정해 준 건 내가 너그러웠던 거지만, 그건 실수였어.
+
+뉴시카고의 봄은 아름다워. 새로운 것들이 지어지고 있어. 네 금도금 우주선만큼이나 혁신적인 프로젝트들이야. 나 약혼했고, 의붓아들이 생길 거야. 여덟 살이야. 돌아오면 만날 수 있어. 
+
+그 배가 집처럼 느껴지고, 별들 사이에서 죽고 싶은 거라면, 네 선택을 받아들일게. 하지만 마지막 셔틀이 떠나기 전까지는 아직 선택할 수 있어. 보고 싶어.
+
+그게 아니라면, 행운을 빌어. 
+
+-조"
+t_term_file_redwoods_filename,redwoods.text
+t_term_file_redwoods_contents,"DIARY   : ..........          1984/04/10
+그런데 지구에서 전송이 왔다. ""옛 세계"" 뉴스를 챙겨 보는 건 도토리파들 사이에서 가벼운 금기였지만, 크리스는 이따금 슬쩍 들여다보는 걸 참지 못했다. 그리고 어느 날 그녀는 재조림 계획을 알게 되었다. 
+
+오클랜드 노연정 위성 도시, 퍼걸러호가 떠날 때는 지도 위의 외딴 점에 불과했던 그곳이 레드우드 묘목을 심고 있었다. 노련한 협상 위원회가 폐허가 된 해안 땅 10만 에이커를 비무장화하고 재조림하도록 협상해 낸 것이다. 
+
+한 세기 뒤, 그녀의 어린 시절에 멸종했던 거인들이 다시 한번 그 발치에 경배하러 오는 순례자들 위로 우뚝 솟을 것이다. "
+t_term_file_squandered_bandwidth_filename,squandered_bandwidth.text
+t_term_file_squandered_bandwidth_contents,"SUBJECT : Bandwidth          2043/05/21
+MESSAGE : 보조 무선 기술자 후안 로블레입니다. 지구빔 대역폭이 충분히 활용되지 않고 있는 것에 대해 우려를 표명합니다.
+
+제가 어릴지는 몰라도, 메시지의 글자 하나하나가 귀하던 시절을 기억합니다. 제가 여덟 살 때는 대역폭 분쟁이 어찌나 심했던지 수석 기술자 마리사 H.에게 전담 경호원이 필요했습니다.
+
+오늘 위원회가 취합한 메시지는 할당량보다 무려 1킬로바이트나 모자랐습니다. 제가 견습생이던 시절 이후로 할당량을 다 채운 적이 없습니다. 저는 남는 공간을 지구의 삶에 대한 제 개인적인 질문으로 채우고 있는데, 이게 프로답지 못하다고 느끼는 사람이 저뿐이라는 게 속상합니다.
+
+교육 위원회는 중학년 교과 과정에서 지구빔의 중요성을 다시 강조해야 합니다. 이 귀중한 신호를 잃을 날이 올 것이고, 우리 손주들은 우리의 낭비를 용서하지 않을 것입니다. "
+t_term_file_festival_of_pliers_filename,festival_of_pliers.text
+t_term_file_festival_of_pliers_contents,"SUBJECT : FESTIVAL OF PLIERS  2120/09/03
+누구든지! 모두 다! 펜치 축제로 오세요! 
+
+조이고! 잡고! 돌리고! 자르고! 우리의 소박한 친구 펜치의 중요성은 아무도 부정할 수 없습니다. 
+
+양자리 공용실 4C에서 다음 행사와 함께해요: 
+- 양자리 연극회의 ""펜치!"" 초연
+- 어린이 펜치 체험관: 아이들이 안전한 감독 아래 여러 종류의 펜치를 가지고 놀 수 있어요
+- 펜치 명예의 전당: 영웅적인 궁수자리 복구 작전에 쓰인 SGTR-TOOL-PL63을 비롯한 퇴역 펜치 전시
+- 펜치 코스튬 대회, 펜치 칵테일 아워, ""꼬집기 체험"" 등 다양한 행사! "
+t_term_file_earthbeam_spillover_filename,earthbeam_spillover.text
+t_term_file_earthbeam_spillover_contents,BESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCKBESTOFLUCK
+t_term_file_treatment_of_our_guests_filename,treatment_of_our_guests.text
+t_term_file_treatment_of_our_guests_contents,"SUBJECT : Hospitality    2128/06/21
+MESSAGE : 씨앗 세대 이후 처음으로 배에 손님이 왔습니다. 완전히 새로운 사람들이요! 몇몇 분들이 그들에게 보이는 태도는 믿을 수가 없습니다. 완전히 유치해요.
+
+규칙은 아주 간단합니다. 복도에서 방문객을 마주치면 친절하게 인사하세요. 아직 서로 소개하지 않았다면 이름을 말하고 그들의 이름을 물어보세요. 
+
+식당 테이블에 그들의 자리를 마련하세요. 여덟 살 넘은 사람이라면 누구나 이미 알고 있어야 할 예절입니다.
+
+이 상황이 우리 모두에게 무척 낯설다는 건 이해합니다. 아무도 예상 못 했고, 체제에 충격이고, 등등 등등. 
+
+놀라는 건 괜찮지만, 심통 부리지는 마세요. "
+t_term_file_rationing_reminders_filename,rationing_reminders.text
+t_term_file_rationing_reminders_contents,"SUBJECT : A message from the Rationing Committee    2098/11/24
+MESSAGE : 배급 위원회에서 다음 사항을 다시 알려 드립니다:
+- 럼과 카샤사는 단체 축하 행사 때만 허용됩니다. 
+- 자투리 천이 생기는 옷 수선은 모두 의류 위원회의 승인을 받아야 합니다
+- ""가보"" 소지는 계속 금지됩니다. 물건에 정이 든 경우, ""공유 가보(Share-looms)"" 프로그램을 통해 그 물건의 ID를 본인 이름으로 등록하고 방문 권한을 받을 수 있습니다.
+우리는 좋은 본보기가 될 책임이 있다는 걸 기억하세요. 동료가 사재기하는 걸 보면, 공동체를 위험에 빠뜨리는 행동이라고 지적해야 합니다.
+
+이 궁핍한 시절이 모두에게 힘들었다는 걸 압니다. 하지만 조금만 더 버티면 됩니다. 거의 다 왔어요."
+t_term_file_cowards_filename,cowards.text
+t_term_file_cowards_contents,"겁쟁이들은 하늘로 올라가네 
+두-왑, 두-왑
+조 힐의 파이 한 조각 맛보고
+두-왑, 두-왑
+그 거지 같은 우주 요트 띄워 봐!
+두-왑, 두-왑
+항로 정하고 죽기만 기다려
+두-왑, 오 두-왑"
+t_term_file_ocean_smell_sent_filename,ocean_smell_sent.text
+t_term_file_ocean_smell_sent_contents,"EARTHBEAM TRANSMISSION ADDENDUM: SENT
+
+안녕 마저리:
+
+이번엔 지구빔 대역폭이 많이 남았어. 다들 얼마나 낭비하는지 보면 속상하지만, 그만큼 내 몫이 많아지지.
+
+""바다 질문""이 또 하나 있는데, 이번 건 더 바보 같을까 봐 걱정이야. 바다는 깨끗했어, 아니면 더러웠어? 할아버지가 언젠가 ""짭조름한 냄새"" 얘기를 했었는데, 왜 더러운 물에서 수영을 하려는 사람이 있는지 상상이 안 돼. 내가 직접 ""바닷물""을 만들어 봤는데 별 냄새가 안 나더라고. 그래서 이건 내 좋은 친구 지구 소녀한테 물어봐야겠다 싶었어.
+
+추신: 네 눈은 무슨 색이야? 너를 그려 볼까 해서. 
+
+BESTOFLUCK!
+후안"
+t_term_file_ocean_smell_received_filename,ocean_smell_received.text
+t_term_file_ocean_smell_received_contents,"안녕 후안, 바다 질문 계속 보내 줘! 
+
+이상한 답이지만 둘 다야. 개똥을 밟으면 그걸 떼어 내려고 바다에 뛰어들 수도 있으니까, 그런 의미에선 깨끗해. 하지만 바닷물은 피부에 끈적한 느낌을 남겨. 그리고 수영하다 보면 발에 젖은 모래가 묻고, 발목에 해초가 좀 감기고 그래. 냄새는 박테리아나 작은 벌레 같은 것들의 배설물 때문인 것 같아. 약간 유황 냄새가 나. 거기 위에도 유황이 있어?
+
+바다는 더러운 것 같은데, 들어가 있으면 깨끗한 느낌이야. 무슨 말인지 알지?
+
+네가 바다를 한 번도 못 봤다는 게 아직도 안 믿겨. 자신이 그렇게 작게 느껴지는 건 아주 영적인 경험이야. 하긴, 나도 우주를 본 적은 없으니, 피장파장이네.
+
+추신: 내 눈은 갈색이야 :)
+
+BESTOFLUCK, 마저리"
+t_name_creature_uproot,Uproot
+t_name_creature_uproot_bloom,Crested Uproot
+t_name_creature_uproot_bleeder,Sawleaf Uproot
+t_name_creature_root_whipper,Stranglecord
+t_name_creature_twig_snapper,Twigsnapper
+t_name_creature_drawer_fruit,Drawer Fruit
+t_name_creature_bone_spider,Rattler
+t_name_creature_tipping_cabbage,Tipping Cabbage
+t_name_creature_machine_crane,Crane
+t_name_cig,담배
+t_desc_cig,"바싹 마르고, 사향 냄새가 나며, 손가락 사이로 굴리기 좋다"
+t_uiux_demo_end_header,데모 콘텐츠 끝
+t_uiux_demo_end_content,"당신의 금속 세계는 생각했던 것보다 더 길을 잃은 듯하다.
+
+여기가 데모의 마지막 구역입니다. 의견이 있으시면 알려 주세요! 플레이해 주셔서 감사합니다."
+t_uiux_demo_end_button_wishlist,찜하기
+t_uiux_demo_end_button_feedback,피드백
+t_uiux_demo_end_button_quit,타이틀로 나가기
+t_uiux_intro_message_header,demo info.text
+t_uiux_intro_message_button_confirm,확인
+t_uiux_intro_message_body,"<b>Dandelion Void</b> 프리알파 데모에 오신 것을 환영합니다! 
+
+<b>참고:</b> 이 데모는 게임의 초기 빌드입니다. 일부 기능이 빠져 있거나 개발 중인 상태일 수 있습니다. 어떤 의견이든 들려주시면 정말 기쁘겠습니다!
+
+퍼걸러호에서 즐거운 시간 보내시길 바랍니다."
+t_term_door_intro,"PASSAGEWAY CONTROL 터미널입니다. {[1]}, {[2]}, {[3]} 같은 명령어로 문을 열고 닫으세요"
+t_term_airlock_intro,"AIRLOCK CONTROL 터미널입니다. {[1]}, {[2]} 같은 명령어로 에어록 압력을 조작하세요."
+t_term_airlock_intro_warning,파손 감지: 이 에어록과 인접한 방의 대기가 사라졌습니다! 이 에어록이 그 방의 대기 / 진공 상태와 일치해야만 들어갈 수 있습니다. 자격 있는 수리 인원 전용
+t_term_help_hint,자세한 내용은 'help {[1]}' 참고
+t_term_invalid_argument_count,"인수 {[1]}개 필요, {[2]}개 받음
+{[3]}"
+t_term_invalid_device_or_index,"장치 '{[1]}'은(는) 유효한 ID 또는 번호가 아님
+{[2]}"
+t_term_invalid_argument,"잘못된 {[1]} '{[2]}' 지정됨
+{[3]}"
+t_term_invalid_coordinates_2,"0 또는 잘못된 좌표 지정됨:
+  ( {[1]} , {[2]} )
+{[3]}"
+t_term_device_not_responding,장치 '{[1]}' 응답 없음
+t_term_argument_x,x
+t_term_argument_y,y
+t_term_argument_z,z
+t_cine_intro_cutscene_1,"""배""라는 말은 세상을 뜻하고..."
+t_cine_intro_cutscene_2,"""세상""이라는 말은 배를 뜻한다"
+t_cine_intro_cutscene_3,부모님은 끝내 그 차이를 설명하지 못했다
+t_cine_intro_cutscene_4,그러다 어느 날 당신은 처녀자리에 대해 알게 되었다...
+t_cine_intro_cutscene_5,정글이 당신을 사냥하고
+t_cine_intro_cutscene_6,걸을 때마다 벽이 흔들리는 곳
+t_cine_intro_cutscene_7,아름다움과 보물의 땅...
+t_cine_intro_cutscene_8,...그리고 확실한 죽음의 땅
+t_coco_important,이거 중요해 보이는데...
+t_desc_bed_worker,날씬하고 좋다. 친구들을 한 침실에 다 몰아넣기에 딱이다
+t_desc_bits_and_bobs,온갖 자잘한 것들!
+t_desc_book_bpsp,이 책에 묘사된 상황이 섬뜩할 만큼 낯익다. 누가 쓴 걸까?
+t_desc_book_mity,논란이 된 퍼걸러호 최초의 살인 사건에 관한 역사 에세이
+t_desc_book_obnos,지구에서 살다 죽은 핵 기술자 헤이즐 테일러에 관한 전기 소설
+t_desc_book_ruined,더 이상 들려줄 게 없다
+t_desc_book_sf,최초의 퍼걸러호 슬라임 축제를 소설로 옮긴 책
+t_desc_boring_furniture_admin,"이 가구가 사람이었다면, 지루한 사람이었을 것이다"
+t_desc_bulletin_board,손가락으로 쓸어 보기 좋은 기분 좋은 질감이 가득하다
+t_desc_cabinet_admin,이렇게 따분한 짐을 왜 이렇게 아름다운 용기에 담았을까?
+t_desc_chili_oil,어디에나... 잘 어울린다?
+t_desc_dirt,그러니까 이게... 흙(지구)?
+t_desc_fabric_roll,고쳐 쓴다는 건 아름다운 일이다
+t_desc_fridge_domestic,정말 신선하고 먹음직스럽다!
+t_desc_generic_bed_miserable,"잘 수는 있지만, 왜 굳이?"
+t_desc_generic_swivel_chair,결코 적에게 등을 보이지 않는 자를 위한 의자
+t_desc_globe_chalkboard_large,"낙서와 대충 그린 대륙으로 뒤덮인 구형 칠판. 새겨진 글귀: ""에머슨은 어떻게 생겼을 것 같아?"""
+t_desc_globe_earth_large,"추상적인 초록과 갈색 모양으로 뒤덮인 이상한 파란 구체. 새겨진 글귀: ""옛 지구"""
+t_desc_industrial_footlocker,실용적이지만 멋은 없다
+t_desc_journal_old,먼지 쌓인 낡은 일지. 몇 쪽을 빼면 전부 읽을 수 없다
+t_desc_locker_plumbing,"보통은 공구만 들어 있지만, 가끔 책이나 사람 사진이 나온다"
+t_desc_mushroom,바닥의 열매
+t_desc_ponic_tamale_palm,"잎의 껍질, 가루의 살, 야자의 피"
+t_desc_ponic_tamale_yam,"잎의 껍질, 가루의 살, 얌의 피"
+t_desc_preserved_mushroom_broth,"묽고, 감칠맛 나고, 순하다"
+t_desc_sleepingbag_cloak,침낭으로 만든 따뜻한 수의. 지퍼는 여전히 얼음장처럼 차갑다.
+t_desc_solarists_prayer,태양교도의 기도문
+t_desc_trashcan_domestic,안쪽에서 수줍은 망설임의 냄새가 난다
+t_desc_trashcan_medical_hazard,안쪽에서 불안할 만큼 사람 냄새가 난다
+t_desc_vacrate_cargo,귀중한 화물이 잘 보존된 무덤
+t_desc_vacrate_freezer,귀중한 화물이 잘 보존된 무덤
+t_desc_vacrate_medical,귀중한 화물이 잘 보존된 무덤
+t_desc_vacrate_organic,귀중한 화물이 잘 보존된 무덤
+t_desc_water_fountain,저수조와의 연결을 빼앗긴 이것은 아무것도 아니다. 완전히 쓸모없다
+t_item_detail_cookable,조리 가능
+t_item_detail_gift,선물
+t_item_detail_junk,잡동사니
+t_item_detail_trait_consume_bonus_from_gifts,> 훨씬 더 배부름 (<i>{[1]}</i>)
+t_item_detail_trait_disgusted_by_corpses,> 싫어 싫어 싫어 싫어 싫어 싫어 싫어 (<i>{[1]}</i>)
+t_item_detail_trait_food_is_more_filling,> 조금 더 배부름 (<i>{[1]}</i>)
+t_item_detail_trait_more_indigestion,> 소화가 어려움 (<i>{[1]}</i>)
+t_item_detail_trait_prefer_shirtless_shoeless_invalid,> 싫어함 (<i>{[1]}</i>)
+t_item_detail_trait_prefer_simple_reading_material_invalid,> 나한텐 좀 너무 어려워... (<i>{[1]}</i>)
+t_item_detail_trait_prefer_simple_reading_material_valid,> 쉽고 좋다 (<i>{[1]}</i>)
+t_item_detail_trait_weapon_bonus_from_gifts,> 추가 내구도 (<i>{[1]}</i>)
+t_name_apple_bolete,사과 그물버섯
+t_name_bed_domestic,침대
+t_name_bed_domestic_child,침대 (트윈)
+t_name_bed_worker,노동자 침대 (싱글)
+t_name_bench_cafeteria,식당 벤치
+t_name_better_blunt_attacks,결정타
+t_name_better_cutting_vegetation,덤불 개척자
+t_name_better_slash_attacks,벼린 칼날
+t_name_bevi_mat,음료 배급기
+t_name_black_mustard,흑겨자
+t_name_book_bpsp,큰 사람과 작은 사람들: {[1]}권
+t_name_book_mity,항해력 5년의 살인: {[1]}권
+t_name_book_ruined,망가진 책
+t_name_bookshelf_admin_tall,책장 (높은 것)
+t_name_break_weapons_randomly,손이 미끄러움
+t_name_bulletin_board,주황색 게시판
+t_name_bulletin_board_crafting,게시판 (제작)
+t_name_bulletin_board_green,게시판 (초록)
+t_name_buttonup_shirt,단추 셔츠
+t_name_cabinet_admin,사무용 캐비닛
+t_name_california_poppies,캘리포니아 양귀비
+t_name_campfire_spit_shelf,꼬치구이대 (임시)
+t_name_cant_sleep_in_bad_beds,까다로운 잠버릇
+t_name_chow_mat_pillaged,식량 배급기 (털림)
+t_name_cold_core_temperature,혈액 서리
+t_name_consume_bonus_from_gifts,사랑으로 부른 배
+t_name_couch_loveseat_rattan_domestic,등나무 2인용 소파
+t_name_counter_bar_end,바 카운터 (끝)
+t_name_dandelion,민들레
+t_name_dandelion_seeding,씨앗 맺힌 민들레
+t_name_dark_vision,올베르스의 눈
+t_name_desk_admin,사무용 책상
+t_name_dirt,흙
+t_name_disgusted_by_corpses,시체 공포증
+t_name_door,문
+t_name_door_powered,문 (전동)
+t_name_enjoys_cleaning,스트레스 청소꾼
+t_name_equip_items_faster,근육 기억
+t_name_food_is_more_filling,빵 껍질도 먹는 자
+t_name_fridge_domestic_brown,가정용 냉장고 (갈색)
+t_name_generic_metal_shelf,금속 선반
+t_name_glasses_hexrim,육각 안경
+t_name_hot_core_temperature,대동맥 열기
+t_name_hullook,Hullook
+t_name_industrial_footlocker,산업용 사물함
+t_name_insomnia,불면증
+t_name_jagged_stem_bolete,톱니줄기 그물버섯
+t_name_labworker_longsleeve,연구원 긴팔 셔츠
+t_name_labworker_skirt,연구원 치마
+t_name_less_bleeding,휘플 방호 피부
+t_name_less_exertion_from_weapons,들소 이두근
+t_name_less_lung_capacity,얕은 호흡
+t_name_locker_plumbing,작업용 사물함
+t_name_mistype,독수리 타법
+t_name_more_bleeding,여린 진피
+t_name_more_indigestion,잦은 복통
+t_name_more_lung_capacity,복식 호흡
+t_name_no_dark_vision,완전한 암흑시
+t_name_no_mistype,드보락 타자수
+t_name_pen,펜
+t_name_plant_humus,부엽토
+t_name_plumbing_bench,산업용 벤치
+t_name_ponic_root,뿌리
+t_name_prefer_shirtless_shoeless,"신발 없고, 셔츠 없고, 문제없고"
+t_name_prefer_simple_reading_material,가벼운 독서가
+t_name_reactor_crate,사용 후 연료 상자
+t_name_ridged_longsleeve,골지 긴팔 셔츠
+t_name_rug_shag_oval_brown,털 긴 러그
+t_name_shelf_bar,술 선반
+t_name_shelf_pantry_kitchen_green,식료품 선반 (초록)
+t_name_shelf_wood_library,도서관 책장
+t_name_shelf_wood_library_corner,도서관 책장 (모서리)
+t_name_slacks,사무용 슬랙스
+t_name_solarists_prayer,"존재했던 신은 오직 하나, 우리는 그녀를 ""태양""이라 부른다."
+t_name_stove_survival,캠핑 스토브
+t_name_table_display_museum,박물관 진열 테이블
+t_name_table_side_ball_colorful,알록달록한 나무 사이드 테이블
+t_name_terminal,터미널
+t_name_tool_chest,공구함
+t_name_vacrate_cargo,진공 상자 (화물)
+t_name_vacrate_freezer,진공 상자 (냉동)
+t_name_vacrate_medical,진공 상자 (의료)
+t_name_vacrate_organic,진공 상자 (유기물)
+t_name_wall_art_dappled_granary,벽 그림 (얼룩 곡물창고)
+t_name_wall_display_museum,박물관 진열장
+t_name_water_fountain,식수대
+t_name_weapon_bonus_from_gifts,정든 물건
+t_name_window_plumbing,창문
+t_stat_mistype_character_1,/
+t_stat_mistype_character_10,?
+t_stat_mistype_character_11,","
+t_stat_mistype_character_12,
+t_stat_mistype_character_13,:
+t_stat_mistype_character_2,+
+t_stat_mistype_character_3,}
+t_stat_mistype_character_4,(
+t_stat_mistype_character_5,*
+t_stat_mistype_character_6,%
+t_stat_mistype_character_7,!
+t_stat_mistype_character_8,-
+t_stat_mistype_character_9,=
+t_stat_mistype_description_1,가벼운 타자 장애
+t_stat_mistype_dirt_1,.dirt
+t_stat_mistype_dirt_2,dirt..
+t_stat_mistype_dirt_3,&dirt
+t_stat_mistype_dirt_4,dirt&
+t_stat_mistype_dirt_5,.soil
+t_stat_mistype_dirt_6,(soil'
+t_stat_mistype_dirt_7,soil.
+t_stat_mistype_dirt_8,.soil&
+t_stat_mistype_name_1,가벼운 오타
+t_uiux_audio_player_play,재생
+t_uiux_audio_player_stop,정지
+t_uiux_saveload_save,저장
+t_uiux_saveload_load,불러오기
+t_uiux_saveload_delete,저장 삭제
+t_uiux_saveload_delete_confirm,정말 저장을 삭제할까요?
+t_uiux_saveload_delete_confirm_yes,"네, 삭제"
+t_uiux_saveload_delete_confirm_no,돌아가기
+t_uiux_credits_animation,애니메이션_
+t_uiux_credits_animation_additional,추가 애니메이션_
+t_uiux_credits_animation_rigging,애니메이션 리깅_
+t_uiux_credits_art,아트_
+t_uiux_credits_art_additional,추가 아트_
+t_uiux_credits_art_technical,테크니컬 아트_
+t_uiux_credits_art_technical_additional,추가 테크니컬 아트_
+t_uiux_credits_audio,오디오_
+t_uiux_credits_audio_additional,추가 오디오_
+t_uiux_credits_community,커뮤니티_
+t_uiux_credits_design,디자인_
+t_uiux_credits_engineering,엔지니어링_
+t_uiux_credits_engineering_additional,추가 엔지니어링_
+t_uiux_credits_finance,재무_
+t_uiux_credits_legal,법무_
+t_uiux_credits_localization,현지화_
+t_uiux_credits_localization_additional,추가 현지화_
+t_uiux_credits_marketing,마케팅_
+t_uiux_credits_music,음악_
+t_uiux_credits_narrative,내러티브_
+t_uiux_credits_playtesting,플레이테스트_
+t_uiux_credits_playtesting_additional,추가 플레이테스트_
+t_uiux_credits_production,프로덕션_
+t_uiux_credits_production_additional,추가 프로덕션_
+t_uiux_credits_quality_assurance,품질 보증_
+t_uiux_credits_special_thanks,특별히 감사한 분들_
+t_uiux_detail_cooling,냉각 {[1]}
+t_uiux_detail_warming,보온 {[1]}
+t_weap_detail_blunt,타격
+t_weap_detail_damage_and_type,{[1]} {[2]}
+t_weap_detail_long_blade,긴
+t_weap_detail_long_blunt,긴
+t_weap_detail_short_blade,짧은
+t_weap_detail_short_blunt,짧은
+t_weap_detail_slash,베기
+t_name_wooden_rod,나무 막대
+t_desc_wooden_rod,손에 쥐는 묵직함이 기분 좋다
+t_desc_ball_yarn,부드러운 섬유 내장을 둘둘 말아 놓은 것
+t_desc_generic_crib,하지만 그건 아주 오래전 일이다...
+t_desc_bed_hospital,오래 머물 곳은 아니다
+t_desc_cargo_baggy_pants_black,!!!!t_desc_generic_pants
+t_desc_device_pressure_scope_wall,좁은 틈 안을 들여다보는 용도
+t_desc_drawer_corpse_mortuary,마지막 안식
+t_desc_generic_glasses,들여다보는 데 쓰인다
+t_desc_juice_bottle_square,액체 과일
+t_desc_lighter,내 명령을 따르는 작은 불꽃
+t_desc_machine_lung_room,!!!!NONE
+t_desc_mat_nonslip_industrial_kitchen,단단히 붙잡아 준다
+t_desc_needles_knit,무디고 무력하다
+t_desc_radio_stand,여러 목소리가 곁에 있어 준다
+t_desc_shelf_pantry_kitchen,먹을 걸 찾아보자!
+t_desc_sign_oxygen_vacuum,세상에서 가장 중요한 표지판
+t_desc_space_helmet_test,"아무것도 들어오지 않고, 아무것도 나가지 않는다"
+t_desc_table_ball,술 취한 목수의 걸작
+t_desc_display_museum_empty,"이상하든 평범하든, 그림도 이야기도 하나 없이 비어 있다"
+t_desc_display_museum_earthsci,아예 존재하지 않았을지도 모를 이상한 생물과 장소로 가득하다
+t_desc_display_museum_history,아예 존재하지 않았을지도 모를 이상한 사람과 건축물로 가득하다
+t_desc_display_museum_space,아예 존재하지 않았을지도 모를 이상한 별과 구체로 가득하다
+t_desc_tv_cart_domestic,아래 바퀴 덕분에 원하는 사람 누구에게든 끌고 갈 수 있다
+t_name_computer_navigation,항법링크 터미널
+t_name_machine_lung_room,허파
+t_name_sign_oxygen_vacuum,대기 상태 모니터
+t_name_tape_player,테이프 플레이어
+t_desc_tape_player,침묵이 두려운 이들을 위해
+t_desc_tape_player_raspberry,"카세트에 ""라즈베리 배큠""이라고 쓰여 있다"
+t_name_vine_obstacle,덩굴 덩어리
+t_name_book_wildskoller_twigsnapper,"Twigsnapper: 전해지기를, 실제로는, 내가 본 바"
+t_desc_book_wildskoller_twigsnapper,twigsnapper의 자연사
+t_name_book_wildskoller_tipping_cabbage,"Tipping Cabbage: 전해지기를, 실제로는, 내가 본 바"
+t_desc_book_wildskoller_tipping_cabbage,Tipping Cabbage의 자연사
+t_name_book_wug_program,노동자 연합 정부 강령 서문
+t_desc_book_wug_program,"""인간의 모든 노력은 집단적이다"""
+t_name_book_declaration_of_unity,미국 통합 선언
+t_desc_book_declaration_of_unity,충성파 주들에 어두운 전환점이 된 (악)명 높은 연설
+t_name_book_poth_1,마음의 가지치기: 1권
+t_name_book_poth_2,마음의 가지치기: 2권
+t_name_book_poth_3,마음의 가지치기: 3권
+t_name_book_poth_4,마음의 가지치기: 4권
+t_name_book_poth_5,마음의 가지치기: 5권
+t_name_book_poth_6,마음의 가지치기: 6권
+t_desc_book_poth,"모든 정원을, 그리고 한 정원사를 사랑한 마리솔 플로레스의 전기 소설"
+t_name_mug_empty,머그잔
+t_desc_mug_empty,"원하는 만큼 물이 담기지 않고, 손잡이 때문에 배낭에 넣기도 애매하다."
+t_name_orrery_generation_dolmen,세대의 고인돌
+t_name_generic_counter,카운터
+t_name_door_blocking_vine,두꺼운 덩굴
+t_name_door_unpowered,문 (전원 없음)
+t_name_door_stuck,문 (끼임)
+t_uiux_debug_console_welcome,"Dandelion Void 디버그 콘솔에 오신 것을 환영합니다! 자세한 내용은 help()를 입력하거나, {[1]}을(를) 눌러 닫으세요"
+t_uiux_debug_console_language_warning,참고: 디버그 콘솔 출력은 영어로만 제공됩니다
+t_uiux_no_save_load_in_demo,참고: 이 데모에서는 저장 / 불러오기를 사용할 수 없습니다. 게임을 끄면 진행 상황이 사라집니다.
+t_uiux_no_save_load_in_demo_understood,취소
+t_uiux_join_discord,Discord 참여하기
+t_uiux_wishlist_on_steam,스팀 찜하기
+t_tutl_weapontypes_header,무기 종류_
+t_tutl_weapontypes_body,"무기마다 어울리는 상황이 다릅니다.
+
+무기가 베기 피해를 주는지 타격 피해를 주는지 잘 보세요
+
+생물과 사물은 특정 피해 유형에 저항이 있을 수 있습니다"
+t_uiux_character_preset_label,프리셋 {[1]}
+t_uiux_verb_cleanup_tool_sponge,닦기
+t_uiux_grime_category_dust,먼지
+t_uiux_grime_category_algae,조류
+t_uiux_character_creation_header_character,캐릭터:
+t_uiux_character_creation_preset_label,프리셋 {[1]}
+t_uiux_character_creation_returntotitle,타이틀로 돌아가기
+t_uiux_character_creation_backstep,이전
+t_uiux_character_creation_nextstep,다음
+t_uiux_character_creation_startgame,게임 시작
+t_uiux_character_creation_pointcostlabel,포인트:
+t_uiux_character_creation_statsheader,능력치
+t_uiux_settings_new_language_restart_info,새 언어를 적용하려면 재시작하세요:
+t_uiux_settings_exit,나가기
+t_uiux_settings_apply_prompt,[적용]
+t_uiux_settings_restart_prompt,[재시작]
+t_uiux_settings_rebind_prompt,[키 변경]
+t_uiux_loading_complete,완료!
+t_uiux_pause_option_resume,계속하기
+t_uiux_pause_option_quit_to_character_creator,캐릭터 생성으로 나가기
+t_uiux_pause_option_quit_to_title,타이틀 메뉴로 나가기
+t_uiux_pause_option_quit_to_desktop,바탕화면으로 나가기
+t_uiux_cinematic_skip,건너뛰기
+t_uiux_controls_reference_header_navigate,이동
+t_uiux_controls_reference_control_movement,이동
+t_uiux_controls_reference_control_sprint,달리기
+t_uiux_controls_reference_control_camera_left,카메라 왼쪽
+t_uiux_controls_reference_control_camera_right,카메라 오른쪽
+t_uiux_controls_reference_control_zoom,확대/축소
+t_uiux_controls_reference_header_interact,상호작용
+t_uiux_controls_reference_control_open_door,문 열기
+t_uiux_controls_reference_control_inventory,인벤토리 & 획득
+t_uiux_controls_reference_control_context_menu,상황 메뉴
+t_uiux_controls_reference_control_rotate_furniture,가구 회전
+t_uiux_controls_reference_header_combat,전투
+t_uiux_controls_reference_control_aim,조준
+t_uiux_controls_reference_control_attack,공격
+t_uiux_controls_reference_header_terminal,터미널
+t_uiux_controls_reference_control_terminal_type,입력
+t_uiux_controls_reference_control_terminal_execute,실행
+t_uiux_controls_reference_control_terminal_exit,나가기
+t_uiux_inventory_tab_show_equipped_items,eqpt
+t_uiux_inventory_tab_show_player_stats,stat
+t_uiux_inventory_tab_open_interface_crafting,crft
+t_uiux_inventory_tab_open_interface_cooking,cook
+t_uiux_inventory_tab_open_interface_charging,chrg
+t_uiux_inventory_tab_open_interface_unknown,unkn
+t_uiux_personal_status_header,개인 상태
+t_uiux_personal_status_overall,종합 상태: {[1]}
+t_uiux_drop,버리기
+t_uiux_pickup,줍기
+t_uiux_sitdown,앉기
+t_uiux_sleep_with_quality,자기 ({[1]})
+t_uiux_sleep_with_quality_dirty,"자기 ({[1]}, 더러움)"
+t_uiux_bed_quality_best,아주 포근함
+t_uiux_bed_quality_good,편안함
+t_uiux_bed_quality_bad,불편함
+t_uiux_bed_quality_worst,끔찍함
+t_uiux_consume_verb_smoke,피우기
+t_uiux_consume_verb_eat,먹기
+t_uiux_consume_verb_drink,마시기
+t_uiux_consume_verb_heal,치료
+t_uiux_consume_verb_staunch_bleeding,지혈
+t_uiux_consume_verb_read,읽기
+t_item_detail_drinkable,마실 수 있음
+t_item_detail_edible,먹을 수 있음
+t_item_detail_readable,읽을 수 있음
+t_item_detail_fillable,채울 수 있음
+t_name_stat_health_1,죽었거나 죽어 감
+t_desc_stat_health_1,무생물의 해방이 나를 부른다...
+t_name_stat_health_2,죽어 감
+t_desc_stat_health_2,이 세상에 오래 머물지 못할 것 같아
+t_name_stat_health_3,만신창이
+t_desc_stat_health_3,"아직 서 있지만, 간신히"
+t_name_stat_health_4,아픔
+t_desc_stat_health_4,뭔가 잘못됐어
+t_name_stat_health_5,건강함
+t_desc_stat_health_5,건강 상태 양호
+t_name_stat_comfort_1,보통 안락함
+t_desc_stat_comfort_1,편하지도 불편하지도 않다
+t_name_stat_comfort_2,자리 잡는 중
+t_desc_stat_comfort_2,여기 좀 마음에 드는데...
+t_name_stat_comfort_3,편안함
+t_desc_stat_comfort_3,여기 편하다!
+t_name_stat_comfort_4,아늑함
+t_desc_stat_comfort_4,이제 좀 아늑하네
+t_name_stat_comfort_5,더없이 아늑함
+t_desc_stat_comfort_5,집에 온 것 같아...
+t_name_stat_dirt_hunger_1,흙 만족
+t_desc_stat_dirt_hunger_1,흙에 대한 허기가 채워졌어
+t_name_stat_dirt_hunger_2,갈망 없음
+t_desc_stat_dirt_hunger_2,흙을 먹는다고? 내가 왜!
+t_name_stat_dirt_hunger_3,출출함... 흙이?
+t_desc_stat_dirt_hunger_3,흙 맛있을 것 같은데...
+t_name_stat_dirt_hunger_4,배고픔... 흙이
+t_desc_stat_dirt_hunger_4,따뜻하고 향긋한 흙을 삼키고 싶어...
+t_name_stat_dirt_hunger_5,흙에 굶주림
+t_desc_stat_dirt_hunger_5,흙 흙 흙 흙
+t_name_stat_dirt_hunger_6,흙 없으면 죽을 것 같음
+t_desc_stat_dirt_hunger_6,흙이 너무 먹고 싶어 죽겠어
+t_name_stat_core_temperature_1,저체온증
+t_desc_stat_core_temperature_1,온몸에 감각이 없어
+t_name_stat_core_temperature_2,얼어붙음
+t_desc_stat_core_temperature_2,떨림이... 멈추지... 않아...
+t_name_stat_core_temperature_3,추움
+t_desc_stat_core_temperature_3,춥고 몸이 둔해
+t_name_stat_core_temperature_4,쌀쌀함
+t_desc_stat_core_temperature_4,기분 나쁘게 으슬으슬해
+t_name_stat_core_temperature_5,적정 체온
+t_desc_stat_core_temperature_5,덥지도 춥지도 않다
+t_name_stat_boredom_1,집중
+t_desc_stat_boredom_1,아무것도 날 방해할 수 없어
+t_name_stat_boredom_2,산만함
+t_desc_stat_boredom_2,뭔가 재밌는 걸 하고 싶어
+t_name_stat_boredom_3,지루해지는 중
+t_desc_stat_boredom_3,정말 뭔가 즐길 거리가 필요해
+t_name_stat_boredom_4,지루함
+t_desc_stat_boredom_4,놀 거리가 너무 간절해
+t_name_stat_boredom_5,지루해 죽겠음
+t_desc_stat_boredom_5,일만 하고 놀지 못하니 미칠 것 같아!
+t_name_stat_fatigue_1,푹 쉼
+t_desc_stat_fatigue_1,잘 잤다
+t_name_stat_fatigue_2,졸림
+t_desc_stat_fatigue_2,낮잠 자면 좋겠다
+t_name_stat_fatigue_3,피곤함
+t_desc_stat_fatigue_3,긴 하루였어
+t_name_stat_fatigue_4,아주 피곤함
+t_desc_stat_fatigue_4,눈을 뜨고 있기도 힘들어
+t_name_stat_fatigue_5,녹초
+t_desc_stat_fatigue_5,너무... 피곤해...
+t_name_stat_hunger_1,배부름
+t_desc_stat_hunger_1,배가 부르다
+t_name_stat_hunger_2,출출함
+t_desc_stat_hunger_2,뭐 좀 먹어도 되겠다
+t_name_stat_hunger_3,배고픔
+t_desc_stat_hunger_3,지금은 먹을 생각밖에 안 나
+t_name_stat_hunger_4,굶주림
+t_desc_stat_hunger_4,너무 굶주려서 움직이기도 힘들어
+t_name_stat_hunger_5,아사 직전
+t_desc_stat_hunger_5,몸이 스스로를 갉아먹는 게 느껴져
+t_name_stat_bleed_1,안정
+t_desc_stat_bleed_1,출혈 없음
+t_name_stat_bleed_2,가벼운 출혈
+t_desc_stat_bleed_2,붉고 따뜻하다
+t_name_stat_bleed_3,출혈
+t_desc_stat_bleed_3,가는 곳마다 피를 흘리고 있어
+t_name_stat_bleed_4,심한 출혈
+t_desc_stat_bleed_4,피가 콸콸 쏟아져
+t_name_stat_bleed_5,과다 출혈
+t_desc_stat_bleed_5,터진 파이프처럼 흘러나와
+t_name_stat_thirst_1,갈증 해소
+t_desc_stat_thirst_1,갈증이 풀렸다
+t_name_stat_thirst_2,목마름
+t_desc_stat_thirst_2,물 좀 마시면 좋겠다
+t_name_stat_thirst_3,바싹 마름
+t_desc_stat_thirst_3,더 이상 물 없이 버티면 안 돼
+t_name_stat_thirst_4,탈수
+t_desc_stat_thirst_4,몸이 처지고 기운이 없어
+t_name_stat_thirst_5,탈수로 죽어 감
+t_desc_stat_thirst_5,물... 물이 필요해...
+t_name_stat_indigestion_1,편안한 배
+t_desc_stat_indigestion_1,배가 편하면 엉덩이도 편하다
+t_name_stat_indigestion_2,약간의 소화불량
+t_desc_stat_indigestion_2,속이 좀 불편해
+t_name_stat_indigestion_3,위경련
+t_desc_stat_indigestion_3,속이 예민해
+t_name_stat_indigestion_4,경련과 메스꺼움
+t_desc_stat_indigestion_4,배가 아파 죽겠어
+t_name_stat_rat_milk_1,쥐 젖 안 마심
+t_desc_stat_rat_milk_1,입맛이 평소와 같다
+t_name_stat_rat_milk_2,쥐 젖을 마셔 버렸다
+t_desc_stat_rat_milk_2,이상한 뒷맛이 남아 있다
+t_term_bscr_intro_welcome,"<b>MuICO.SAID</b>: 안녕하세요 손님,
+마지막 로그인 후 44640일이 지났습니다,
+다시 오신 것을 환영합니다!"
+t_term_bscr_intro_ready_help,"입력 대기 중...
+시작하려면 ""help""를 입력하세요"
+t_term_bscr_intro_welcome_returning,"다시 오신 것을 환영합니다! 명령어를 입력하세요. 시작하려면 ""help""를 참고하세요."
+t_term_more_info_hint,자세한 정보는 'help'와 명령어 이름을 입력하세요 (예: 'help list')
+t_term_help_command_category_devices,장치
+t_term_help_command_category_filesystem,파일 시스템
+t_term_help_command_category_astrogation,천문 항법
+t_term_help_command_category_utility,유틸리티
+t_term_help_command_category_internal,내부
+t_term_help_command_category_none,기타
+t_term_cinp_clearing_input,입력 지우는 중...
+t_term_cscr_clearing_screen,화면 지우는 중...
+t_term_dvcs_outputheader,연결된 장치 목록...
+t_term_dvcs_nonefound,연결된 장치 0개 발견
+t_term_read_help,파일 내용 출력
+t_term_file_not_found,"파일 또는 디렉터리를 찾을 수 없음:
+{[1]}"
+t_term_listing_directory,디렉터리 목록 출력 중...
+t_term_listing_file,파일 목록 출력 중...
+t_term_device_cannot_be_closed,장치 '{[1]}'을(를) 닫을 수 없음
+t_term_door_cannot_be_opened_in_operation,"문 '{[1]}' 열 수 없음, 작동 중"
+t_term_door_is_already_opened,문 '{[1]}' 이미 열려 있음
+t_term_device_1_argument_failure,"인수 1개(대상 장치의 포트 또는 ID) 필요, {[1]}개 받음
+  예: '{[2]} 1' 또는 '{[2]} AAD00"
+t_term_pssr_argument_failure,"인수 2개 필요: 
+1, 에어록의 포트 또는 ID, 그리고 
+2, 목표 에어록 상태 (재가압은 'atmosphere', 감압은 'vacuum')"
+t_term_pssr_not_an_airlock_failure,장치 {[1]}은(는) 에어록이 아님
+t_term_pssr_doors_open_failure,에어록을 작동하려면 모든 문을 닫아야 합니다
+t_term_pssr_already_pressurized_failure,에어록이 이미 가압되어 있습니다!
+t_term_pssr_already_depressurized_failure,에어록이 이미 감압되어 있습니다!
+t_term_pssr_bad_target_state_failure,"잘못된 두 번째 인수: 재가압은 'atmosphere', 감압은 'vacuum'만 입력하세요"
+t_term_pssr_pressurizing,가압 중!
+t_term_pssr_depressurizing,감압 중!
+t_term_exit_goodbye,안녕히 가세요!
+t_term_nvrp_multi_param_warning,"이제 nvrp에는 숫자 매개변수가 필요합니다. 
+'1': 첫 번째 여정 (보관됨)
+'2': 두 번째 여정 (진행 중)
+
+수석 항법사 메모: 항법링크는 원래 여러 여정을 지원하도록 설계되지 않았습니다. 임시방편으로 끼워 넣었으니, 소프트웨어를 살살 다뤄 주시고 nved 명령은 세 번씩 확인해 주세요"
+t_term_nvrp_journey_1_summary,"여정 1 정보: 
+목적지까지 남은 시간: 0년 0개월 0일
+상태: 도착
+에머슨까지 거리: <ERRO: OVERFLOW>
+
+메모: 안녕! 나는 줄리 루이스, 도토리 공동체 항법 기술팀 프로그래머야 (어쩌면 너의 고조의 고조할머니일지도). 이 비밀 메시지가 떴다면, 무사히 에머슨에 착륙했다는 뜻이야. 축하해! 
+
+지금 지구는 꽤 난리인데, 네가 이걸 읽을 때쯤 난 이미 죽은 지 한참이겠지만, 너희가 무사히 도착해서 새 출발을 하게 됐다는 걸 아는 건 나한테 정말 큰 의미야."
+t_term_nvrp_journey_2_summary,"여정 2 정보:
+목적지까지 남은 시간: <ERRO: OVERFLOW>년 <ERRO: OVERFLOW>개월 <ERRO: OVERFLOW>일
+상태: FUBAR
+아스투스까지 거리: <ERRO: OVERFLOW>
+
+경고: 잘못된 방위!
+경고: 목적지 지나침! 즉시 감속하십시오!
+경고: 감속 실패!
+
+수석 항법사 메모: 이건 우리 항법팀끼리만 아는 걸로. 절대 대중에게 알리지 말 것. 아직 고칠 수 있다.
+
+추가: ELC 기지에 무전하지 말 것. 그쪽에서 해 줄 말은 ""내가 뭐랬어""뿐일 테니까."
+t_term_nved_welcome,NavEdit에 오신 것을 환영합니다!
+t_term_nved_readonly,이 항법링크 터미널은 READONLY 접근으로 제한되어 있습니다. 접근 등급을 변경하려면 수석 항법사에게 요청서를 제출하세요.
+t_term_nver_intro,다음 오류를 검토하세요. 견습생과 준직원은 반드시 감독자가 함께 있어야 합니다.
+t_term_nver_error_overflow,<ERROR BUFFER OVERFLOW>
+t_name_airlock_canary,대기 감지 카나리아
+t_uiux_continue,계속
+t_uiux_cleanup_obstructed,막혀 있음
+t_uiux_credits_audio_lead,오디오 리드_
+t_uiux_credits_character_rigging,캐릭터 리깅_
+t_uiux_credits_sound_design,사운드 디자인_
+t_uiux_credits_sound_design_additional,추가 사운드 디자인_
+t_uiux_death_screen_you_died,사망했습니다
+t_uiux_death_screen_time_survived,{[1]}일 {[2]}시간 {[3]}분 생존
+t_uiux_place_furniture,배치
+t_uiux_pause_option_save_and_quit_to_title,저장 후 타이틀로 나가기
+t_uiux_pause_option_save_and_quit_to_desktop,저장 후 바탕화면으로 나가기
+t_uiux_pause_option_send_feedback,피드백 보내기
+t_uiux_equip_slot_back,등
+t_uiux_equip_slot_hip_left,허리.좌
+t_uiux_equip_slot_hip_right,허리.우
+t_uiux_equip_slot_group_head,머리
+t_uiux_equip_slot_helmet,헬멧
+t_uiux_equip_slot_cap,모자
+t_uiux_equip_slot_mask,마스크
+t_uiux_equip_slot_ears,귀
+t_uiux_equip_slot_eyes,눈
+t_uiux_equip_slot_neck,목
+t_uiux_equip_slot_group_suit,슈트
+t_uiux_equip_slot_group_feet,발
+t_uiux_equip_slot_shoes,신발
+t_uiux_equip_slot_socks,양말
+t_uiux_equip_slot_group_legs,다리
+t_uiux_equip_slot_legs_outer,겉
+t_uiux_equip_slot_legs_middle,중간
+t_uiux_equip_slot_legs_under,속
+t_uiux_equip_slot_group_hands,손
+t_uiux_equip_slot_wrist_left,손목.좌
+t_uiux_equip_slot_wrist_right,손목.우
+t_uiux_equip_slot_gloves,장갑
+t_uiux_equip_slot_rings_left,반지.좌
+t_uiux_equip_slot_rings_right,반지.우
+t_uiux_equip_slot_group_torso,몸통
+t_uiux_equip_slot_torso_outer,겉
+t_uiux_equip_slot_torso_middle,중간
+t_uiux_equip_slot_torso_under,속
+t_uiux_equip_slot_group_packs,가방
+t_uiux_equip_slot_packs_chest,가슴
+t_uiux_equip_slot_packs_waist,허리
+t_uiux_watch_display_day_count,일차
+t_uiux_key_bind_sit,앉기
+t_uiux_pause_menu_header,일시정지
+t_uiux_equip_slot_group_weapons,무기
+t_term_ncmd_invalid_command_entered,"'{[1]}' 명령어 없음
+명령어 목록은 'help' 입력"
+t_uiux_settings_language_ko-KR,한국어
